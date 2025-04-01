@@ -23,7 +23,7 @@ Thumbs.db
 .vscode/
 
 # Testing artifacts
-testing/cache/
+app/cache/
 
 # Pytest cache
 .pytest_cache/

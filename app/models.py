@@ -1,7 +1,16 @@
 from sqlalchemy import (
-    Column, Integer, String, Text, Float, Boolean, ForeignKey, DateTime
+    JSON,
+    Column,
+    Integer,
+    String,
+    Text,
+    Float,
+    Boolean,
+    ForeignKey,
+    DateTime,
 )
-from sqlalchemy.dialects.postgresql import UUID, ARRAY
+from sqlalchemy.dialects.postgresql import UUID as PG_UUID, ARRAY
+from uuid import UUID  # Python's UUID
 from sqlalchemy.orm import relationship, Mapped, mapped_column
 from datetime import datetime
 from app.db import Base
@@ -11,10 +20,12 @@ class Card(Base):
     __tablename__ = "cards"
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    scryfall_id: Mapped[UUID] = mapped_column(unique=True, nullable=False)
+    scryfall_id: Mapped[UUID] = mapped_column(
+        PG_UUID(as_uuid=True), unique=True, nullable=False
+    )
     name: Mapped[str] = mapped_column(Text, nullable=False)
     set_name: Mapped[str] = mapped_column(Text, nullable=False)
-    image_url: Mapped[str] = mapped_column(Text)
+    image_url: Mapped[str] = mapped_column(Text, nullable=True)
 
     # Scryfall enrichment
     mana_cost: Mapped[str] = mapped_column(Text, nullable=True)
@@ -63,3 +74,19 @@ class Listing(Base):
     # Relationships
     seller: Mapped["Seller"] = relationship("Seller", back_populates="listings")
     card: Mapped["Card"] = relationship("Card", back_populates="listings")
+
+
+class ScryfallCard(Base):
+    __tablename__ = "scryfall_cards"
+
+    id = Column(Integer, primary_key=True)
+    scryfall_id = Column(String, unique=True, nullable=False)
+    name = Column(String, nullable=False)
+    set_name = Column(String, nullable=False)
+    image_url = Column(String, nullable=True)
+    mana_cost = Column(String, nullable=True)
+    mana_value = Column(Integer, nullable=True)
+    types = Column(JSON, default=[])
+    power = Column(String, nullable=True)
+    toughness = Column(String, nullable=True)
+    legality = Column(JSON, default=[])
