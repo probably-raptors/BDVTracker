@@ -37,3 +37,8 @@ coverage.xml
 .mypy_cache/
 .dmypy.json
 .pyre/
+
+# Alembic config
+alembic.ini
+
+migrations/
