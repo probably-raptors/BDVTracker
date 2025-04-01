@@ -1,0 +1,39 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# macOS and Linux system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# VSCode settings (optional)
+.vscode/
+
+# Testing artifacts
+testing/cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+.cache
+
+# MyPy and other tooling
+.mypy_cache/
+.dmypy.json
+.pyre/
