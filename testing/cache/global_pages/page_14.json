@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 10521,
+      "item_details": {
+        "scryfall_id": "2047bfa4-3f4d-47bd-9484-545686f15b75",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/0/2047bfa4-3f4d-47bd-9484-545686f15b75.jpg?1608908659",
+        "card_name": "Alharu, Solemn Ritualist",
+        "set_name": "Commander Legends",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/2047bfa4-3f4d-47bd-9484-545686f15b75/"
+      },
+      "available_units": 7
+    },
+    {
+      "id": 169400,
+      "item_details": {
+        "scryfall_id": "3fdf5020-ea97-4f95-a096-cb5688dad2e2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/f/3fdf5020-ea97-4f95-a096-cb5688dad2e2.jpg?1689995476",
+        "card_name": "Alharu, Solemn Ritualist",
+        "set_name": "Commander Masters",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/3fdf5020-ea97-4f95-a096-cb5688dad2e2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 47317,
+      "item_details": {
+        "scryfall_id": "92191f72-e3d7-4679-97a2-f0c2d19d7738",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/2/92191f72-e3d7-4679-97a2-f0c2d19d7738.jpg?1587911197",
+        "card_name": "Ali Baba",
+        "set_name": "Fourth Edition",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/92191f72-e3d7-4679-97a2-f0c2d19d7738/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 41209,
+      "item_details": {
+        "scryfall_id": "7f711ea8-a73a-42da-8bf7-101ba588f203",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/f/7f711ea8-a73a-42da-8bf7-101ba588f203.jpg?1562587743",
+        "card_name": "Aliban's Tower",
+        "set_name": "Homelands",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7f711ea8-a73a-42da-8bf7-101ba588f203/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 69693,
+      "item_details": {
+        "scryfall_id": "d66e94b9-23f6-45a8-97bd-602e3aaa6711",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/6/d66e94b9-23f6-45a8-97bd-602e3aaa6711.jpg?1562588255",
+        "card_name": "Aliban's Tower",
+        "set_name": "Homelands",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/d66e94b9-23f6-45a8-97bd-602e3aaa6711/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 82153,
+      "item_details": {
+        "scryfall_id": "fd2fc2d4-c4fb-4dcb-93fa-aaf8c1182f15",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/d/fd2fc2d4-c4fb-4dcb-93fa-aaf8c1182f15.jpg?1674185810",
+        "card_name": "Alibou, Ancient Witness",
+        "set_name": "Commander 2021",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $5.00",
+        "detail_url": "/game-item/fd2fc2d4-c4fb-4dcb-93fa-aaf8c1182f15/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 204848,
+      "item_details": {
+        "scryfall_id": "cd66f10d-6fc4-4510-818c-96d29b425052",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/d/cd66f10d-6fc4-4510-818c-96d29b425052.jpg?1708696919",
+        "card_name": "Alien",
+        "set_name": "Fallout Tokens",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/cd66f10d-6fc4-4510-818c-96d29b425052/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 62663,
+      "item_details": {
+        "scryfall_id": "c0ef436b-e82e-4e1f-9da0-5e35f0c37bde",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/0/c0ef436b-e82e-4e1f-9da0-5e35f0c37bde.jpg?1562940554",
+        "card_name": "Aligned Hedron Network",
+        "set_name": "Battle for Zendikar",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/c0ef436b-e82e-4e1f-9da0-5e35f0c37bde/"
+      },
+      "available_units": 68
+    },
+    {
+      "id": 12700,
+      "item_details": {
+        "scryfall_id": "26f9ebbe-3791-4d19-88d2-d5de95faff48",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/6/26f9ebbe-3791-4d19-88d2-d5de95faff48.jpg?1581479280",
+        "card_name": "Alirios, Enraptured",
+        "set_name": "Theros Beyond Death",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/26f9ebbe-3791-4d19-88d2-d5de95faff48/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 71350,
+      "item_details": {
+        "scryfall_id": "db84415e-048a-4cfc-9121-5ae17a412198",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/b/db84415e-048a-4cfc-9121-5ae17a412198.jpg?1562935990",
+        "card_name": "Alive // Well",
+        "set_name": "Dragon's Maze",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/db84415e-048a-4cfc-9121-5ae17a412198/"
+      },
+      "available_units": 142
+    },
+    {
+      "id": 9884,
+      "item_details": {
+        "scryfall_id": "1e30c6a4-62c4-444a-8c4c-a73d8f59b276",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/e/1e30c6a4-62c4-444a-8c4c-a73d8f59b276.jpg?1573504622",
+        "card_name": "All Is Dust",
+        "set_name": "Mystery Booster",
+        "rarity": "Rare",
+        "display_price": "Starting at: $4.00",
+        "detail_url": "/game-item/1e30c6a4-62c4-444a-8c4c-a73d8f59b276/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 62604,
+      "item_details": {
+        "scryfall_id": "c0c9f6dd-308e-4c91-8bcc-975d273a0a33",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/0/c0c9f6dd-308e-4c91-8bcc-975d273a0a33.jpg?1562266931",
+        "card_name": "All Is Dust",
+        "set_name": "Modern Masters 2015",
+        "rarity": "Rare",
+        "display_price": "Starting at: $4.00",
+        "detail_url": "/game-item/c0c9f6dd-308e-4c91-8bcc-975d273a0a33/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 32105,
+      "item_details": {
+        "scryfall_id": "62dba377-7446-4517-a504-ee04568fd6cf",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/2/62dba377-7446-4517-a504-ee04568fd6cf.jpg?1562704420",
+        "card_name": "All Is Dust",
+        "set_name": "Rise of the Eldrazi",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $13.50",
+        "detail_url": "/game-item/62dba377-7446-4517-a504-ee04568fd6cf/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 62507,
+      "item_details": {
+        "scryfall_id": "c07620a1-dc3f-49a7-b2e9-aaff19faa85a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/0/c07620a1-dc3f-49a7-b2e9-aaff19faa85a.jpg?1562252694",
+        "card_name": "All Shall Smolder in My Wake",
+        "set_name": "Archenemy Schemes",
+        "rarity": "Common",
+        "display_price": "Starting at: $5.00",
+        "detail_url": "/game-item/c07620a1-dc3f-49a7-b2e9-aaff19faa85a/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 67264,
+      "item_details": {
+        "scryfall_id": "cefabea5-b6f0-46f4-a1a5-037c2482b979",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/e/cefabea5-b6f0-46f4-a1a5-037c2482b979.jpg?1562879810",
+        "card_name": "All Suns' Dawn",
+        "set_name": "Fifth Dawn",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/cefabea5-b6f0-46f4-a1a5-037c2482b979/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 8022,
+      "item_details": {
+        "scryfall_id": "1885670d-0984-4a90-b8c4-a977570924f7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/8/1885670d-0984-4a90-b8c4-a977570924f7.jpg?1632145976",
+        "card_name": "All Suns' Dawn",
+        "set_name": "The List",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/1885670d-0984-4a90-b8c4-a977570924f7/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 7022,
+      "item_details": {
+        "scryfall_id": "15629398-bb20-4ff3-ab0e-061dcea916d5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/5/15629398-bb20-4ff3-ab0e-061dcea916d5.jpg?1562259456",
+        "card_name": "All Suns' Dawn",
+        "set_name": "Modern Masters 2015",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/15629398-bb20-4ff3-ab0e-061dcea916d5/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 70675,
+      "item_details": {
+        "scryfall_id": "d9713032-2956-4564-b5f5-2dd16245a4e6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/9/d9713032-2956-4564-b5f5-2dd16245a4e6.jpg?1572489608",
+        "card_name": "All That Glitters",
+        "set_name": "Throne of Eldraine",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/d9713032-2956-4564-b5f5-2dd16245a4e6/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 194334,
+      "item_details": {
+        "scryfall_id": "71b2bf55-6b24-4f63-bbb0-98471c167405",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/1/71b2bf55-6b24-4f63-bbb0-98471c167405.jpg?1690001961",
+        "card_name": "All That Glitters",
+        "set_name": "Commander Masters",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/71b2bf55-6b24-4f63-bbb0-98471c167405/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 25887,
+      "item_details": {
+        "scryfall_id": "4ff67241-4c6a-436d-893b-ef7760825e68",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/f/4ff67241-4c6a-436d-893b-ef7760825e68.jpg?1681681820",
+        "card_name": "All Will Be One",
+        "set_name": "Phyrexia: All Will Be One",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $33.00",
+        "detail_url": "/game-item/4ff67241-4c6a-436d-893b-ef7760825e68/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 78578,
+      "item_details": {
+        "scryfall_id": "f20a1c6d-ec6a-4bd6-b3b2-b997f71d41fc",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/2/f20a1c6d-ec6a-4bd6-b3b2-b997f71d41fc.jpg?1562089262",
+        "card_name": "Allay",
+        "set_name": "Exodus",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/f20a1c6d-ec6a-4bd6-b3b2-b997f71d41fc/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 202846,
+      "item_details": {
+        "scryfall_id": "edf238c9-61de-4f3a-b82f-05af46e5e81b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/d/edf238c9-61de-4f3a-b82f-05af46e5e81b.jpg?1706241664",
+        "card_name": "Alley Assailant",
+        "set_name": "Murders at Karlov Manor",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/edf238c9-61de-4f3a-b82f-05af46e5e81b/"
+      },
+      "available_units": 46
+    },
+    {
+      "id": 61050,
+      "item_details": {
+        "scryfall_id": "bc10173d-25ff-4734-b8f2-84f94fe52b17",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/c/bc10173d-25ff-4734-b8f2-84f94fe52b17.jpg?1576381293",
+        "card_name": "Alley Evasion",
+        "set_name": "Aether Revolt",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/bc10173d-25ff-4734-b8f2-84f94fe52b17/"
+      },
+      "available_units": 7
+    },
+    {
+      "id": 67506,
+      "item_details": {
+        "scryfall_id": "cfb648e3-f5ad-4b33-afa3-d4cda0d369a1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/f/cfb648e3-f5ad-4b33-afa3-d4cda0d369a1.jpg?1562383036",
+        "card_name": "Alley Grifters",
+        "set_name": "Mercadian Masques",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/cfb648e3-f5ad-4b33-afa3-d4cda0d369a1/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 67838,
+      "item_details": {
+        "scryfall_id": "d0b97fa0-4c5b-4211-9c8d-99197dc20636",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/0/d0b97fa0-4c5b-4211-9c8d-99197dc20636.jpg?1562944775",
+        "card_name": "Alley Strangler",
+        "set_name": "Aether Revolt",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/d0b97fa0-4c5b-4211-9c8d-99197dc20636/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 52271,
+      "item_details": {
+        "scryfall_id": "a131d558-5f6b-448b-a378-1882e2d02bd2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/1/a131d558-5f6b-448b-a378-1882e2d02bd2.jpg?1576381609",
+        "card_name": "Alley Strangler",
+        "set_name": "Aether Revolt",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a131d558-5f6b-448b-a378-1882e2d02bd2/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 16951,
+      "item_details": {
+        "scryfall_id": "340df0d4-9848-4372-9f45-a73a8e94058a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/4/340df0d4-9848-4372-9f45-a73a8e94058a.jpg?1649921548",
+        "card_name": "Allied Assault",
+        "set_name": "Zendikar Rising",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/340df0d4-9848-4372-9f45-a73a8e94058a/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 82229,
+      "item_details": {
+        "scryfall_id": "fd7d7c93-5622-45ca-9359-110685d9162c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/d/fd7d7c93-5622-45ca-9359-110685d9162c.jpg?1562946180",
+        "card_name": "Allied Reinforcements",
+        "set_name": "Oath of the Gatewatch",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/fd7d7c93-5622-45ca-9359-110685d9162c/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 26443,
+      "item_details": {
+        "scryfall_id": "51d4f211-10e8-486d-b982-287ab0c060c9",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/1/51d4f211-10e8-486d-b982-287ab0c060c9.jpg?1562912059",
+        "card_name": "Allied Strategies",
+        "set_name": "Planeshift",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/51d4f211-10e8-486d-b982-287ab0c060c9/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 23052,
+      "item_details": {
+        "scryfall_id": "471e6542-45d4-4974-85d0-5e0a8881e622",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/7/471e6542-45d4-4974-85d0-5e0a8881e622.jpg?1606844992",
+        "card_name": "Allosaurus Rider",
+        "set_name": "Coldsnap Promos",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/471e6542-45d4-4974-85d0-5e0a8881e622/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 12451,
+      "item_details": {
+        "scryfall_id": "2627d7e2-3481-4a9d-9593-7365652ffe8f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/6/2627d7e2-3481-4a9d-9593-7365652ffe8f.jpg?1583453697",
+        "card_name": "Allosaurus Rider",
+        "set_name": "Mystery Booster Retail Edition Foils",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.75",
+        "detail_url": "/game-item/2627d7e2-3481-4a9d-9593-7365652ffe8f/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 73136,
+      "item_details": {
+        "scryfall_id": "e0f3ba39-5b4d-4a7c-9215-7e349aecbeb3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/0/e0f3ba39-5b4d-4a7c-9215-7e349aecbeb3.jpg?1593275346",
+        "card_name": "Allosaurus Rider",
+        "set_name": "Coldsnap",
+        "rarity": "Rare",
+        "display_price": "Starting at: $6.00",
+        "detail_url": "/game-item/e0f3ba39-5b4d-4a7c-9215-7e349aecbeb3/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 4942,
+      "item_details": {
+        "scryfall_id": "0ee4a931-5d61-49ba-affc-f022263938ca",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/e/0ee4a931-5d61-49ba-affc-f022263938ca.jpg?1609798819",
+        "card_name": "Allosaurus Shepherd",
+        "set_name": "Jumpstart",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $35.00",
+        "detail_url": "/game-item/0ee4a931-5d61-49ba-affc-f022263938ca/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 36849,
+      "item_details": {
+        "scryfall_id": "71a49b18-a339-401c-ab77-fcd04772cf69",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/1/71a49b18-a339-401c-ab77-fcd04772cf69.jpg?1674421385",
+        "card_name": "Alloy Animist",
+        "set_name": "The Brothers' War",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/71a49b18-a339-401c-ab77-fcd04772cf69/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 10342,
+      "item_details": {
+        "scryfall_id": "1fb6d6a1-9d71-405b-9c93-1a7f06c67abd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/f/1fb6d6a1-9d71-405b-9c93-1a7f06c67abd.jpg?1562901306",
+        "card_name": "Alloy Golem",
+        "set_name": "Invasion",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/1fb6d6a1-9d71-405b-9c93-1a7f06c67abd/"
+      },
+      "available_units": 16
+    },
+    {
+      "id": 55817,
+      "item_details": {
+        "scryfall_id": "abd3350b-89fb-40b4-a942-28e0c8c274aa",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/b/abd3350b-89fb-40b4-a942-28e0c8c274aa.jpg?1562880645",
+        "card_name": "Alloy Myr",
+        "set_name": "New Phyrexia",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/abd3350b-89fb-40b4-a942-28e0c8c274aa/"
+      },
+      "available_units": 21
+    },
+    {
+      "id": 79400,
+      "item_details": {
+        "scryfall_id": "f4a82ecd-ce0c-456e-bb79-b3b8d6602e1b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/4/f4a82ecd-ce0c-456e-bb79-b3b8d6602e1b.jpg?1562269277",
+        "card_name": "Alloy Myr",
+        "set_name": "Modern Masters 2015",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/f4a82ecd-ce0c-456e-bb79-b3b8d6602e1b/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 43690,
+      "item_details": {
+        "scryfall_id": "8726242e-bfd8-4ed5-a016-ac0c82e4762b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/7/8726242e-bfd8-4ed5-a016-ac0c82e4762b.jpg?1562446886",
+        "card_name": "Alluring Scent",
+        "set_name": "Portal",
+        "rarity": "Rare",
+        "display_price": "Starting at: $4.50",
+        "detail_url": "/game-item/8726242e-bfd8-4ed5-a016-ac0c82e4762b/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 72601,
+      "item_details": {
+        "scryfall_id": "df4e1cc3-4e47-4eff-9047-c6d1cc84d635",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/f/df4e1cc3-4e47-4eff-9047-c6d1cc84d635.jpg?1561998298",
+        "card_name": "Alluring Siren",
+        "set_name": "Magic 2010",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/df4e1cc3-4e47-4eff-9047-c6d1cc84d635/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 72392,
+      "item_details": {
+        "scryfall_id": "dea89d38-765d-4902-b985-bcc15363c4f2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/e/dea89d38-765d-4902-b985-bcc15363c4f2.jpg?1562478140",
+        "card_name": "Alluring Siren",
+        "set_name": "Magic 2011",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/dea89d38-765d-4902-b985-bcc15363c4f2/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 53976,
+      "item_details": {
+        "scryfall_id": "a6434841-6cca-4397-b1fa-5ce34dc0b7f3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/6/a6434841-6cca-4397-b1fa-5ce34dc0b7f3.jpg?1562654058",
+        "card_name": "Alluring Siren",
+        "set_name": "Magic 2012",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a6434841-6cca-4397-b1fa-5ce34dc0b7f3/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 61261,
+      "item_details": {
+        "scryfall_id": "bcb7124c-ba69-4da8-ad81-58f00fd0181d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/c/bcb7124c-ba69-4da8-ad81-58f00fd0181d.jpg?1562939538",
+        "card_name": "Ally Encampment",
+        "set_name": "Battle for Zendikar",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/bcb7124c-ba69-4da8-ad81-58f00fd0181d/"
+      },
+      "available_units": 128
+    },
+    {
+      "id": 36938,
+      "item_details": {
+        "scryfall_id": "71f2b7ac-8742-468d-b6a3-87881cb522ff",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/1/71f2b7ac-8742-468d-b6a3-87881cb522ff.jpg?1591227501",
+        "card_name": "Almighty Brushwagg",
+        "set_name": "Ikoria: Lair of Behemoths",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/71f2b7ac-8742-468d-b6a3-87881cb522ff/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 48944,
+      "item_details": {
+        "scryfall_id": "97382dd8-2754-4ca3-8ba8-d655acaf22ac",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/7/97382dd8-2754-4ca3-8ba8-d655acaf22ac.jpg?1562802251",
+        "card_name": "Alms",
+        "set_name": "Weatherlight",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/97382dd8-2754-4ca3-8ba8-d655acaf22ac/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 67035,
+      "item_details": {
+        "scryfall_id": "ce441759-cd4c-4bcc-925e-08e8b60853c0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/e/ce441759-cd4c-4bcc-925e-08e8b60853c0.jpg?1561846666",
+        "card_name": "Alms Beast",
+        "set_name": "Gatecrash",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/ce441759-cd4c-4bcc-925e-08e8b60853c0/"
+      },
+      "available_units": 54
+    },
+    {
+      "id": 51862,
+      "item_details": {
+        "scryfall_id": "9fe88f96-fd3a-44e5-aa05-3bc63581e33d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/f/9fe88f96-fd3a-44e5-aa05-3bc63581e33d.jpg?1562618485",
+        "card_name": "Alms Collector",
+        "set_name": "Commander 2017",
+        "rarity": "Rare",
+        "display_price": "Starting at: $5.00",
+        "detail_url": "/game-item/9fe88f96-fd3a-44e5-aa05-3bc63581e33d/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 166700,
+      "item_details": {
+        "scryfall_id": "367ac07a-a30f-4ebf-8877-27cd9ebe2f71",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/6/367ac07a-a30f-4ebf-8877-27cd9ebe2f71.jpg?1689995500",
+        "card_name": "Alms Collector",
+        "set_name": "Commander Masters",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/367ac07a-a30f-4ebf-8877-27cd9ebe2f71/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 205202,
+      "item_details": {
+        "scryfall_id": "69f2f632-b6cc-4092-acd5-a6b152e90488",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/9/69f2f632-b6cc-4092-acd5-a6b152e90488.jpg?1712355875",
+        "card_name": "Aloe Alchemist",
+        "set_name": "Outlaws of Thunder Junction",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/69f2f632-b6cc-4092-acd5-a6b152e90488/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 54352,
+      "item_details": {
+        "scryfall_id": "a7777a4f-0fc6-4231-b2a4-503f3820c0f6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/7/a7777a4f-0fc6-4231-b2a4-503f3820c0f6.jpg?1674138404",
+        "card_name": "Alora, Merry Thief",
+        "set_name": "Commander Legends: Battle for Baldur's Gate",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a7777a4f-0fc6-4231-b2a4-503f3820c0f6/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 9293,
+      "item_details": {
+        "scryfall_id": "1c3c779b-d1d8-4b1e-bb06-ed7071a5ec0b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/c/1c3c779b-d1d8-4b1e-bb06-ed7071a5ec0b.jpg?1674135389",
+        "card_name": "Alora, Merry Thief",
+        "set_name": "Commander Legends: Battle for Baldur's Gate",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/1c3c779b-d1d8-4b1e-bb06-ed7071a5ec0b/"
+      },
+      "available_units": 1
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 15,
+  "previous_page_number": 13,
+  "num_pages": 752,
+  "page_number": 14
+}

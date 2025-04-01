@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 208079,
+      "item_details": {
+        "scryfall_id": "13eda3d5-7d10-4d69-b7f2-cdeebda63e99",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/3/13eda3d5-7d10-4d69-b7f2-cdeebda63e99.jpg?1717190303",
+        "card_name": "Arcane Denial",
+        "set_name": "Modern Horizons 3 Commander",
+        "rarity": "Common",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/13eda3d5-7d10-4d69-b7f2-cdeebda63e99/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 4298,
+      "item_details": {
+        "scryfall_id": "0ce4702d-f65b-413e-99da-112f632a0a63",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/c/0ce4702d-f65b-413e-99da-112f632a0a63.jpg?1562300328",
+        "card_name": "Arcane Encyclopedia",
+        "set_name": "Core Set 2019",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/0ce4702d-f65b-413e-99da-112f632a0a63/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 336,
+      "item_details": {
+        "scryfall_id": "00ff4cb8-a0e0-4527-a77d-03394065ffe0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/0/00ff4cb8-a0e0-4527-a77d-03394065ffe0.jpg?1674137703",
+        "card_name": "Arcane Encyclopedia",
+        "set_name": "Commander Legends: Battle for Baldur's Gate",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/00ff4cb8-a0e0-4527-a77d-03394065ffe0/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 39071,
+      "item_details": {
+        "scryfall_id": "7886d4e9-003c-4978-a48d-4743fbc38985",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/8/7886d4e9-003c-4978-a48d-4743fbc38985.jpg?1631584838",
+        "card_name": "Arcane Endeavor",
+        "set_name": "Forgotten Realms Commander",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/7886d4e9-003c-4978-a48d-4743fbc38985/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 219696,
+      "item_details": {
+        "scryfall_id": "06431793-5dfe-4cbf-990b-4bcc960d1f31",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/6/06431793-5dfe-4cbf-990b-4bcc960d1f31.jpg?1730488696",
+        "card_name": "Arcane Epiphany",
+        "set_name": "Foundations",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/06431793-5dfe-4cbf-990b-4bcc960d1f31/"
+      },
+      "available_units": 24
+    },
+    {
+      "id": 50135,
+      "item_details": {
+        "scryfall_id": "9ab520b7-ad87-4c8e-a454-5c022e378564",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/a/9ab520b7-ad87-4c8e-a454-5c022e378564.jpg?1636225112",
+        "card_name": "Arcane Infusion",
+        "set_name": "Innistrad: Midnight Hunt",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/9ab520b7-ad87-4c8e-a454-5c022e378564/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 71584,
+      "item_details": {
+        "scryfall_id": "dc457520-9947-4f65-bbe7-9b95bd2c23af",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/c/dc457520-9947-4f65-bbe7-9b95bd2c23af.jpg?1627702826",
+        "card_name": "Arcane Investigator",
+        "set_name": "Adventures in the Forgotten Realms",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/dc457520-9947-4f65-bbe7-9b95bd2c23af/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 81108,
+      "item_details": {
+        "scryfall_id": "f9e3bcd7-60f8-472a-ada0-c3147cf06588",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/9/f9e3bcd7-60f8-472a-ada0-c3147cf06588.jpg?1562251789",
+        "card_name": "Arcane Laboratory",
+        "set_name": "Seventh Edition",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/f9e3bcd7-60f8-472a-ada0-c3147cf06588/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 15346,
+      "item_details": {
+        "scryfall_id": "2f4a88e8-aab0-488a-a0b8-fa3feedbf278",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/f/2f4a88e8-aab0-488a-a0b8-fa3feedbf278.jpg?1562904941",
+        "card_name": "Arcane Laboratory",
+        "set_name": "Urza's Saga",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/2f4a88e8-aab0-488a-a0b8-fa3feedbf278/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 51473,
+      "item_details": {
+        "scryfall_id": "9ea8fd24-311a-4745-804e-46b2abbe217a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/e/9ea8fd24-311a-4745-804e-46b2abbe217a.jpg?1562928493",
+        "card_name": "Arcane Melee",
+        "set_name": "Commander 2013",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/9ea8fd24-311a-4745-804e-46b2abbe217a/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 51516,
+      "item_details": {
+        "scryfall_id": "9ec9245a-bfd4-4fbd-83da-28c89abad011",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/e/9ec9245a-bfd4-4fbd-83da-28c89abad011.jpg?1562928525",
+        "card_name": "Arcane Sanctum",
+        "set_name": "Commander 2013",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/9ec9245a-bfd4-4fbd-83da-28c89abad011/"
+      },
+      "available_units": 28
+    },
+    {
+      "id": 35935,
+      "item_details": {
+        "scryfall_id": "6edc0681-4252-4d3d-baf3-f03c22af1208",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/e/6edc0681-4252-4d3d-baf3-f03c22af1208.jpg?1562705213",
+        "card_name": "Arcane Sanctum",
+        "set_name": "Shards of Alara",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/6edc0681-4252-4d3d-baf3-f03c22af1208/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 23570,
+      "item_details": {
+        "scryfall_id": "48d87619-6a6d-42ba-8a69-910d3cc7aede",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/8/48d87619-6a6d-42ba-8a69-910d3cc7aede.jpg?1631589342",
+        "card_name": "Arcane Sanctum",
+        "set_name": "Forgotten Realms Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/48d87619-6a6d-42ba-8a69-910d3cc7aede/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 223630,
+      "item_details": {
+        "scryfall_id": "b57164a6-aca8-4cd2-9b40-1c10f13c1c6b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/5/b57164a6-aca8-4cd2-9b40-1c10f13c1c6b.jpg?1738356002",
+        "card_name": "Arcane Sanctum",
+        "set_name": "Aetherdrift Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/b57164a6-aca8-4cd2-9b40-1c10f13c1c6b/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 4803,
+      "item_details": {
+        "scryfall_id": "0e7466e5-9443-4b38-a7e9-e0d615a35667",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/e/0e7466e5-9443-4b38-a7e9-e0d615a35667.jpg?1576381686",
+        "card_name": "Arcane Savant",
+        "set_name": "Conspiracy: Take the Crown",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/0e7466e5-9443-4b38-a7e9-e0d615a35667/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 207382,
+      "item_details": {
+        "scryfall_id": "156a1ca1-e4b1-4e0c-a786-fd80fe189896",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/5/156a1ca1-e4b1-4e0c-a786-fd80fe189896.jpg?1716924902",
+        "card_name": "Arcane Signet",
+        "set_name": "Modern Horizons 3 Commander",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/156a1ca1-e4b1-4e0c-a786-fd80fe189896/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 204582,
+      "item_details": {
+        "scryfall_id": "8bafeaa8-5e77-4303-b30a-23fd137b7c35",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/b/8bafeaa8-5e77-4303-b30a-23fd137b7c35.jpg?1709431544",
+        "card_name": "Arcane Signet",
+        "set_name": "Fallout",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.75",
+        "detail_url": "/game-item/8bafeaa8-5e77-4303-b30a-23fd137b7c35/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 27582,
+      "item_details": {
+        "scryfall_id": "552be01e-cd54-46ba-b38a-96883a48d985",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/5/552be01e-cd54-46ba-b38a-96883a48d985.jpg?1631588772",
+        "card_name": "Arcane Signet",
+        "set_name": "Forgotten Realms Commander",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/552be01e-cd54-46ba-b38a-96883a48d985/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 199767,
+      "item_details": {
+        "scryfall_id": "ebc52210-9de3-4392-9a11-87a67f56b92a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/b/ebc52210-9de3-4392-9a11-87a67f56b92a.jpg?1696638318",
+        "card_name": "Arcane Signet",
+        "set_name": "Doctor Who",
+        "rarity": "Common",
+        "display_price": "Starting at: $6.00",
+        "detail_url": "/game-item/ebc52210-9de3-4392-9a11-87a67f56b92a/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 67964,
+      "item_details": {
+        "scryfall_id": "d10d85c9-859a-4ff5-9a41-bf20622a3ff5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/1/d10d85c9-859a-4ff5-9a41-bf20622a3ff5.jpg?1562639716",
+        "card_name": "Arcane Spyglass",
+        "set_name": "Darksteel",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/d10d85c9-859a-4ff5-9a41-bf20622a3ff5/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 34032,
+      "item_details": {
+        "scryfall_id": "68cdb00c-ea86-4b72-8f62-570820edfa1b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/8/68cdb00c-ea86-4b72-8f62-570820edfa1b.jpg?1624589947",
+        "card_name": "Arcane Subtraction",
+        "set_name": "Strixhaven: School of Mages",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/68cdb00c-ea86-4b72-8f62-570820edfa1b/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 21212,
+      "item_details": {
+        "scryfall_id": "41764237-fa31-4b27-92ff-712a42d350b9",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/1/41764237-fa31-4b27-92ff-712a42d350b9.jpg?1562546788",
+        "card_name": "Arcane Teachings",
+        "set_name": "Tenth Edition",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/41764237-fa31-4b27-92ff-712a42d350b9/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 916,
+      "item_details": {
+        "scryfall_id": "02c56677-c8e2-4500-9ee0-0b102496f454",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/2/02c56677-c8e2-4500-9ee0-0b102496f454.jpg?1562628431",
+        "card_name": "Arcane Teachings",
+        "set_name": "Judgment",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/02c56677-c8e2-4500-9ee0-0b102496f454/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 4922,
+      "item_details": {
+        "scryfall_id": "0ed53483-4bec-491b-9ae6-afc6faf122a2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/e/0ed53483-4bec-491b-9ae6-afc6faf122a2.jpg?1562543814",
+        "card_name": "Arcanis the Omnipotent",
+        "set_name": "Tenth Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/0ed53483-4bec-491b-9ae6-afc6faf122a2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 10575,
+      "item_details": {
+        "scryfall_id": "2074ed36-fbae-4886-b3ad-360fdfbb69cd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/0/2074ed36-fbae-4886-b3ad-360fdfbb69cd.jpg?1675199157",
+        "card_name": "Arcanis the Omnipotent",
+        "set_name": "Dominaria Remastered",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/2074ed36-fbae-4886-b3ad-360fdfbb69cd/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 73947,
+      "item_details": {
+        "scryfall_id": "e375cfff-7a36-47ba-828c-c9d7402ea68b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/3/e375cfff-7a36-47ba-828c-c9d7402ea68b.jpg?1592754824",
+        "card_name": "Arcanis the Omnipotent",
+        "set_name": "Duel Decks: Speed vs. Cunning",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/e375cfff-7a36-47ba-828c-c9d7402ea68b/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 58494,
+      "item_details": {
+        "scryfall_id": "b42e1359-c79d-4848-a0f1-3f274e0bf0d9",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/4/b42e1359-c79d-4848-a0f1-3f274e0bf0d9.jpg?1572490865",
+        "card_name": "Arcanist's Owl",
+        "set_name": "Throne of Eldraine",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/b42e1359-c79d-4848-a0f1-3f274e0bf0d9/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 218378,
+      "item_details": {
+        "scryfall_id": "c9d23521-8e35-4547-971a-d06416c84a71",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/9/c9d23521-8e35-4547-971a-d06416c84a71.jpg?1723502872",
+        "card_name": "Arcanum Things",
+        "set_name": "Mystery Booster 2",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.30",
+        "detail_url": "/game-item/c9d23521-8e35-4547-971a-d06416c84a71/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 23301,
+      "item_details": {
+        "scryfall_id": "47e6e715-abd8-4ff9-a8aa-8f4b929b0283",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/7/47e6e715-abd8-4ff9-a8aa-8f4b929b0283.jpg?1562909659",
+        "card_name": "Arcanum Wings",
+        "set_name": "Future Sight",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/47e6e715-abd8-4ff9-a8aa-8f4b929b0283/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 50472,
+      "item_details": {
+        "scryfall_id": "9bc397d1-50a8-46cd-98b2-7104f2241420",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/b/9bc397d1-50a8-46cd-98b2-7104f2241420.jpg?1562828028",
+        "card_name": "Arcbond",
+        "set_name": "Fate Reforged",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/9bc397d1-50a8-46cd-98b2-7104f2241420/"
+      },
+      "available_units": 45
+    },
+    {
+      "id": 53330,
+      "item_details": {
+        "scryfall_id": "a4672ba6-cd82-4208-bc08-764986899999",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/4/a4672ba6-cd82-4208-bc08-764986899999.jpg?1562638598",
+        "card_name": "Arcbound Bruiser",
+        "set_name": "Darksteel",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a4672ba6-cd82-4208-bc08-764986899999/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 207320,
+      "item_details": {
+        "scryfall_id": "e7995b44-7932-4d28-9a4c-a32ba35c60d7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/7/e7995b44-7932-4d28-9a4c-a32ba35c60d7.jpg?1717011863",
+        "card_name": "Arcbound Condor",
+        "set_name": "Modern Horizons 3",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/e7995b44-7932-4d28-9a4c-a32ba35c60d7/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 37773,
+      "item_details": {
+        "scryfall_id": "748448bb-a1b2-4e84-b09a-5ecc4322f3c6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/4/748448bb-a1b2-4e84-b09a-5ecc4322f3c6.jpg?1562637558",
+        "card_name": "Arcbound Crusher",
+        "set_name": "Darksteel",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $4.50",
+        "detail_url": "/game-item/748448bb-a1b2-4e84-b09a-5ecc4322f3c6/"
+      },
+      "available_units": 26
+    },
+    {
+      "id": 20920,
+      "item_details": {
+        "scryfall_id": "408f42ae-fb83-4c8a-8638-38c719dec197",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/0/408f42ae-fb83-4c8a-8638-38c719dec197.jpg?1562636481",
+        "card_name": "Arcbound Fiend",
+        "set_name": "Darksteel",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/408f42ae-fb83-4c8a-8638-38c719dec197/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 52834,
+      "item_details": {
+        "scryfall_id": "a2f33f9d-dffd-4742-92c6-be7fe6463dca",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/2/a2f33f9d-dffd-4742-92c6-be7fe6463dca.jpg?1562638550",
+        "card_name": "Arcbound Hybrid",
+        "set_name": "Darksteel",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a2f33f9d-dffd-4742-92c6-be7fe6463dca/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 82492,
+      "item_details": {
+        "scryfall_id": "fe4a2cb0-4129-451e-a946-a21ea646cc28",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/e/fe4a2cb0-4129-451e-a946-a21ea646cc28.jpg?1626093229",
+        "card_name": "Arcbound Javelineer",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/fe4a2cb0-4129-451e-a946-a21ea646cc28/"
+      },
+      "available_units": 7
+    },
+    {
+      "id": 41394,
+      "item_details": {
+        "scryfall_id": "7ff3241b-49ba-4243-b8fc-fef600836c8c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/f/7ff3241b-49ba-4243-b8fc-fef600836c8c.jpg?1562637774",
+        "card_name": "Arcbound Lancer",
+        "set_name": "Darksteel",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/7ff3241b-49ba-4243-b8fc-fef600836c8c/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 51048,
+      "item_details": {
+        "scryfall_id": "9d66e724-49ee-4f08-a160-584350de1d95",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/d/9d66e724-49ee-4f08-a160-584350de1d95.jpg?1626093253",
+        "card_name": "Arcbound Mouser",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/9d66e724-49ee-4f08-a160-584350de1d95/"
+      },
+      "available_units": 14
+    },
+    {
+      "id": 45139,
+      "item_details": {
+        "scryfall_id": "8b64717e-0e7b-4b4c-ba82-48498ee87aad",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/b/8b64717e-0e7b-4b4c-ba82-48498ee87aad.jpg?1562638021",
+        "card_name": "Arcbound Overseer",
+        "set_name": "Darksteel",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/8b64717e-0e7b-4b4c-ba82-48498ee87aad/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 9440,
+      "item_details": {
+        "scryfall_id": "1cb0a1a4-9216-47f8-a4e3-20fe0de6a518",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/c/1cb0a1a4-9216-47f8-a4e3-20fe0de6a518.jpg?1626093282",
+        "card_name": "Arcbound Prototype",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/1cb0a1a4-9216-47f8-a4e3-20fe0de6a518/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 37197,
+      "item_details": {
+        "scryfall_id": "72c1a731-7854-42b1-8719-ac3c2a269c1f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.jpg?1562637545",
+        "card_name": "Arcbound Ravager",
+        "set_name": "Darksteel",
+        "rarity": "Rare",
+        "display_price": "Starting at: $14.50",
+        "detail_url": "/game-item/72c1a731-7854-42b1-8719-ac3c2a269c1f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 20210,
+      "item_details": {
+        "scryfall_id": "3e4c5228-1dff-4df0-9d14-f8103364c701",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/e/3e4c5228-1dff-4df0-9d14-f8103364c701.jpg?1562636419",
+        "card_name": "Arcbound Reclaimer",
+        "set_name": "Darksteel",
+        "rarity": "Rare",
+        "display_price": "Starting at: $4.00",
+        "detail_url": "/game-item/3e4c5228-1dff-4df0-9d14-f8103364c701/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 45760,
+      "item_details": {
+        "scryfall_id": "8d54c510-19bf-4da4-a51b-1caadf960654",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/d/8d54c510-19bf-4da4-a51b-1caadf960654.jpg?1626098035",
+        "card_name": "Arcbound Shikari",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8d54c510-19bf-4da4-a51b-1caadf960654/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 71714,
+      "item_details": {
+        "scryfall_id": "dcafff1a-e220-40ff-8c00-de6037219bc6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/c/dcafff1a-e220-40ff-8c00-de6037219bc6.jpg?1626096264",
+        "card_name": "Arcbound Slasher",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/dcafff1a-e220-40ff-8c00-de6037219bc6/"
+      },
+      "available_units": 22
+    },
+    {
+      "id": 40178,
+      "item_details": {
+        "scryfall_id": "7c2f544a-4a42-43ee-9796-5bf6b396b245",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/c/7c2f544a-4a42-43ee-9796-5bf6b396b245.jpg?1562637715",
+        "card_name": "Arcbound Slith",
+        "set_name": "Darksteel",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/7c2f544a-4a42-43ee-9796-5bf6b396b245/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 71268,
+      "item_details": {
+        "scryfall_id": "db438720-5bfb-4cd9-b565-434839045f60",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/b/db438720-5bfb-4cd9-b565-434839045f60.jpg?1561969018",
+        "card_name": "Arcbound Stinger",
+        "set_name": "Modern Masters",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/db438720-5bfb-4cd9-b565-434839045f60/"
+      },
+      "available_units": 7
+    },
+    {
+      "id": 63476,
+      "item_details": {
+        "scryfall_id": "c397ea22-93cd-498a-a493-9af841d09bf5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/3/c397ea22-93cd-498a-a493-9af841d09bf5.jpg?1562639412",
+        "card_name": "Arcbound Stinger",
+        "set_name": "Darksteel",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c397ea22-93cd-498a-a493-9af841d09bf5/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 44000,
+      "item_details": {
+        "scryfall_id": "881175c4-fee5-4c39-ad25-145ef73569ce",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/8/881175c4-fee5-4c39-ad25-145ef73569ce.jpg?1626096286",
+        "card_name": "Arcbound Tracker",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/881175c4-fee5-4c39-ad25-145ef73569ce/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 68942,
+      "item_details": {
+        "scryfall_id": "d4242f34-33c0-4e16-a6d9-18499dc8f2eb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/4/d4242f34-33c0-4e16-a6d9-18499dc8f2eb.jpg?1562879913",
+        "card_name": "Arcbound Wanderer",
+        "set_name": "Fifth Dawn",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/d4242f34-33c0-4e16-a6d9-18499dc8f2eb/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 82315,
+      "item_details": {
+        "scryfall_id": "fdb48b77-9d25-47b0-8d3b-bf52b8db23e8",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/d/fdb48b77-9d25-47b0-8d3b-bf52b8db23e8.jpg?1561969499",
+        "card_name": "Arcbound Wanderer",
+        "set_name": "Modern Masters",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/fdb48b77-9d25-47b0-8d3b-bf52b8db23e8/"
+      },
+      "available_units": 8
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 27,
+  "previous_page_number": 25,
+  "num_pages": 752,
+  "page_number": 26
+}

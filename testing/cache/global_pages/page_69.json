@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 32398,
+      "item_details": {
+        "scryfall_id": "63d0b5f0-ed45-4b30-9c24-1c12011e3513",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/3/63d0b5f0-ed45-4b30-9c24-1c12011e3513.jpg?1626100318",
+        "card_name": "Bone Shredder",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/63d0b5f0-ed45-4b30-9c24-1c12011e3513/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 18417,
+      "item_details": {
+        "scryfall_id": "387eda28-f35b-48b0-ba59-773d82902327",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/8/387eda28-f35b-48b0-ba59-773d82902327.jpg?1592708776",
+        "card_name": "Bone Splinters",
+        "set_name": "Avacyn Restored",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/387eda28-f35b-48b0-ba59-773d82902327/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 69096,
+      "item_details": {
+        "scryfall_id": "d4a4b3a3-b7ae-4210-8037-098fdf5808d0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/4/d4a4b3a3-b7ae-4210-8037-098fdf5808d0.jpg?1562709424",
+        "card_name": "Bone Splinters",
+        "set_name": "Shards of Alara",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/d4a4b3a3-b7ae-4210-8037-098fdf5808d0/"
+      },
+      "available_units": 14
+    },
+    {
+      "id": 69401,
+      "item_details": {
+        "scryfall_id": "d5962a39-1c67-49e1-b4c9-580e6d37b814",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/5/d5962a39-1c67-49e1-b4c9-580e6d37b814.jpg?1592754711",
+        "card_name": "Bone Splinters",
+        "set_name": "Duel Decks: Speed vs. Cunning",
+        "rarity": "Common",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/d5962a39-1c67-49e1-b4c9-580e6d37b814/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 37753,
+      "item_details": {
+        "scryfall_id": "74780faa-1c64-4d73-8d09-53b47ba02d7a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/4/74780faa-1c64-4d73-8d09-53b47ba02d7a.jpg?1562922512",
+        "card_name": "Bone Splinters",
+        "set_name": "Battle for Zendikar",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/74780faa-1c64-4d73-8d09-53b47ba02d7a/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 70706,
+      "item_details": {
+        "scryfall_id": "d9847c5a-056e-45fb-9871-ca1dcaddb61d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/9/d9847c5a-056e-45fb-9871-ca1dcaddb61d.jpg?1562268300",
+        "card_name": "Bone Splinters",
+        "set_name": "Modern Masters 2015",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/d9847c5a-056e-45fb-9871-ca1dcaddb61d/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 5468,
+      "item_details": {
+        "scryfall_id": "106b5c96-d1bd-433d-955e-ace0b60d3bc3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/0/106b5c96-d1bd-433d-955e-ace0b60d3bc3.jpg?1673307007",
+        "card_name": "Bone Splinters",
+        "set_name": "Dominaria United",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/106b5c96-d1bd-433d-955e-ace0b60d3bc3/"
+      },
+      "available_units": 20
+    },
+    {
+      "id": 63825,
+      "item_details": {
+        "scryfall_id": "c4a75cef-9551-45e2-b1ff-80662c76ec20",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/4/c4a75cef-9551-45e2-b1ff-80662c76ec20.jpg?1562941461",
+        "card_name": "Bone to Ash",
+        "set_name": "Dark Ascension",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c4a75cef-9551-45e2-b1ff-80662c76ec20/"
+      },
+      "available_units": 20
+    },
+    {
+      "id": 71338,
+      "item_details": {
+        "scryfall_id": "db7a29e0-02a8-4d04-8b80-831a7bed58f7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/b/db7a29e0-02a8-4d04-8b80-831a7bed58f7.jpg?1562045156",
+        "card_name": "Bone to Ash",
+        "set_name": "Magic Origins",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/db7a29e0-02a8-4d04-8b80-831a7bed58f7/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 209164,
+      "item_details": {
+        "scryfall_id": "faf226fa-ca09-4468-8804-87b2a7de2c66",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/a/faf226fa-ca09-4468-8804-87b2a7de2c66.jpg?1721426343",
+        "card_name": "Bonebind Orator",
+        "set_name": "Bloomburrow",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/faf226fa-ca09-4468-8804-87b2a7de2c66/"
+      },
+      "available_units": 39
+    },
+    {
+      "id": 66301,
+      "item_details": {
+        "scryfall_id": "cc17e5c1-a6b4-401b-95eb-1c01cd1da570",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/c/cc17e5c1-a6b4-401b-95eb-1c01cd1da570.jpg?1562659819",
+        "card_name": "Bonebreaker Giant",
+        "set_name": "Magic 2012",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/cc17e5c1-a6b4-401b-95eb-1c01cd1da570/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 209165,
+      "item_details": {
+        "scryfall_id": "82defb87-237f-4b77-9673-5bf00607148f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/2/82defb87-237f-4b77-9673-5bf00607148f.jpg?1721426349",
+        "card_name": "Bonecache Overseer",
+        "set_name": "Bloomburrow",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/82defb87-237f-4b77-9673-5bf00607148f/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 220568,
+      "item_details": {
+        "scryfall_id": "db07c4d0-cc16-49fb-93b8-af3fe8e6670f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/b/db07c4d0-cc16-49fb-93b8-af3fe8e6670f.jpg?1730486103",
+        "card_name": "Bonecaller Cleric",
+        "set_name": "Foundations Jumpstart",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/db07c4d0-cc16-49fb-93b8-af3fe8e6670f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 43951,
+      "item_details": {
+        "scryfall_id": "87f411d0-c796-443f-b957-c632aa23deb0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/7/87f411d0-c796-443f-b957-c632aa23deb0.jpg?1674136003",
+        "card_name": "Bonecaller Cleric",
+        "set_name": "Commander Legends: Battle for Baldur's Gate",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/87f411d0-c796-443f-b957-c632aa23deb0/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 82919,
+      "item_details": {
+        "scryfall_id": "ff984a4c-1818-4f8f-a9d7-fce57e77937d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/f/ff984a4c-1818-4f8f-a9d7-fce57e77937d.jpg?1571367563",
+        "card_name": "Bonecrusher Giant // Stomp",
+        "set_name": "Throne of Eldraine",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/ff984a4c-1818-4f8f-a9d7-fce57e77937d/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 3320,
+      "item_details": {
+        "scryfall_id": "09fd2d9c-1793-4beb-a3fb-7a869f660cd4",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/9/09fd2d9c-1793-4beb-a3fb-7a869f660cd4.jpg?1616182066",
+        "card_name": "Bonecrusher Giant // Stomp",
+        "set_name": "Throne of Eldraine",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/09fd2d9c-1793-4beb-a3fb-7a869f660cd4/"
+      },
+      "available_units": 76
+    },
+    {
+      "id": 210843,
+      "item_details": {
+        "scryfall_id": "3a6431fd-4b79-488e-a0c0-57731616bd08",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/a/3a6431fd-4b79-488e-a0c0-57731616bd08.jpg?1723435930",
+        "card_name": "Bonecrusher Giant // Stomp",
+        "set_name": "The List",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/3a6431fd-4b79-488e-a0c0-57731616bd08/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 73244,
+      "item_details": {
+        "scryfall_id": "e14613bc-0083-48d6-ac10-b2839657e84b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/1/e14613bc-0083-48d6-ac10-b2839657e84b.jpg?1562615479",
+        "card_name": "Bonehoard",
+        "set_name": "Mirrodin Besieged",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/e14613bc-0083-48d6-ac10-b2839657e84b/"
+      },
+      "available_units": 15
+    },
+    {
+      "id": 38209,
+      "item_details": {
+        "scryfall_id": "75dc1b48-7d49-45ac-b345-988392183ff0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/5/75dc1b48-7d49-45ac-b345-988392183ff0.jpg?1561946589",
+        "card_name": "Bonehoard",
+        "set_name": "Commander 2014",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/75dc1b48-7d49-45ac-b345-988392183ff0/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 46766,
+      "item_details": {
+        "scryfall_id": "9069c746-d0aa-4e6d-b352-58e582f033b2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/0/9069c746-d0aa-4e6d-b352-58e582f033b2.jpg?1562410176",
+        "card_name": "Bonehoard",
+        "set_name": "Commander 2016",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/9069c746-d0aa-4e6d-b352-58e582f033b2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 16235,
+      "item_details": {
+        "scryfall_id": "31ed2d63-5eb6-4027-b702-ef9265fda4b6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/1/31ed2d63-5eb6-4027-b702-ef9265fda4b6.jpg?1592673573",
+        "card_name": "Bonehoard",
+        "set_name": "Commander Anthology",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/31ed2d63-5eb6-4027-b702-ef9265fda4b6/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 169568,
+      "item_details": {
+        "scryfall_id": "2220ed60-3f8f-4dd2-8319-6a06896a5350",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/2/2220ed60-3f8f-4dd2-8319-6a06896a5350.jpg?1698183724",
+        "card_name": "Bonehoard Dracosaur",
+        "set_name": "The Lost Caverns of Ixalan",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $10.00",
+        "detail_url": "/game-item/2220ed60-3f8f-4dd2-8319-6a06896a5350/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 65520,
+      "item_details": {
+        "scryfall_id": "c9d58030-a95a-4221-93bc-30a59344e30b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/9/c9d58030-a95a-4221-93bc-30a59344e30b.jpg?1562942672",
+        "card_name": "Boneknitter",
+        "set_name": "Onslaught",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/c9d58030-a95a-4221-93bc-30a59344e30b/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 6802,
+      "item_details": {
+        "scryfall_id": "14c1b7bb-79ca-44c2-9152-d302ca00eb3e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/4/14c1b7bb-79ca-44c2-9152-d302ca00eb3e.jpg?1675957488",
+        "card_name": "Bonepicker Skirge",
+        "set_name": "Phyrexia: All Will Be One",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/14c1b7bb-79ca-44c2-9152-d302ca00eb3e/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 73111,
+      "item_details": {
+        "scryfall_id": "e0e1de30-1899-49ef-88ae-6defc69f19b3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/0/e0e1de30-1899-49ef-88ae-6defc69f19b3.jpg?1675957307",
+        "card_name": "Bonepicker Skirge",
+        "set_name": "Phyrexia: All Will Be One",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/e0e1de30-1899-49ef-88ae-6defc69f19b3/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 52654,
+      "item_details": {
+        "scryfall_id": "a26bb68b-1830-470a-8cea-91edc7db0c57",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/2/a26bb68b-1830-470a-8cea-91edc7db0c57.jpg?1562833120",
+        "card_name": "Bonescythe Sliver",
+        "set_name": "Magic 2014",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.50",
+        "detail_url": "/game-item/a26bb68b-1830-470a-8cea-91edc7db0c57/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 37361,
+      "item_details": {
+        "scryfall_id": "73419af6-7df0-48d5-b6f4-e621c75a1acd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/3/73419af6-7df0-48d5-b6f4-e621c75a1acd.jpg?1561757398",
+        "card_name": "Bonescythe Sliver",
+        "set_name": "Duels of the Planeswalkers 2014 Promos ",
+        "rarity": "Rare",
+        "display_price": "Starting at: $5.00",
+        "detail_url": "/game-item/73419af6-7df0-48d5-b6f4-e621c75a1acd/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 12747,
+      "item_details": {
+        "scryfall_id": "27201370-32cc-4b90-890d-8c3f5362ad70",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/7/27201370-32cc-4b90-890d-8c3f5362ad70.jpg?1562628979",
+        "card_name": "Boneshard Slasher",
+        "set_name": "Torment",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/27201370-32cc-4b90-890d-8c3f5362ad70/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 22791,
+      "item_details": {
+        "scryfall_id": "465a7990-c9f9-4716-a833-fd41458b9cee",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/6/465a7990-c9f9-4716-a833-fd41458b9cee.jpg?1562142403",
+        "card_name": "Bonesplitter",
+        "set_name": "Mirrodin",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/465a7990-c9f9-4716-a833-fd41458b9cee/"
+      },
+      "available_units": 48
+    },
+    {
+      "id": 57366,
+      "item_details": {
+        "scryfall_id": "b09dad6d-ec9a-40b4-b136-7a8b58a42a3b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/0/b09dad6d-ec9a-40b4-b136-7a8b58a42a3b.jpg?1561968090",
+        "card_name": "Bonesplitter",
+        "set_name": "Modern Masters",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/b09dad6d-ec9a-40b4-b136-7a8b58a42a3b/"
+      },
+      "available_units": 25
+    },
+    {
+      "id": 13512,
+      "item_details": {
+        "scryfall_id": "29672365-f059-4ff2-93c5-437b9ab01297",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/9/29672365-f059-4ff2-93c5-437b9ab01297.jpg?1619396757",
+        "card_name": "Bonesplitter Sliver",
+        "set_name": "Time Spiral Remastered",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/29672365-f059-4ff2-93c5-437b9ab01297/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 36432,
+      "item_details": {
+        "scryfall_id": "705e29c5-2d9b-44ad-a04c-9a62dd74eb12",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/0/705e29c5-2d9b-44ad-a04c-9a62dd74eb12.jpg?1562918642",
+        "card_name": "Bonesplitter Sliver",
+        "set_name": "Time Spiral",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/705e29c5-2d9b-44ad-a04c-9a62dd74eb12/"
+      },
+      "available_units": 112
+    },
+    {
+      "id": 13544,
+      "item_details": {
+        "scryfall_id": "297d7326-ad03-464d-97e2-443042d48f92",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.jpg?1562526649",
+        "card_name": "Bonethorn Valesk",
+        "set_name": "Scourge",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/297d7326-ad03-464d-97e2-443042d48f92/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 205348,
+      "item_details": {
+        "scryfall_id": "d43981b1-60c8-4896-8885-b07e73b99b30",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/4/d43981b1-60c8-4896-8885-b07e73b99b30.jpg?1712355558",
+        "card_name": "Boneyard Desecrator",
+        "set_name": "Outlaws of Thunder Junction",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/d43981b1-60c8-4896-8885-b07e73b99b30/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 18214,
+      "item_details": {
+        "scryfall_id": "37e4df5b-ec53-4f8a-8c26-272b3177c0a6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/7/37e4df5b-ec53-4f8a-8c26-272b3177c0a6.jpg?1591227954",
+        "card_name": "Boneyard Lurker",
+        "set_name": "Ikoria: Lair of Behemoths",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/37e4df5b-ec53-4f8a-8c26-272b3177c0a6/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 80067,
+      "item_details": {
+        "scryfall_id": "f6ac1131-8e96-46be-85e0-55844d0d2935",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/6/f6ac1131-8e96-46be-85e0-55844d0d2935.jpg?1591319498",
+        "card_name": "Boneyard Mycodrax",
+        "set_name": "Commander 2020",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/f6ac1131-8e96-46be-85e0-55844d0d2935/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 17477,
+      "item_details": {
+        "scryfall_id": "35989b1e-9bad-4f8d-a559-bf14d1342aa3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/5/35989b1e-9bad-4f8d-a559-bf14d1342aa3.jpg?1562553301",
+        "card_name": "Boneyard Parley",
+        "set_name": "Ixalan",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/35989b1e-9bad-4f8d-a559-bf14d1342aa3/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 1549,
+      "item_details": {
+        "scryfall_id": "04a82af7-309d-46f5-b3ec-ea301dfa042f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/4/04a82af7-309d-46f5-b3ec-ea301dfa042f.jpg?1568004146",
+        "card_name": "Boneyard Parley",
+        "set_name": "Commander 2019",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/04a82af7-309d-46f5-b3ec-ea301dfa042f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 16698,
+      "item_details": {
+        "scryfall_id": "3342096a-24bf-4f66-911e-d8a0c856f722",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/3/3342096a-24bf-4f66-911e-d8a0c856f722.jpg?1677544528",
+        "card_name": "Boneyard Wurm",
+        "set_name": "Wizards Play Network 2011",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/3342096a-24bf-4f66-911e-d8a0c856f722/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 31276,
+      "item_details": {
+        "scryfall_id": "605038e9-2840-4c2d-bd7a-1004ae210e2a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/0/605038e9-2840-4c2d-bd7a-1004ae210e2a.jpg?1547517517",
+        "card_name": "Boneyard Wurm",
+        "set_name": "Ultimate Masters",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/605038e9-2840-4c2d-bd7a-1004ae210e2a/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 38229,
+      "item_details": {
+        "scryfall_id": "75f3d9eb-462c-41b5-ad1a-baab7dc5eac3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/5/75f3d9eb-462c-41b5-ad1a-baab7dc5eac3.jpg?1677073528",
+        "card_name": "Boneyard Wurm",
+        "set_name": "Innistrad",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/75f3d9eb-462c-41b5-ad1a-baab7dc5eac3/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 205157,
+      "item_details": {
+        "scryfall_id": "4383ae7c-58ea-4354-93e4-677ad185c3bb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/3/4383ae7c-58ea-4354-93e4-677ad185c3bb.jpg?1712356061",
+        "card_name": "Bonny Pall, Clearcutter",
+        "set_name": "Outlaws of Thunder Junction",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/4383ae7c-58ea-4354-93e4-677ad185c3bb/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 8994,
+      "item_details": {
+        "scryfall_id": "1b4d0102-c0d6-4d50-941a-dd1c3575a3a8",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/b/1b4d0102-c0d6-4d50-941a-dd1c3575a3a8.jpg?1562791273",
+        "card_name": "Bontu's Last Reckoning",
+        "set_name": "Hour of Devastation",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/1b4d0102-c0d6-4d50-941a-dd1c3575a3a8/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 75929,
+      "item_details": {
+        "scryfall_id": "e9b00377-9acc-47c4-ae2f-b396d7050a15",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/9/e9b00377-9acc-47c4-ae2f-b396d7050a15.jpg?1543676244",
+        "card_name": "Bontu's Monument",
+        "set_name": "Amonkhet",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $4.50",
+        "detail_url": "/game-item/e9b00377-9acc-47c4-ae2f-b396d7050a15/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 73496,
+      "item_details": {
+        "scryfall_id": "e21aa266-4264-4e02-9403-02930e641573",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/2/e21aa266-4264-4e02-9403-02930e641573.jpg?1562940436",
+        "card_name": "Bonus Round",
+        "set_name": "Battlebond",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.20",
+        "detail_url": "/game-item/e21aa266-4264-4e02-9403-02930e641573/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 8861,
+      "item_details": {
+        "scryfall_id": "1af0c9a0-0dfa-4245-8b29-7bd37982b7d2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/a/1af0c9a0-0dfa-4245-8b29-7bd37982b7d2.jpg?1562732088",
+        "card_name": "Booby Trap",
+        "set_name": "Ninth Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/1af0c9a0-0dfa-4245-8b29-7bd37982b7d2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 62327,
+      "item_details": {
+        "scryfall_id": "bfedc78e-47dc-43e3-aed7-2d5c8e97fdac",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/f/bfedc78e-47dc-43e3-aed7-2d5c8e97fdac.jpg?1562056395",
+        "card_name": "Booby Trap",
+        "set_name": "Tempest",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/bfedc78e-47dc-43e3-aed7-2d5c8e97fdac/"
+      },
+      "available_units": 26
+    },
+    {
+      "id": 61918,
+      "item_details": {
+        "scryfall_id": "bead678c-7b6a-4668-9919-623312e08a65",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/e/bead678c-7b6a-4668-9919-623312e08a65.jpg?1562631756",
+        "card_name": "Book Burning",
+        "set_name": "Judgment",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/bead678c-7b6a-4668-9919-623312e08a65/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 166870,
+      "item_details": {
+        "scryfall_id": "04dcef75-6f98-4233-ae32-6fe41724c8e0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/4/04dcef75-6f98-4233-ae32-6fe41724c8e0.jpg?1688569131",
+        "card_name": "Book of Mazarbul",
+        "set_name": "The Lord of the Rings: Tales of Middle-earth",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/04dcef75-6f98-4233-ae32-6fe41724c8e0/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 42056,
+      "item_details": {
+        "scryfall_id": "820a9c79-5e0b-4959-9ff0-0dc6f2f632c5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/2/820a9c79-5e0b-4959-9ff0-0dc6f2f632c5.jpg?1562921266",
+        "card_name": "Book of Rass",
+        "set_name": "Chronicles",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/820a9c79-5e0b-4959-9ff0-0dc6f2f632c5/"
+      },
+      "available_units": 4
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 70,
+  "previous_page_number": 68,
+  "num_pages": 752,
+  "page_number": 69
+}

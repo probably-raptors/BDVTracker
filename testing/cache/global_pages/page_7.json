@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 17506,
+      "item_details": {
+        "scryfall_id": "35a8080f-ca3c-46fe-81cf-003ac7ba7f24",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/5/35a8080f-ca3c-46fe-81cf-003ac7ba7f24.jpg?1591105503",
+        "card_name": "Aesthir Glider",
+        "set_name": "Alliances",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/35a8080f-ca3c-46fe-81cf-003ac7ba7f24/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 21821,
+      "item_details": {
+        "scryfall_id": "435b78cb-5acc-4d14-966f-979322d99114",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/3/435b78cb-5acc-4d14-966f-979322d99114.jpg?1562768259",
+        "card_name": "Aesthir Glider",
+        "set_name": "Alliances",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/435b78cb-5acc-4d14-966f-979322d99114/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 7293,
+      "item_details": {
+        "scryfall_id": "1640b76d-15d6-4b08-a34b-c5432259d570",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/6/1640b76d-15d6-4b08-a34b-c5432259d570.jpg?1592754417",
+        "card_name": "Aether Adept",
+        "set_name": "Duel Decks: Jace vs. Vraska",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/1640b76d-15d6-4b08-a34b-c5432259d570/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 3786,
+      "item_details": {
+        "scryfall_id": "0b551dab-1a81-406d-b708-b3b7300eb02e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/b/0b551dab-1a81-406d-b708-b3b7300eb02e.jpg?1562450335",
+        "card_name": "Aether Adept",
+        "set_name": "Magic 2011",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/0b551dab-1a81-406d-b708-b3b7300eb02e/"
+      },
+      "available_units": 22
+    },
+    {
+      "id": 81280,
+      "item_details": {
+        "scryfall_id": "fa6f04ca-cab7-4c86-a56c-79d6ae3b73e6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/a/fa6f04ca-cab7-4c86-a56c-79d6ae3b73e6.jpg?1562666966",
+        "card_name": "Aether Adept",
+        "set_name": "Magic 2012",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/fa6f04ca-cab7-4c86-a56c-79d6ae3b73e6/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 19810,
+      "item_details": {
+        "scryfall_id": "3d09ea4a-0d3a-40b8-be0f-a31693099c4f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/d/3d09ea4a-0d3a-40b8-be0f-a31693099c4f.jpg?1562906235",
+        "card_name": "Aether Burst",
+        "set_name": "Odyssey",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/3d09ea4a-0d3a-40b8-be0f-a31693099c4f/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 31375,
+      "item_details": {
+        "scryfall_id": "60afeb75-2c1e-4634-8c83-88b1dddb77c2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/0/60afeb75-2c1e-4634-8c83-88b1dddb77c2.jpg?1673306655",
+        "card_name": "Aether Channeler",
+        "set_name": "Dominaria United",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/60afeb75-2c1e-4634-8c83-88b1dddb77c2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 70181,
+      "item_details": {
+        "scryfall_id": "d7e9024e-17a4-48ba-b775-1b828b90dfac",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/7/d7e9024e-17a4-48ba-b775-1b828b90dfac.jpg?1675620094",
+        "card_name": "Aether Channeler",
+        "set_name": "Dominaria United Promos",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/d7e9024e-17a4-48ba-b775-1b828b90dfac/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 35312,
+      "item_details": {
+        "scryfall_id": "6ce9b68f-e634-4191-a564-d16b8d6de0d4",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/c/6ce9b68f-e634-4191-a564-d16b8d6de0d4.jpg?1682719373",
+        "card_name": "Aether Channeler",
+        "set_name": "Store Championships",
+        "rarity": "Rare",
+        "display_price": "Starting at: $4.00",
+        "detail_url": "/game-item/6ce9b68f-e634-4191-a564-d16b8d6de0d4/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 1938,
+      "item_details": {
+        "scryfall_id": "05df2792-4971-49e8-a8f2-17700e247500",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/5/05df2792-4971-49e8-a8f2-17700e247500.jpg?1562896370",
+        "card_name": "Aether Charge",
+        "set_name": "Onslaught",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/05df2792-4971-49e8-a8f2-17700e247500/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 13403,
+      "item_details": {
+        "scryfall_id": "290cde84-d97a-4737-aff2-c443a4e43f7d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/9/290cde84-d97a-4737-aff2-c443a4e43f7d.jpg?1576381759",
+        "card_name": "Aether Chaser",
+        "set_name": "Aether Revolt",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/290cde84-d97a-4737-aff2-c443a4e43f7d/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 7215,
+      "item_details": {
+        "scryfall_id": "15fd5ce4-335f-409c-a09e-e17a41c2da71",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/5/15fd5ce4-335f-409c-a09e-e17a41c2da71.jpg?1592754370",
+        "card_name": "Aether Figment",
+        "set_name": "Duel Decks: Jace vs. Vraska",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/15fd5ce4-335f-409c-a09e-e17a41c2da71/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 37484,
+      "item_details": {
+        "scryfall_id": "73a4657b-98de-4f4c-b921-46d15a8e6f5a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/3/73a4657b-98de-4f4c-b921-46d15a8e6f5a.jpg?1562613350",
+        "card_name": "Aether Figment",
+        "set_name": "Zendikar",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/73a4657b-98de-4f4c-b921-46d15a8e6f5a/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 13361,
+      "item_details": {
+        "scryfall_id": "28f6642d-393d-49a5-8c49-c1f62524ea20",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/8/28f6642d-393d-49a5-8c49-c1f62524ea20.jpg?1562799965",
+        "card_name": "Aether Flash",
+        "set_name": "Weatherlight",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/28f6642d-393d-49a5-8c49-c1f62524ea20/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 51598,
+      "item_details": {
+        "scryfall_id": "9f04015b-0286-4230-a72f-36c511d89f45",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/f/9f04015b-0286-4230-a72f-36c511d89f45.jpg?1625975933",
+        "card_name": "Aether Gale",
+        "set_name": "Commander 2021",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/9f04015b-0286-4230-a72f-36c511d89f45/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 75576,
+      "item_details": {
+        "scryfall_id": "e89f2a37-9e8e-4291-9595-3c20b00444b0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/8/e89f2a37-9e8e-4291-9595-3c20b00444b0.jpg?1592710516",
+        "card_name": "Aether Gale",
+        "set_name": "Commander 2018",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/e89f2a37-9e8e-4291-9595-3c20b00444b0/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 68182,
+      "item_details": {
+        "scryfall_id": "d1ae3672-8361-4bdb-979a-75dd909d77ba",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/1/d1ae3672-8361-4bdb-979a-75dd909d77ba.jpg?1561959768",
+        "card_name": "Aether Gale",
+        "set_name": "Commander 2014",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/d1ae3672-8361-4bdb-979a-75dd909d77ba/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 66633,
+      "item_details": {
+        "scryfall_id": "cd153e03-4fe1-477d-9e7f-ee5c432a4285",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/d/cd153e03-4fe1-477d-9e7f-ee5c432a4285.jpg?1674141260",
+        "card_name": "Aether Gale",
+        "set_name": "Commander Legends: Battle for Baldur's Gate",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/cd153e03-4fe1-477d-9e7f-ee5c432a4285/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 61271,
+      "item_details": {
+        "scryfall_id": "bcc1aa91-ec97-4fe8-b4b1-a213f050f956",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/c/bcc1aa91-ec97-4fe8-b4b1-a213f050f956.jpg?1682712447",
+        "card_name": "Aether Gust",
+        "set_name": "Secret Lair Drop",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.50",
+        "detail_url": "/game-item/bcc1aa91-ec97-4fe8-b4b1-a213f050f956/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 40469,
+      "item_details": {
+        "scryfall_id": "7d1c653e-f629-4105-a52c-379c5cd78208",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/d/7d1c653e-f629-4105-a52c-379c5cd78208.jpg?1627428064",
+        "card_name": "Aether Helix",
+        "set_name": "Strixhaven: School of Mages",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7d1c653e-f629-4105-a52c-379c5cd78208/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 75529,
+      "item_details": {
+        "scryfall_id": "e8744a31-451b-4349-8f62-e2392a72a154",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/8/e8744a31-451b-4349-8f62-e2392a72a154.jpg?1576381934",
+        "card_name": "Aether Herder",
+        "set_name": "Aether Revolt",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/e8744a31-451b-4349-8f62-e2392a72a154/"
+      },
+      "available_units": 14
+    },
+    {
+      "id": 53445,
+      "item_details": {
+        "scryfall_id": "a4a9c5ae-c6f2-4189-bf0e-2bd698caff0c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/4/a4a9c5ae-c6f2-4189-bf0e-2bd698caff0c.jpg?1562636864",
+        "card_name": "Aether Hub",
+        "set_name": "Friday Night Magic 2017",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/a4a9c5ae-c6f2-4189-bf0e-2bd698caff0c/"
+      },
+      "available_units": 48
+    },
+    {
+      "id": 12369,
+      "item_details": {
+        "scryfall_id": "25ea04d8-5d85-49d3-8d8d-7fe123d0ed6c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/5/25ea04d8-5d85-49d3-8d8d-7fe123d0ed6c.jpg?1576383493",
+        "card_name": "Aether Hub",
+        "set_name": "Kaladesh",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/25ea04d8-5d85-49d3-8d8d-7fe123d0ed6c/"
+      },
+      "available_units": 80
+    },
+    {
+      "id": 207471,
+      "item_details": {
+        "scryfall_id": "bb4436d5-ab12-4e0f-9490-c7a4a62aaa65",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/b/bb4436d5-ab12-4e0f-9490-c7a4a62aaa65.jpg?1716925058",
+        "card_name": "Aether Hub",
+        "set_name": "Modern Horizons 3 Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $4.00",
+        "detail_url": "/game-item/bb4436d5-ab12-4e0f-9490-c7a4a62aaa65/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 223627,
+      "item_details": {
+        "scryfall_id": "bb6a8c30-e824-4137-b83e-b9d175a0d037",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/b/bb6a8c30-e824-4137-b83e-b9d175a0d037.jpg?1738356001",
+        "card_name": "Aether Hub",
+        "set_name": "Aetherdrift Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/bb6a8c30-e824-4137-b83e-b9d175a0d037/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 79790,
+      "item_details": {
+        "scryfall_id": "f5dcbe97-d582-464e-98e7-dd06d8652606",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/5/f5dcbe97-d582-464e-98e7-dd06d8652606.jpg?1576381273",
+        "card_name": "Aether Inspector",
+        "set_name": "Aether Revolt",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/f5dcbe97-d582-464e-98e7-dd06d8652606/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 47280,
+      "item_details": {
+        "scryfall_id": "91f99614-45e2-4688-8403-f3a6b9162b08",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/1/91f99614-45e2-4688-8403-f3a6b9162b08.jpg?1576381077",
+        "card_name": "Aether Meltdown",
+        "set_name": "Kaladesh",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/91f99614-45e2-4688-8403-f3a6b9162b08/"
+      },
+      "available_units": 16
+    },
+    {
+      "id": 38701,
+      "item_details": {
+        "scryfall_id": "7767264f-926f-48eb-a5a1-c56b027e645f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/7/7767264f-926f-48eb-a5a1-c56b027e645f.jpg?1562574817",
+        "card_name": "Aether Membrane",
+        "set_name": "Planar Chaos",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/7767264f-926f-48eb-a5a1-c56b027e645f/"
+      },
+      "available_units": 42
+    },
+    {
+      "id": 54990,
+      "item_details": {
+        "scryfall_id": "a9507116-ede8-40a1-8fa3-705e6f6f64c0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/9/a9507116-ede8-40a1-8fa3-705e6f6f64c0.jpg?1562935036",
+        "card_name": "Aether Mutation",
+        "set_name": "Apocalypse",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a9507116-ede8-40a1-8fa3-705e6f6f64c0/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 65474,
+      "item_details": {
+        "scryfall_id": "c9b217f1-1621-40d1-8a98-24c1f7cba800",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/9/c9b217f1-1621-40d1-8a98-24c1f7cba800.jpg?1576381601",
+        "card_name": "Aether Poisoner",
+        "set_name": "Aether Revolt",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c9b217f1-1621-40d1-8a98-24c1f7cba800/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 207240,
+      "item_details": {
+        "scryfall_id": "b8732e62-cdee-4d32-82a8-8a71a04be7a1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/8/b8732e62-cdee-4d32-82a8-8a71a04be7a1.jpg?1717012116",
+        "card_name": "Aether Revolt",
+        "set_name": "Modern Horizons 3",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/b8732e62-cdee-4d32-82a8-8a71a04be7a1/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 207102,
+      "item_details": {
+        "scryfall_id": "6f2f7432-9216-4ef7-ab7b-c5d8e1cae395",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/f/6f2f7432-9216-4ef7-ab7b-c5d8e1cae395.jpg?1717015320",
+        "card_name": "Aether Revolt",
+        "set_name": "Modern Horizons 3",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.75",
+        "detail_url": "/game-item/6f2f7432-9216-4ef7-ab7b-c5d8e1cae395/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 208344,
+      "item_details": {
+        "scryfall_id": "271ef715-861c-4dad-93b2-160e29131c49",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/7/271ef715-861c-4dad-93b2-160e29131c49.jpg?1719871966",
+        "card_name": "Aether Revolt",
+        "set_name": "Modern Horizons 3 Promos",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/271ef715-861c-4dad-93b2-160e29131c49/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 48156,
+      "item_details": {
+        "scryfall_id": "94dcff94-9f25-4ca9-a1f1-5d97de4ab9df",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/4/94dcff94-9f25-4ca9-a1f1-5d97de4ab9df.jpg?1562865937",
+        "card_name": "Aether Searcher",
+        "set_name": "Conspiracy",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/94dcff94-9f25-4ca9-a1f1-5d97de4ab9df/"
+      },
+      "available_units": 40
+    },
+    {
+      "id": 42066,
+      "item_details": {
+        "scryfall_id": "8214d2e9-5aa1-42a7-8f1a-f4eaa2def1b1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/2/8214d2e9-5aa1-42a7-8f1a-f4eaa2def1b1.jpg?1593860487",
+        "card_name": "Aether Shockwave",
+        "set_name": "Saviors of Kamigawa",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/8214d2e9-5aa1-42a7-8f1a-f4eaa2def1b1/"
+      },
+      "available_units": 20
+    },
+    {
+      "id": 65119,
+      "item_details": {
+        "scryfall_id": "c89eed52-aa5b-4a59-9bc6-cea65e504deb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/8/c89eed52-aa5b-4a59-9bc6-cea65e504deb.jpg?1561958273",
+        "card_name": "Aether Snap",
+        "set_name": "Commander 2014",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/c89eed52-aa5b-4a59-9bc6-cea65e504deb/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 70611,
+      "item_details": {
+        "scryfall_id": "d9422b79-2bc5-4d0a-8f91-157d9fc09641",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/9/d9422b79-2bc5-4d0a-8f91-157d9fc09641.jpg?1562639912",
+        "card_name": "Aether Snap",
+        "set_name": "Darksteel",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/d9422b79-2bc5-4d0a-8f91-157d9fc09641/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 79046,
+      "item_details": {
+        "scryfall_id": "f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/3/f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f.jpg?1562163026",
+        "card_name": "Aether Spellbomb",
+        "set_name": "Mirrodin",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f/"
+      },
+      "available_units": 46
+    },
+    {
+      "id": 77400,
+      "item_details": {
+        "scryfall_id": "ee539bda-62b4-40fb-95d3-c7d1fc0a7e09",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/e/ee539bda-62b4-40fb-95d3-c7d1fc0a7e09.jpg?1675652224",
+        "card_name": "Aether Spellbomb",
+        "set_name": "Jumpstart 2022",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/ee539bda-62b4-40fb-95d3-c7d1fc0a7e09/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 24189,
+      "item_details": {
+        "scryfall_id": "4aa399bf-c4c4-460a-a707-3f267581f257",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/a/4aa399bf-c4c4-460a-a707-3f267581f257.jpg?1562270216",
+        "card_name": "Aether Spellbomb",
+        "set_name": "Duel Decks: Elspeth vs. Tezzeret",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/4aa399bf-c4c4-460a-a707-3f267581f257/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 23596,
+      "item_details": {
+        "scryfall_id": "48ef7938-7c68-4aeb-9403-4ab1af944a81",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/8/48ef7938-7c68-4aeb-9403-4ab1af944a81.jpg?1561966891",
+        "card_name": "Aether Spellbomb",
+        "set_name": "Modern Masters",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/48ef7938-7c68-4aeb-9403-4ab1af944a81/"
+      },
+      "available_units": 11
+    },
+    {
+      "id": 206870,
+      "item_details": {
+        "scryfall_id": "012f5195-10ab-4b32-a5de-a79341cd536a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/1/012f5195-10ab-4b32-a5de-a79341cd536a.jpg?1717011606",
+        "card_name": "Aether Spike",
+        "set_name": "Modern Horizons 3",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.10",
+        "detail_url": "/game-item/012f5195-10ab-4b32-a5de-a79341cd536a/"
+      },
+      "available_units": 87
+    },
+    {
+      "id": 33320,
+      "item_details": {
+        "scryfall_id": "66a09917-50ce-4b51-a5cf-e28e88a45762",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/6/66a09917-50ce-4b51-a5cf-e28e88a45762.jpg?1562444227",
+        "card_name": "Aether Sting",
+        "set_name": "Urza's Destiny",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/66a09917-50ce-4b51-a5cf-e28e88a45762/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 39444,
+      "item_details": {
+        "scryfall_id": "79d6b89e-f24a-4d32-a6f7-8466f46d9ad0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/9/79d6b89e-f24a-4d32-a6f7-8466f46d9ad0.jpg?1562591842",
+        "card_name": "Aether Storm",
+        "set_name": "Fifth Edition",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/79d6b89e-f24a-4d32-a6f7-8466f46d9ad0/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 67043,
+      "item_details": {
+        "scryfall_id": "ce479e91-7b21-4312-a3c0-950d9f6dc029",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/e/ce479e91-7b21-4312-a3c0-950d9f6dc029.jpg?1562588243",
+        "card_name": "Aether Storm",
+        "set_name": "Homelands",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/ce479e91-7b21-4312-a3c0-950d9f6dc029/"
+      },
+      "available_units": 27
+    },
+    {
+      "id": 45407,
+      "item_details": {
+        "scryfall_id": "8c34dbe3-3a66-40b3-a5c2-c2d6acb47773",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/c/8c34dbe3-3a66-40b3-a5c2-c2d6acb47773.jpg?1576381441",
+        "card_name": "Aether Swooper",
+        "set_name": "Aether Revolt",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8c34dbe3-3a66-40b3-a5c2-c2d6acb47773/"
+      },
+      "available_units": 7
+    },
+    {
+      "id": 223398,
+      "item_details": {
+        "scryfall_id": "d7033739-4cd8-4727-b9b5-099fb597006b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/7/d7033739-4cd8-4727-b9b5-099fb597006b.jpg?1738356192",
+        "card_name": "Aether Syphon",
+        "set_name": "Aetherdrift",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/d7033739-4cd8-4727-b9b5-099fb597006b/"
+      },
+      "available_units": 20
+    },
+    {
+      "id": 44039,
+      "item_details": {
+        "scryfall_id": "882b5580-ee23-4d65-a2b3-82475d6faf8e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/8/882b5580-ee23-4d65-a2b3-82475d6faf8e.jpg?1576381087",
+        "card_name": "Aether Theorist",
+        "set_name": "Kaladesh",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/882b5580-ee23-4d65-a2b3-82475d6faf8e/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 50127,
+      "item_details": {
+        "scryfall_id": "9aab7526-5825-4f31-92ff-be25ab5af2f5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/a/9aab7526-5825-4f31-92ff-be25ab5af2f5.jpg?1562088326",
+        "card_name": "Aether Tide",
+        "set_name": "Exodus",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/9aab7526-5825-4f31-92ff-be25ab5af2f5/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 49886,
+      "item_details": {
+        "scryfall_id": "99f31a77-a4a9-4783-8885-c44552379ae6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/9/99f31a77-a4a9-4783-8885-c44552379ae6.jpg?1562292193",
+        "card_name": "Aether Tradewinds",
+        "set_name": "Worldwake",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/99f31a77-a4a9-4783-8885-c44552379ae6/"
+      },
+      "available_units": 4
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 8,
+  "previous_page_number": 6,
+  "num_pages": 752,
+  "page_number": 7
+}

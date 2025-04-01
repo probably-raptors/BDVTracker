@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 40191,
+      "item_details": {
+        "scryfall_id": "7c38833a-96c5-48b5-8dd8-23f10e798537",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/c/7c38833a-96c5-48b5-8dd8-23f10e798537.jpg?1581480541",
+        "card_name": "Arasta of the Endless Web",
+        "set_name": "Theros Beyond Death",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/7c38833a-96c5-48b5-8dd8-23f10e798537/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 23530,
+      "item_details": {
+        "scryfall_id": "48b597dd-f6eb-45da-977d-453e8c1433cc",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/8/48b597dd-f6eb-45da-977d-453e8c1433cc.jpg?1608911023",
+        "card_name": "Araumi of the Dead Tide",
+        "set_name": "Commander Legends",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/48b597dd-f6eb-45da-977d-453e8c1433cc/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 208735,
+      "item_details": {
+        "scryfall_id": "458bf178-a2d8-4f7d-afed-48a7e2bbf246",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/5/458bf178-a2d8-4f7d-afed-48a7e2bbf246.jpg?1718842609",
+        "card_name": "Arbaaz Mir",
+        "set_name": "Assassin's Creed",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/458bf178-a2d8-4f7d-afed-48a7e2bbf246/"
+      },
+      "available_units": 14
+    },
+    {
+      "id": 208643,
+      "item_details": {
+        "scryfall_id": "c7187506-4af3-47e9-bad0-4ce8c78ccc10",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/7/c7187506-4af3-47e9-bad0-4ce8c78ccc10.jpg?1718842589",
+        "card_name": "Arbaaz Mir",
+        "set_name": "Assassin's Creed",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/c7187506-4af3-47e9-bad0-4ce8c78ccc10/"
+      },
+      "available_units": 40
+    },
+    {
+      "id": 3087,
+      "item_details": {
+        "scryfall_id": "094c839e-0aea-4754-af37-edf6292623e1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/9/094c839e-0aea-4754-af37-edf6292623e1.jpg?1562631533",
+        "card_name": "Arbalest Elite",
+        "set_name": "Magic 2012",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/094c839e-0aea-4754-af37-edf6292623e1/"
+      },
+      "available_units": 7
+    },
+    {
+      "id": 72570,
+      "item_details": {
+        "scryfall_id": "df343bf9-f535-42c7-a2d0-8adfd068b354",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/f/df343bf9-f535-42c7-a2d0-8adfd068b354.jpg?1674421739",
+        "card_name": "Arbalest Engineers",
+        "set_name": "The Brothers' War",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/df343bf9-f535-42c7-a2d0-8adfd068b354/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 10359,
+      "item_details": {
+        "scryfall_id": "1fc2e7c4-5dbe-49f4-8c3f-192e7544df74",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/f/1fc2e7c4-5dbe-49f4-8c3f-192e7544df74.jpg?1562272885",
+        "card_name": "Arbiter of Knollridge",
+        "set_name": "Commander Anthology Volume II",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/1fc2e7c4-5dbe-49f4-8c3f-192e7544df74/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 53727,
+      "item_details": {
+        "scryfall_id": "a5714c90-59ca-4a39-ab38-6336fb8adb0a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/5/a5714c90-59ca-4a39-ab38-6336fb8adb0a.jpg?1592712713",
+        "card_name": "Arbiter of Knollridge",
+        "set_name": "Commander 2011",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/a5714c90-59ca-4a39-ab38-6336fb8adb0a/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 34832,
+      "item_details": {
+        "scryfall_id": "6b598cf2-c327-422b-9527-1b28645ba70c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/b/6b598cf2-c327-422b-9527-1b28645ba70c.jpg?1562352139",
+        "card_name": "Arbiter of Knollridge",
+        "set_name": "Lorwyn",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/6b598cf2-c327-422b-9527-1b28645ba70c/"
+      },
+      "available_units": 58
+    },
+    {
+      "id": 16574,
+      "item_details": {
+        "scryfall_id": "32e58ba3-4202-4f91-b27f-7528d27c1d5c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/2/32e58ba3-4202-4f91-b27f-7528d27c1d5c.jpg?1593091603",
+        "card_name": "Arbiter of the Ideal",
+        "set_name": "Born of the Gods",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/32e58ba3-4202-4f91-b27f-7528d27c1d5c/"
+      },
+      "available_units": 28
+    },
+    {
+      "id": 16943,
+      "item_details": {
+        "scryfall_id": "340a0f1b-d555-4c6c-8efe-b95996902d0a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/4/340a0f1b-d555-4c6c-8efe-b95996902d0a.jpg?1605370632",
+        "card_name": "Arbiter of the Ideal",
+        "set_name": "Born of the Gods Promos",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/340a0f1b-d555-4c6c-8efe-b95996902d0a/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 219722,
+      "item_details": {
+        "scryfall_id": "b2496c4a-df03-4583-bd76-f98ed5cb61ee",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/2/b2496c4a-df03-4583-bd76-f98ed5cb61ee.jpg?1730488789",
+        "card_name": "Arbiter of Woe",
+        "set_name": "Foundations",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/b2496c4a-df03-4583-bd76-f98ed5cb61ee/"
+      },
+      "available_units": 18
+    },
+    {
+      "id": 43844,
+      "item_details": {
+        "scryfall_id": "87a12eac-c104-4a91-a9d3-ccc450d5114c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/7/87a12eac-c104-4a91-a9d3-ccc450d5114c.jpg?1562706684",
+        "card_name": "Arbor Colossus",
+        "set_name": "Commander 2015",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/87a12eac-c104-4a91-a9d3-ccc450d5114c/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 72741,
+      "item_details": {
+        "scryfall_id": "dfbd7c65-ebe5-47a6-8d2f-9a8c63a30a7b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/f/dfbd7c65-ebe5-47a6-8d2f-9a8c63a30a7b.jpg?1562834472",
+        "card_name": "Arbor Colossus",
+        "set_name": "Theros",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/dfbd7c65-ebe5-47a6-8d2f-9a8c63a30a7b/"
+      },
+      "available_units": 176
+    },
+    {
+      "id": 35393,
+      "item_details": {
+        "scryfall_id": "6d32a4ed-6b43-4473-91ec-08cd5414f2f0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/d/6d32a4ed-6b43-4473-91ec-08cd5414f2f0.jpg?1562289419",
+        "card_name": "Arbor Elf",
+        "set_name": "Worldwake",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/6d32a4ed-6b43-4473-91ec-08cd5414f2f0/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 24485,
+      "item_details": {
+        "scryfall_id": "4b81165e-f091-4211-8b47-5ea6868b0d4c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/b/4b81165e-f091-4211-8b47-5ea6868b0d4c.jpg?1562435427",
+        "card_name": "Arbor Elf",
+        "set_name": "Masters 25",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/4b81165e-f091-4211-8b47-5ea6868b0d4c/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 16086,
+      "item_details": {
+        "scryfall_id": "3178e55c-7e49-4621-906a-a66e5656e276",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/1/3178e55c-7e49-4621-906a-a66e5656e276.jpg?1643831775",
+        "card_name": "Arbor Elf",
+        "set_name": "Wizards Play Network 2021",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/3178e55c-7e49-4621-906a-a66e5656e276/"
+      },
+      "available_units": 52
+    },
+    {
+      "id": 59703,
+      "item_details": {
+        "scryfall_id": "b7d6b117-0c14-4455-92fc-29555ee75d97",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/7/b7d6b117-0c14-4455-92fc-29555ee75d97.jpg?1562559093",
+        "card_name": "Arbor Elf",
+        "set_name": "Magic 2013",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/b7d6b117-0c14-4455-92fc-29555ee75d97/"
+      },
+      "available_units": 252
+    },
+    {
+      "id": 39075,
+      "item_details": {
+        "scryfall_id": "788b9d55-6679-4fcc-a3af-11d31e477421",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/8/788b9d55-6679-4fcc-a3af-11d31e477421.jpg?1576382341",
+        "card_name": "Arborback Stomper",
+        "set_name": "Kaladesh",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/788b9d55-6679-4fcc-a3af-11d31e477421/"
+      },
+      "available_units": 19
+    },
+    {
+      "id": 81863,
+      "item_details": {
+        "scryfall_id": "fc45c9d4-ecc7-4a9d-9efe-f4b7d697dd97",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/c/fc45c9d4-ecc7-4a9d-9efe-f4b7d697dd97.jpg?1627701260",
+        "card_name": "Arborea Pegasus",
+        "set_name": "Adventures in the Forgotten Realms",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/fc45c9d4-ecc7-4a9d-9efe-f4b7d697dd97/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 35010,
+      "item_details": {
+        "scryfall_id": "6bf942df-d30b-4d1b-8a46-bca4abaeb147",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/b/6bf942df-d30b-4d1b-8a46-bca4abaeb147.jpg?1627711071",
+        "card_name": "Arborea Pegasus",
+        "set_name": "Adventures in the Forgotten Realms",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/6bf942df-d30b-4d1b-8a46-bca4abaeb147/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 63823,
+      "item_details": {
+        "scryfall_id": "c4a5f86f-44a8-4735-909a-770586d33a15",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/4/c4a5f86f-44a8-4735-909a-770586d33a15.jpg?1586962989",
+        "card_name": "Arboreal Grazer",
+        "set_name": "War of the Spark",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.20",
+        "detail_url": "/game-item/c4a5f86f-44a8-4735-909a-770586d33a15/"
+      },
+      "available_units": 116
+    },
+    {
+      "id": 203291,
+      "item_details": {
+        "scryfall_id": "bbed5933-836f-4a78-af53-c7e68a231279",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/b/bbed5933-836f-4a78-af53-c7e68a231279.jpg?1702416671",
+        "card_name": "Arboreal Grazer",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/bbed5933-836f-4a78-af53-c7e68a231279/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 201620,
+      "item_details": {
+        "scryfall_id": "6d00ced6-7ba3-4d78-a680-9d3211704ca2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/d/6d00ced6-7ba3-4d78-a680-9d3211704ca2.jpg?1702429543",
+        "card_name": "Arboreal Grazer",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/6d00ced6-7ba3-4d78-a680-9d3211704ca2/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 54610,
+      "item_details": {
+        "scryfall_id": "a834bdb8-6c4f-4ca4-a097-27411d66e797",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/8/a834bdb8-6c4f-4ca4-a097-27411d66e797.jpg?1682714162",
+        "card_name": "Arboria",
+        "set_name": "Dominaria Remastered",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/a834bdb8-6c4f-4ca4-a097-27411d66e797/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 57603,
+      "item_details": {
+        "scryfall_id": "b15b991e-b5c1-4d23-ba3a-4554c272a41f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/1/b15b991e-b5c1-4d23-ba3a-4554c272a41f.jpg?1675202036",
+        "card_name": "Arboria",
+        "set_name": "Dominaria Remastered",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/b15b991e-b5c1-4d23-ba3a-4554c272a41f/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 57672,
+      "item_details": {
+        "scryfall_id": "b18f4de2-adfe-4784-bd57-9e2ad9088825",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/1/b18f4de2-adfe-4784-bd57-9e2ad9088825.jpg?1675200294",
+        "card_name": "Arboria",
+        "set_name": "Dominaria Remastered",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/b18f4de2-adfe-4784-bd57-9e2ad9088825/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 24980,
+      "item_details": {
+        "scryfall_id": "4d1c04fb-213f-4be1-9bba-94c737826bf8",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/d/4d1c04fb-213f-4be1-9bba-94c737826bf8.jpg?1562910601",
+        "card_name": "Arc Blade",
+        "set_name": "Future Sight",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/4d1c04fb-213f-4be1-9bba-94c737826bf8/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 17555,
+      "item_details": {
+        "scryfall_id": "35c7c392-6782-40c8-bb24-6aad24f14660",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/5/35c7c392-6782-40c8-bb24-6aad24f14660.jpg?1562784760",
+        "card_name": "Arc Lightning",
+        "set_name": "Khans of Tarkir",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/35c7c392-6782-40c8-bb24-6aad24f14660/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 4166,
+      "item_details": {
+        "scryfall_id": "0c81ade7-0074-4447-ba2c-b16fa0f09ccb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/c/0c81ade7-0074-4447-ba2c-b16fa0f09ccb.jpg?1562897576",
+        "card_name": "Arc Lightning",
+        "set_name": "Urza's Saga",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/0c81ade7-0074-4447-ba2c-b16fa0f09ccb/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 32028,
+      "item_details": {
+        "scryfall_id": "62982dab-4c27-45b3-9740-38fec3df7226",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/2/62982dab-4c27-45b3-9740-38fec3df7226.jpg?1562630243",
+        "card_name": "Arc Mage",
+        "set_name": "Nemesis",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/62982dab-4c27-45b3-9740-38fec3df7226/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 16256,
+      "item_details": {
+        "scryfall_id": "32014715-7faa-412a-b8b4-751102e6b8a3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/2/32014715-7faa-412a-b8b4-751102e6b8a3.jpg?1562455498",
+        "card_name": "Arc Runner",
+        "set_name": "Magic 2011",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/32014715-7faa-412a-b8b4-751102e6b8a3/"
+      },
+      "available_units": 26
+    },
+    {
+      "id": 80940,
+      "item_details": {
+        "scryfall_id": "f95a00ed-dc77-4dcd-9e14-6902565974b5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/9/f95a00ed-dc77-4dcd-9e14-6902565974b5.jpg?1664414046",
+        "card_name": "Arc Spitter",
+        "set_name": "Streets of New Capenna",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/f95a00ed-dc77-4dcd-9e14-6902565974b5/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 16523,
+      "item_details": {
+        "scryfall_id": "32c00c59-7cf7-4957-83f7-d571a259a40b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/2/32c00c59-7cf7-4957-83f7-d571a259a40b.jpg?1592754717",
+        "card_name": "Arc Trail",
+        "set_name": "Duel Decks: Speed vs. Cunning",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/32c00c59-7cf7-4957-83f7-d571a259a40b/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 22146,
+      "item_details": {
+        "scryfall_id": "445e3a0a-29a7-4dc0-80fe-569b9e751db3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/4/445e3a0a-29a7-4dc0-80fe-569b9e751db3.jpg?1562816934",
+        "card_name": "Arc Trail",
+        "set_name": "Scars of Mirrodin",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/445e3a0a-29a7-4dc0-80fe-569b9e751db3/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 68849,
+      "item_details": {
+        "scryfall_id": "d3dd67e0-72b4-4c55-b49b-c69950feccb1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/3/d3dd67e0-72b4-4c55-b49b-c69950feccb1.jpg?1562158892",
+        "card_name": "Arc-Slogger",
+        "set_name": "Mirrodin",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/d3dd67e0-72b4-4c55-b49b-c69950feccb1/"
+      },
+      "available_units": 48
+    },
+    {
+      "id": 204642,
+      "item_details": {
+        "scryfall_id": "987fd451-7276-4cde-a820-a6e55a59b010",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/8/987fd451-7276-4cde-a820-a6e55a59b010.jpg?1708743882",
+        "card_name": "Arcade Gannon",
+        "set_name": "Fallout",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/987fd451-7276-4cde-a820-a6e55a59b010/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 204218,
+      "item_details": {
+        "scryfall_id": "36356522-15fc-41e2-bf14-a745e5a96a50",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/6/36356522-15fc-41e2-bf14-a745e5a96a50.jpg?1708742414",
+        "card_name": "Arcade Gannon",
+        "set_name": "Fallout",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/36356522-15fc-41e2-bf14-a745e5a96a50/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 204394,
+      "item_details": {
+        "scryfall_id": "61569b1a-2942-4426-a9d5-3130f725f3d6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/1/61569b1a-2942-4426-a9d5-3130f725f3d6.jpg?1708746023",
+        "card_name": "Arcade Gannon",
+        "set_name": "Fallout",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/61569b1a-2942-4426-a9d5-3130f725f3d6/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 68284,
+      "item_details": {
+        "scryfall_id": "d20a0b5a-2a04-4cce-83e4-2d65ef9399df",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/2/d20a0b5a-2a04-4cce-83e4-2d65ef9399df.jpg?1562937212",
+        "card_name": "Arcades Sabboth",
+        "set_name": "Chronicles",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/d20a0b5a-2a04-4cce-83e4-2d65ef9399df/"
+      },
+      "available_units": 26
+    },
+    {
+      "id": 15402,
+      "item_details": {
+        "scryfall_id": "2f75fe15-5499-4dfe-917d-adfeccd6838a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/f/2f75fe15-5499-4dfe-917d-adfeccd6838a.jpg?1675202179",
+        "card_name": "Arcades Sabboth",
+        "set_name": "Dominaria Remastered",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/2f75fe15-5499-4dfe-917d-adfeccd6838a/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 7635,
+      "item_details": {
+        "scryfall_id": "175695bb-2630-4269-a407-9138c7008e81",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/7/175695bb-2630-4269-a407-9138c7008e81.jpg?1675200635",
+        "card_name": "Arcades Sabboth",
+        "set_name": "Dominaria Remastered",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/175695bb-2630-4269-a407-9138c7008e81/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 14335,
+      "item_details": {
+        "scryfall_id": "2c1dbc62-ceb5-4540-ae38-901e5deafc75",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/c/2c1dbc62-ceb5-4540-ae38-901e5deafc75.jpg?1562858238",
+        "card_name": "Arcades Sabboth",
+        "set_name": "Legends",
+        "rarity": "Rare",
+        "display_price": "Starting at: $41.00",
+        "detail_url": "/game-item/2c1dbc62-ceb5-4540-ae38-901e5deafc75/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 9991,
+      "item_details": {
+        "scryfall_id": "1e90c638-d4b2-4243-bbc4-1cc10516c40f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/e/1e90c638-d4b2-4243-bbc4-1cc10516c40f.jpg?1666961830",
+        "card_name": "Arcades, the Strategist",
+        "set_name": "Core Set 2019",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $4.50",
+        "detail_url": "/game-item/1e90c638-d4b2-4243-bbc4-1cc10516c40f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 12105,
+      "item_details": {
+        "scryfall_id": "251c5250-4af3-4134-995a-8fe022a67ab5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/5/251c5250-4af3-4134-995a-8fe022a67ab5.jpg?1573506869",
+        "card_name": "Arcane Denial",
+        "set_name": "Mystery Booster",
+        "rarity": "Common",
+        "display_price": "Starting at: $3.50",
+        "detail_url": "/game-item/251c5250-4af3-4134-995a-8fe022a67ab5/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 11882,
+      "item_details": {
+        "scryfall_id": "247e08a1-b9ce-4312-aec4-626992933038",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/4/247e08a1-b9ce-4312-aec4-626992933038.jpg?1641601774",
+        "card_name": "Arcane Denial",
+        "set_name": "Crimson Vow Commander",
+        "rarity": "Common",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/247e08a1-b9ce-4312-aec4-626992933038/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 21177,
+      "item_details": {
+        "scryfall_id": "415a3104-90e6-4235-b67f-69337c7fe714",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/1/415a3104-90e6-4235-b67f-69337c7fe714.jpg?1562768258",
+        "card_name": "Arcane Denial",
+        "set_name": "Alliances",
+        "rarity": "Common",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/415a3104-90e6-4235-b67f-69337c7fe714/"
+      },
+      "available_units": 20
+    },
+    {
+      "id": 50942,
+      "item_details": {
+        "scryfall_id": "9d1ffeb1-6c31-45f7-8140-913c397022a3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/d/9d1ffeb1-6c31-45f7-8140-913c397022a3.jpg?1562439019",
+        "card_name": "Arcane Denial",
+        "set_name": "Masters 25",
+        "rarity": "Common",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/9d1ffeb1-6c31-45f7-8140-913c397022a3/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 57420,
+      "item_details": {
+        "scryfall_id": "b0c5728e-43e7-417a-ba18-5038345cec67",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/0/b0c5728e-43e7-417a-ba18-5038345cec67.jpg?1562770144",
+        "card_name": "Arcane Denial",
+        "set_name": "Alliances",
+        "rarity": "Common",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/b0c5728e-43e7-417a-ba18-5038345cec67/"
+      },
+      "available_units": 45
+    },
+    {
+      "id": 55566,
+      "item_details": {
+        "scryfall_id": "ab175817-da6a-4ae7-a016-c3bfb087eae0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/b/ab175817-da6a-4ae7-a016-c3bfb087eae0.jpg?1562931100",
+        "card_name": "Arcane Denial",
+        "set_name": "Commander 2013",
+        "rarity": "Common",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/ab175817-da6a-4ae7-a016-c3bfb087eae0/"
+      },
+      "available_units": 2
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 26,
+  "previous_page_number": 24,
+  "num_pages": 752,
+  "page_number": 25
+}

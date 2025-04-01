@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 45454,
+      "item_details": {
+        "scryfall_id": "8c59af37-5c01-4f65-97f6-2478aa29949a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/c/8c59af37-5c01-4f65-97f6-2478aa29949a.jpg?1641600404",
+        "card_name": "Breath of the Sleepless",
+        "set_name": "Crimson Vow Commander",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/8c59af37-5c01-4f65-97f6-2478aa29949a/"
+      },
+      "available_units": 13
+    },
+    {
+      "id": 15903,
+      "item_details": {
+        "scryfall_id": "30fb3567-f473-4131-a849-0cc0ec7be53e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/0/30fb3567-f473-4131-a849-0cc0ec7be53e.jpg?1646179399",
+        "card_name": "Breath of the Sleepless",
+        "set_name": "Crimson Vow Commander",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/30fb3567-f473-4131-a849-0cc0ec7be53e/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 494,
+      "item_details": {
+        "scryfall_id": "0174e40a-0ef5-4439-91e6-3fc39f482520",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/1/0174e40a-0ef5-4439-91e6-3fc39f482520.jpg?1674136462",
+        "card_name": "Breath Weapon",
+        "set_name": "Commander Legends: Battle for Baldur's Gate",
+        "rarity": "Common",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/0174e40a-0ef5-4439-91e6-3fc39f482520/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 207037,
+      "item_details": {
+        "scryfall_id": "50eac71d-54f9-46c2-aa1d-c04c37e61f74",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/0/50eac71d-54f9-46c2-aa1d-c04c37e61f74.jpg?1717011871",
+        "card_name": "Breathe Your Last",
+        "set_name": "Modern Horizons 3",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/50eac71d-54f9-46c2-aa1d-c04c37e61f74/"
+      },
+      "available_units": 20
+    },
+    {
+      "id": 169594,
+      "item_details": {
+        "scryfall_id": "270c252d-1248-450b-bbc3-3af475a94834",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/7/270c252d-1248-450b-bbc3-3af475a94834.jpg?1692527548",
+        "card_name": "Breathkeeper Seraph",
+        "set_name": "Secret Lair Drop",
+        "rarity": "Rare",
+        "display_price": "Starting at: $10.00",
+        "detail_url": "/game-item/270c252d-1248-450b-bbc3-3af475a94834/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 63757,
+      "item_details": {
+        "scryfall_id": "c4785739-821d-49b0-a298-3c2b95e16972",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/4/c4785739-821d-49b0-a298-3c2b95e16972.jpg?1626099498",
+        "card_name": "Breathless Knight",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c4785739-821d-49b0-a298-3c2b95e16972/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 75164,
+      "item_details": {
+        "scryfall_id": "e747ba48-8088-43be-b97b-ba5d1c23781f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/7/e747ba48-8088-43be-b97b-ba5d1c23781f.jpg?1673310141",
+        "card_name": "Bred for the Hunt",
+        "set_name": "Warhammer 40,000 Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/e747ba48-8088-43be-b97b-ba5d1c23781f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 21502,
+      "item_details": {
+        "scryfall_id": "4258a536-2275-45e8-8833-e921ca15c5a7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/2/4258a536-2275-45e8-8833-e921ca15c5a7.jpg?1562907144",
+        "card_name": "Bred for the Hunt",
+        "set_name": "Dragon's Maze",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/4258a536-2275-45e8-8833-e921ca15c5a7/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 30357,
+      "item_details": {
+        "scryfall_id": "5d82552d-d3aa-4018-9fc5-8d1d16087f9d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/d/5d82552d-d3aa-4018-9fc5-8d1d16087f9d.jpg?1674060404",
+        "card_name": "Bred for the Hunt",
+        "set_name": "Warhammer 40,000 Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $3.25",
+        "detail_url": "/game-item/5d82552d-d3aa-4018-9fc5-8d1d16087f9d/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 42622,
+      "item_details": {
+        "scryfall_id": "83e8fe2e-ec6c-47fc-85c0-6eec185ecdce",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/3/83e8fe2e-ec6c-47fc-85c0-6eec185ecdce.jpg?1608910091",
+        "card_name": "Breeches, Brazen Plunderer",
+        "set_name": "Commander Legends",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/83e8fe2e-ec6c-47fc-85c0-6eec185ecdce/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 196367,
+      "item_details": {
+        "scryfall_id": "9e4fefce-bb3c-4eca-a182-a9d62f21d249",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/e/9e4fefce-bb3c-4eca-a182-a9d62f21d249.jpg?1698988683",
+        "card_name": "Breeches, Brazen Plunderer",
+        "set_name": "Special Guests",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $5.00",
+        "detail_url": "/game-item/9e4fefce-bb3c-4eca-a182-a9d62f21d249/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 169595,
+      "item_details": {
+        "scryfall_id": "aadf5028-8dfe-40d3-89b4-22bd7ed0aae6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/a/aadf5028-8dfe-40d3-89b4-22bd7ed0aae6.jpg?1695408358",
+        "card_name": "Breeches, Eager Pillager",
+        "set_name": "The Lost Caverns of Ixalan",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.75",
+        "detail_url": "/game-item/aadf5028-8dfe-40d3-89b4-22bd7ed0aae6/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 18177,
+      "item_details": {
+        "scryfall_id": "37c9b663-5c02-4221-9efb-59841dfd2188",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/7/37c9b663-5c02-4221-9efb-59841dfd2188.jpg?1562590176",
+        "card_name": "Breeding Pit",
+        "set_name": "Fifth Edition",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/37c9b663-5c02-4221-9efb-59841dfd2188/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 51764,
+      "item_details": {
+        "scryfall_id": "9f8fabe2-fd0b-48a0-ad05-6e0cbc4acf74",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/f/9f8fabe2-fd0b-48a0-ad05-6e0cbc4acf74.jpg?1582057820",
+        "card_name": "Breeding Pit",
+        "set_name": "Mystery Booster",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/9f8fabe2-fd0b-48a0-ad05-6e0cbc4acf74/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 52152,
+      "item_details": {
+        "scryfall_id": "a0d7e85f-eba5-4fc5-9fc0-109109d368aa",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/0/a0d7e85f-eba5-4fc5-9fc0-109109d368aa.jpg?1562925038",
+        "card_name": "Breeding Pit",
+        "set_name": "Fallen Empires",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/a0d7e85f-eba5-4fc5-9fc0-109109d368aa/"
+      },
+      "available_units": 30
+    },
+    {
+      "id": 42357,
+      "item_details": {
+        "scryfall_id": "830eb270-f7aa-4694-8fe1-7c19e148a39f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/3/830eb270-f7aa-4694-8fe1-7c19e148a39f.jpg?1673916834",
+        "card_name": "Breeding Pool",
+        "set_name": "Unfinity",
+        "rarity": "Rare",
+        "display_price": "Starting at: $24.95",
+        "detail_url": "/game-item/830eb270-f7aa-4694-8fe1-7c19e148a39f/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 169596,
+      "item_details": {
+        "scryfall_id": "9b35c030-029d-4286-ab79-0165c8688c6c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/b/9b35c030-029d-4286-ab79-0165c8688c6c.jpg?1695422264",
+        "card_name": "Breeding Pool",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Rare",
+        "display_price": "Starting at: $22.50",
+        "detail_url": "/game-item/9b35c030-029d-4286-ab79-0165c8688c6c/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 76935,
+      "item_details": {
+        "scryfall_id": "ece3bcdd-cb33-4923-b919-ba57a327d3cd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/c/ece3bcdd-cb33-4923-b919-ba57a327d3cd.jpg?1561851218",
+        "card_name": "Breeding Pool",
+        "set_name": "Gatecrash",
+        "rarity": "Rare",
+        "display_price": "Starting at: $15.00",
+        "detail_url": "/game-item/ece3bcdd-cb33-4923-b919-ba57a327d3cd/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 60828,
+      "item_details": {
+        "scryfall_id": "bb54233c-0844-4965-9cde-e8a4ef3e11b8",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/b/bb54233c-0844-4965-9cde-e8a4ef3e11b8.jpg?1584832238",
+        "card_name": "Breeding Pool",
+        "set_name": "Ravnica Allegiance",
+        "rarity": "Rare",
+        "display_price": "Starting at: $17.00",
+        "detail_url": "/game-item/bb54233c-0844-4965-9cde-e8a4ef3e11b8/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 61920,
+      "item_details": {
+        "scryfall_id": "beaefa77-6e4a-4724-a443-fa6b45803db5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/e/beaefa77-6e4a-4724-a443-fa6b45803db5.jpg?1562278629",
+        "card_name": "Breezekeeper",
+        "set_name": "Visions",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/beaefa77-6e4a-4724-a443-fa6b45803db5/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 169597,
+      "item_details": {
+        "scryfall_id": "e2ddc922-d69d-4fca-b7f8-8cfb17537213",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/2/e2ddc922-d69d-4fca-b7f8-8cfb17537213.jpg?1693248402",
+        "card_name": "Brenard, Ginger Sculptor",
+        "set_name": "Wilds of Eldraine Commander",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/e2ddc922-d69d-4fca-b7f8-8cfb17537213/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 11941,
+      "item_details": {
+        "scryfall_id": "24a0f2e2-cfd7-4374-a172-4357d5de47bb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/4/24a0f2e2-cfd7-4374-a172-4357d5de47bb.jpg?1631052626",
+        "card_name": "Bretagard Stronghold",
+        "set_name": "Kaldheim",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/24a0f2e2-cfd7-4374-a172-4357d5de47bb/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 207160,
+      "item_details": {
+        "scryfall_id": "8bf3929c-957f-4ea2-a27d-7d53979844af",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/b/8bf3929c-957f-4ea2-a27d-7d53979844af.jpg?1717013737",
+        "card_name": "Breya, Etherium Shaper",
+        "set_name": "Modern Horizons 3",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/8bf3929c-957f-4ea2-a27d-7d53979844af/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 63339,
+      "item_details": {
+        "scryfall_id": "c32b5b2e-dabf-4672-b476-4873781f636e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/3/c32b5b2e-dabf-4672-b476-4873781f636e.jpg?1626096405",
+        "card_name": "Breya's Apprentice",
+        "set_name": "Modern Horizons 2",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/c32b5b2e-dabf-4672-b476-4873781f636e/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 209459,
+      "item_details": {
+        "scryfall_id": "390c96b3-68da-4a42-89ab-d9ccc79ce0dd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/9/390c96b3-68da-4a42-89ab-d9ccc79ce0dd.jpg?1721428034",
+        "card_name": "Bria, Riptide Rogue",
+        "set_name": "Bloomburrow",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $15.00",
+        "detail_url": "/game-item/390c96b3-68da-4a42-89ab-d9ccc79ce0dd/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 58956,
+      "item_details": {
+        "scryfall_id": "b5913fc6-eeb0-411b-9264-1e75bea8489b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/5/b5913fc6-eeb0-411b-9264-1e75bea8489b.jpg?1562382557",
+        "card_name": "Briar Patch",
+        "set_name": "Mercadian Masques",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/b5913fc6-eeb0-411b-9264-1e75bea8489b/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 65942,
+      "item_details": {
+        "scryfall_id": "caf9d87a-533c-4641-9738-e7b98d92b015",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/a/caf9d87a-533c-4641-9738-e7b98d92b015.jpg?1562835967",
+        "card_name": "Briarberry Cohort",
+        "set_name": "Shadowmoor",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/caf9d87a-533c-4641-9738-e7b98d92b015/"
+      },
+      "available_units": 40
+    },
+    {
+      "id": 50979,
+      "item_details": {
+        "scryfall_id": "9d3fb5f1-baf5-4934-aac7-ffbaa85b2428",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/d/9d3fb5f1-baf5-4934-aac7-ffbaa85b2428.jpg?1616447000",
+        "card_name": "Briarblade Adept",
+        "set_name": "Commander Legends",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/9d3fb5f1-baf5-4934-aac7-ffbaa85b2428/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 73489,
+      "item_details": {
+        "scryfall_id": "e215a7bd-112f-4228-a99e-5a8cb4be5cee",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/2/e215a7bd-112f-4228-a99e-5a8cb4be5cee.jpg?1636223950",
+        "card_name": "Briarbridge Tracker",
+        "set_name": "Innistrad: Midnight Hunt",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/e215a7bd-112f-4228-a99e-5a8cb4be5cee/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 59496,
+      "item_details": {
+        "scryfall_id": "b734a0a8-aa21-4fc0-b20d-5fea172884f6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/7/b734a0a8-aa21-4fc0-b20d-5fea172884f6.jpg?1562364603",
+        "card_name": "Briarhorn",
+        "set_name": "Lorwyn",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/b734a0a8-aa21-4fc0-b20d-5fea172884f6/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 45352,
+      "item_details": {
+        "scryfall_id": "8c042f8b-df20-48c1-a291-4d7e1bc5b384",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/c/8c042f8b-df20-48c1-a291-4d7e1bc5b384.jpg?1562494761",
+        "card_name": "Briarknit Kami",
+        "set_name": "Saviors of Kamigawa",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8c042f8b-df20-48c1-a291-4d7e1bc5b384/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 28635,
+      "item_details": {
+        "scryfall_id": "585c11e2-4c30-436c-9dbd-354b154f6def",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/8/585c11e2-4c30-436c-9dbd-354b154f6def.jpg?1562829524",
+        "card_name": "Briarpack Alpha",
+        "set_name": "Magic 2014",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/585c11e2-4c30-436c-9dbd-354b154f6def/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 41271,
+      "item_details": {
+        "scryfall_id": "7f9951f1-ca51-44a2-8480-602df466f0ab",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/f/7f9951f1-ca51-44a2-8480-602df466f0ab.jpg?1562789249",
+        "card_name": "Briber's Purse",
+        "set_name": "Khans of Tarkir",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7f9951f1-ca51-44a2-8480-602df466f0ab/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 72748,
+      "item_details": {
+        "scryfall_id": "dfc0ea8a-62f6-49e8-8eec-9748870bc596",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/f/dfc0ea8a-62f6-49e8-8eec-9748870bc596.jpg?1562383504",
+        "card_name": "Bribery",
+        "set_name": "Mercadian Masques",
+        "rarity": "Rare",
+        "display_price": "Starting at: $9.00",
+        "detail_url": "/game-item/dfc0ea8a-62f6-49e8-8eec-9748870bc596/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 210518,
+      "item_details": {
+        "scryfall_id": "e7b8a9a2-55d8-4cf8-9912-787bdbc90ebb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/7/e7b8a9a2-55d8-4cf8-9912-787bdbc90ebb.jpg?1723908451",
+        "card_name": "Bribery",
+        "set_name": "Secret Lair Drop",
+        "rarity": "Rare",
+        "display_price": "Starting at: $5.25",
+        "detail_url": "/game-item/e7b8a9a2-55d8-4cf8-9912-787bdbc90ebb/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 75474,
+      "item_details": {
+        "scryfall_id": "e84bfec6-4c68-4928-89f1-17876ab2d424",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/8/e84bfec6-4c68-4928-89f1-17876ab2d424.jpg?1673161289",
+        "card_name": "Bride's Gown",
+        "set_name": "Innistrad: Double Feature",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/e84bfec6-4c68-4928-89f1-17876ab2d424/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 58413,
+      "item_details": {
+        "scryfall_id": "b3e5dbbe-ca99-41a5-901d-511b9f3ccea6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/3/b3e5dbbe-ca99-41a5-901d-511b9f3ccea6.jpg?1643585881",
+        "card_name": "Bride's Gown",
+        "set_name": "Innistrad: Crimson Vow",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/b3e5dbbe-ca99-41a5-901d-511b9f3ccea6/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 20655,
+      "item_details": {
+        "scryfall_id": "3faaa657-8b02-41a9-8a99-31a223d2caa5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/f/3faaa657-8b02-41a9-8a99-31a223d2caa5.jpg?1564535783",
+        "card_name": "Bridge from Below",
+        "set_name": "Ultimate Masters",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/3faaa657-8b02-41a9-8a99-31a223d2caa5/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 207329,
+      "item_details": {
+        "scryfall_id": "ebef3db0-2b58-4581-a79c-fbca9a059e63",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1717013318",
+        "card_name": "Bridgeworks Battle // Tanglespan Bridgeworks",
+        "set_name": "Modern Horizons 3",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/ebef3db0-2b58-4581-a79c-fbca9a059e63/"
+      },
+      "available_units": 26
+    },
+    {
+      "id": 205414,
+      "item_details": {
+        "scryfall_id": "fa7bf089-fa9b-4ffc-bf84-45cd51c76463",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/a/fa7bf089-fa9b-4ffc-bf84-45cd51c76463.jpg?1712355251",
+        "card_name": "Bridled Bighorn",
+        "set_name": "Outlaws of Thunder Junction",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/fa7bf089-fa9b-4ffc-bf84-45cd51c76463/"
+      },
+      "available_units": 20
+    },
+    {
+      "id": 53376,
+      "item_details": {
+        "scryfall_id": "a485c2c3-c90b-43b4-bb00-c1b811b4b392",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/4/a485c2c3-c90b-43b4-bb00-c1b811b4b392.jpg?1682207202",
+        "card_name": "Bright-Palm, Soul Awakener",
+        "set_name": "March of the Machine Commander",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/a485c2c3-c90b-43b4-bb00-c1b811b4b392/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 209084,
+      "item_details": {
+        "scryfall_id": "df7fea2e-7414-4bc8-adb0-9342e174c009",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/f/df7fea2e-7414-4bc8-adb0-9342e174c009.jpg?1721425778",
+        "card_name": "Brightblade Stoat",
+        "set_name": "Bloomburrow",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/df7fea2e-7414-4bc8-adb0-9342e174c009/"
+      },
+      "available_units": 14
+    },
+    {
+      "id": 209593,
+      "item_details": {
+        "scryfall_id": "9df82a20-309e-4581-9f3f-e9ba9250747b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/d/9df82a20-309e-4581-9f3f-e9ba9250747b.jpg?1721428475",
+        "card_name": "Brightcap Badger // Fungus Frolic",
+        "set_name": "Bloomburrow Commander",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/9df82a20-309e-4581-9f3f-e9ba9250747b/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 68366,
+      "item_details": {
+        "scryfall_id": "d24c3d51-795d-4c01-a34a-3280fccd2d78",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/2/d24c3d51-795d-4c01-a34a-3280fccd2d78.jpg?1669839386",
+        "card_name": "Brightclimb Pathway // Grimclimb Pathway",
+        "set_name": "Zendikar Rising",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.75",
+        "detail_url": "/game-item/d24c3d51-795d-4c01-a34a-3280fccd2d78/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 223271,
+      "item_details": {
+        "scryfall_id": "7eb819eb-ba5c-4449-87b5-3894380558bc",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/e/7eb819eb-ba5c-4449-87b5-3894380558bc.jpg?1738356111",
+        "card_name": "Brightfield Glider",
+        "set_name": "Aetherdrift",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7eb819eb-ba5c-4449-87b5-3894380558bc/"
+      },
+      "available_units": 64
+    },
+    {
+      "id": 223276,
+      "item_details": {
+        "scryfall_id": "b2c7cacc-f15e-46c1-9c25-b567bb3e8680",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/2/b2c7cacc-f15e-46c1-9c25-b567bb3e8680.jpg?1738356112",
+        "card_name": "Brightfield Mustang",
+        "set_name": "Aetherdrift",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/b2c7cacc-f15e-46c1-9c25-b567bb3e8680/"
+      },
+      "available_units": 87
+    },
+    {
+      "id": 49971,
+      "item_details": {
+        "scryfall_id": "9a3acf27-5d07-48e6-8e19-a2e6d4cd49d1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/a/9a3acf27-5d07-48e6-8e19-a2e6d4cd49d1.jpg?1598916793",
+        "card_name": "Brightflame",
+        "set_name": "Ravnica: City of Guilds",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/9a3acf27-5d07-48e6-8e19-a2e6d4cd49d1/"
+      },
+      "available_units": 54
+    },
+    {
+      "id": 223713,
+      "item_details": {
+        "scryfall_id": "3dea5b45-925c-4732-8e9d-fa8232792736",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/d/3dea5b45-925c-4732-8e9d-fa8232792736.jpg?1738356581",
+        "card_name": "Brightglass Gearhulk",
+        "set_name": "Aetherdrift",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $10.50",
+        "detail_url": "/game-item/3dea5b45-925c-4732-8e9d-fa8232792736/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 66037,
+      "item_details": {
+        "scryfall_id": "cb44df5b-6c89-46ae-b068-5056b8c4c189",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/b/cb44df5b-6c89-46ae-b068-5056b8c4c189.jpg?1562881406",
+        "card_name": "Brighthearth Banneret",
+        "set_name": "Morningtide",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/cb44df5b-6c89-46ae-b068-5056b8c4c189/"
+      },
+      "available_units": 51
+    },
+    {
+      "id": 220631,
+      "item_details": {
+        "scryfall_id": "e1f3af80-3fdd-4a35-b7a4-a8a419057e23",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/1/e1f3af80-3fdd-4a35-b7a4-a8a419057e23.jpg?1730486335",
+        "card_name": "Brightmare",
+        "set_name": "Foundations Jumpstart",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/e1f3af80-3fdd-4a35-b7a4-a8a419057e23/"
+      },
+      "available_units": 1
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 78,
+  "previous_page_number": 76,
+  "num_pages": 752,
+  "page_number": 77
+}

@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 20973,
+      "item_details": {
+        "scryfall_id": "40b7370d-8ab4-4506-b7dd-d02c1ba92032",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/0/40b7370d-8ab4-4506-b7dd-d02c1ba92032.jpg?1562734209",
+        "card_name": "Aladdin's Ring",
+        "set_name": "Ninth Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/40b7370d-8ab4-4506-b7dd-d02c1ba92032/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 20994,
+      "item_details": {
+        "scryfall_id": "40cb7c36-135b-40d0-bc7b-62fbcd508f49",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/0/40cb7c36-135b-40d0-bc7b-62fbcd508f49.jpg?1593864250",
+        "card_name": "Aladdin's Ring",
+        "set_name": "Revised Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/40cb7c36-135b-40d0-bc7b-62fbcd508f49/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 19234,
+      "item_details": {
+        "scryfall_id": "3b31ad9d-823b-4e74-a996-91f200ec72f7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/b/3b31ad9d-823b-4e74-a996-91f200ec72f7.jpg?1675829554",
+        "card_name": "Aladdin's Ring",
+        "set_name": "Ninth Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/3b31ad9d-823b-4e74-a996-91f200ec72f7/"
+      },
+      "available_units": 7
+    },
+    {
+      "id": 70719,
+      "item_details": {
+        "scryfall_id": "d9907bbb-12aa-4826-9a65-b2ddda5fc1e2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/9/d9907bbb-12aa-4826-9a65-b2ddda5fc1e2.jpg?1559603658",
+        "card_name": "Aladdin's Ring",
+        "set_name": "Fourth Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/d9907bbb-12aa-4826-9a65-b2ddda5fc1e2/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 77068,
+      "item_details": {
+        "scryfall_id": "ed511375-e445-4d81-818d-92a793d7deee",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/d/ed511375-e445-4d81-818d-92a793d7deee.jpg?1562250794",
+        "card_name": "Aladdin's Ring",
+        "set_name": "Seventh Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/ed511375-e445-4d81-818d-92a793d7deee/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 36294,
+      "item_details": {
+        "scryfall_id": "6ffd2437-04e7-44e4-becc-15be62735b42",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/f/6ffd2437-04e7-44e4-becc-15be62735b42.jpg?1562917392",
+        "card_name": "Aladdin's Ring",
+        "set_name": "Eighth Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/6ffd2437-04e7-44e4-becc-15be62735b42/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 5118,
+      "item_details": {
+        "scryfall_id": "0f6595fe-8190-4e8c-8731-cd801f550eab",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/f/0f6595fe-8190-4e8c-8731-cd801f550eab.jpg?1562814626",
+        "card_name": "Aladdin's Ring",
+        "set_name": "Classic Sixth Edition",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/0f6595fe-8190-4e8c-8731-cd801f550eab/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 209284,
+      "item_details": {
+        "scryfall_id": "436d6a84-4cea-4ca7-94aa-9d08280652af",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/3/436d6a84-4cea-4ca7-94aa-9d08280652af.jpg?1721426997",
+        "card_name": "Alania, Divergent Storm",
+        "set_name": "Bloomburrow",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/436d6a84-4cea-4ca7-94aa-9d08280652af/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 209407,
+      "item_details": {
+        "scryfall_id": "f9dc7b8e-d381-49a0-a7f8-c8cd9acadc54",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/9/f9dc7b8e-d381-49a0-a7f8-c8cd9acadc54.jpg?1721427752",
+        "card_name": "Alania, Divergent Storm",
+        "set_name": "Bloomburrow",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/f9dc7b8e-d381-49a0-a7f8-c8cd9acadc54/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 209203,
+      "item_details": {
+        "scryfall_id": "d3871fe6-e26e-4ab4-bd81-7e3c7b8135c1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/3/d3871fe6-e26e-4ab4-bd81-7e3c7b8135c1.jpg?1721426565",
+        "card_name": "Alania's Pathmaker",
+        "set_name": "Bloomburrow",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.10",
+        "detail_url": "/game-item/d3871fe6-e26e-4ab4-bd81-7e3c7b8135c1/"
+      },
+      "available_units": 30
+    },
+    {
+      "id": 7017,
+      "item_details": {
+        "scryfall_id": "155f2aa6-6c47-4a06-b0ef-2d9205cd133e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/5/155f2aa6-6c47-4a06-b0ef-2d9205cd133e.jpg?1562717856",
+        "card_name": "Alarum",
+        "set_name": "Mirage",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/155f2aa6-6c47-4a06-b0ef-2d9205cd133e/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 45201,
+      "item_details": {
+        "scryfall_id": "8b95de91-03bf-48a2-9947-b818ac78dec6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/b/8b95de91-03bf-48a2-9947-b818ac78dec6.jpg?1674138660",
+        "card_name": "Alaundo the Seer",
+        "set_name": "Commander Legends: Battle for Baldur's Gate",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/8b95de91-03bf-48a2-9947-b818ac78dec6/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 28720,
+      "item_details": {
+        "scryfall_id": "58a3c112-f0c1-4d30-8df6-63fc01356a4f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/8/58a3c112-f0c1-4d30-8df6-63fc01356a4f.jpg?1562913521",
+        "card_name": "Albino Troll",
+        "set_name": "Urza's Saga",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/58a3c112-f0c1-4d30-8df6-63fc01356a4f/"
+      },
+      "available_units": 16
+    },
+    {
+      "id": 20429,
+      "item_details": {
+        "scryfall_id": "3f04b6f8-ce92-4f8d-ac05-e2b17c3b1f8a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/f/3f04b6f8-ce92-4f8d-ac05-e2b17c3b1f8a.jpg?1562089292",
+        "card_name": "Albino Troll",
+        "set_name": "Duel Decks: Garruk vs. Liliana",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/3f04b6f8-ce92-4f8d-ac05-e2b17c3b1f8a/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 16160,
+      "item_details": {
+        "scryfall_id": "31abba67-1241-4fb3-88b5-4c4668ec5f25",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/1/31abba67-1241-4fb3-88b5-4c4668ec5f25.jpg?1592708448",
+        "card_name": "Alchemist's Apprentice",
+        "set_name": "Avacyn Restored",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/31abba67-1241-4fb3-88b5-4c4668ec5f25/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 54876,
+      "item_details": {
+        "scryfall_id": "a8fbf5d3-4677-4bf0-891f-57d6dcddaff7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/8/a8fbf5d3-4677-4bf0-891f-57d6dcddaff7.jpg?1643590637",
+        "card_name": "Alchemist's Gambit",
+        "set_name": "Innistrad: Crimson Vow",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/a8fbf5d3-4677-4bf0-891f-57d6dcddaff7/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 35747,
+      "item_details": {
+        "scryfall_id": "6e4c9574-1ee3-461e-848f-8f02c6a8b7ee",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/e/6e4c9574-1ee3-461e-848f-8f02c6a8b7ee.jpg?1594735950",
+        "card_name": "Alchemist's Gift",
+        "set_name": "Core Set 2021",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/6e4c9574-1ee3-461e-848f-8f02c6a8b7ee/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 46349,
+      "item_details": {
+        "scryfall_id": "8f33aaa1-cbaa-40a9-889e-3eca26b3a549",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/f/8f33aaa1-cbaa-40a9-889e-3eca26b3a549.jpg?1576384503",
+        "card_name": "Alchemist's Greeting",
+        "set_name": "Eldritch Moon",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8f33aaa1-cbaa-40a9-889e-3eca26b3a549/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 221716,
+      "item_details": {
+        "scryfall_id": "f36e2146-b6a9-4b61-9ccf-969a2c79b747",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/3/f36e2146-b6a9-4b61-9ccf-969a2c79b747.jpg?1736468080",
+        "card_name": "Alchemist's Greeting",
+        "set_name": "Innistrad Remastered",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/f36e2146-b6a9-4b61-9ccf-969a2c79b747/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 34126,
+      "item_details": {
+        "scryfall_id": "69147ffe-4ba5-40ee-a3ee-bf332ea660f2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/9/69147ffe-4ba5-40ee-a3ee-bf332ea660f2.jpg?1583453193",
+        "card_name": "Alchemist's Refuge",
+        "set_name": "Mystery Booster Retail Edition Foils",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/69147ffe-4ba5-40ee-a3ee-bf332ea660f2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 77217,
+      "item_details": {
+        "scryfall_id": "edbf9d4f-6027-40b8-81c1-7f001a9119dd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/d/edbf9d4f-6027-40b8-81c1-7f001a9119dd.jpg?1643587430",
+        "card_name": "Alchemist's Retrieval",
+        "set_name": "Innistrad: Crimson Vow",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/edbf9d4f-6027-40b8-81c1-7f001a9119dd/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 45702,
+      "item_details": {
+        "scryfall_id": "8d22523a-bb2d-489d-994e-65455def4fc5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/d/8d22523a-bb2d-489d-994e-65455def4fc5.jpg?1675652232",
+        "card_name": "Alchemist's Vial",
+        "set_name": "Jumpstart 2022",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8d22523a-bb2d-489d-994e-65455def4fc5/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 37445,
+      "item_details": {
+        "scryfall_id": "7380af0a-8a8f-44fd-9456-14a68a2830d3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/3/7380af0a-8a8f-44fd-9456-14a68a2830d3.jpg?1562720221",
+        "card_name": "Aleatory",
+        "set_name": "Mirage",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/7380af0a-8a8f-44fd-9456-14a68a2830d3/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 37098,
+      "item_details": {
+        "scryfall_id": "726e7dc5-2089-4758-93e1-79212aedf75f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/2/726e7dc5-2089-4758-93e1-79212aedf75f.jpg?1591605150",
+        "card_name": "Alela, Artful Provocateur",
+        "set_name": "Throne of Eldraine",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $4.50",
+        "detail_url": "/game-item/726e7dc5-2089-4758-93e1-79212aedf75f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 169399,
+      "item_details": {
+        "scryfall_id": "79ba5c35-6e5c-406a-b95f-844d5ec296ab",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/9/79ba5c35-6e5c-406a-b95f-844d5ec296ab.jpg?1692933638",
+        "card_name": "Alela, Cunning Conqueror",
+        "set_name": "Wilds of Eldraine Commander",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/79ba5c35-6e5c-406a-b95f-844d5ec296ab/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 383,
+      "item_details": {
+        "scryfall_id": "011dc183-eb83-4c66-9604-63d9ecf33705",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/1/011dc183-eb83-4c66-9604-63d9ecf33705.jpg?1612487729",
+        "card_name": "Alena, Kessig Trapper",
+        "set_name": "Commander Legends",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/011dc183-eb83-4c66-9604-63d9ecf33705/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 46882,
+      "item_details": {
+        "scryfall_id": "90c51949-b1ef-4c6e-98b0-4fb33a81db24",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/0/90c51949-b1ef-4c6e-98b0-4fb33a81db24.jpg?1608910044",
+        "card_name": "Alena, Kessig Trapper",
+        "set_name": "Commander Legends",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/90c51949-b1ef-4c6e-98b0-4fb33a81db24/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 7103,
+      "item_details": {
+        "scryfall_id": "15a2ccae-c322-4e99-a094-a68fc5d52ea3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/5/15a2ccae-c322-4e99-a094-a68fc5d52ea3.jpg?1591228332",
+        "card_name": "Alert Heedbonder",
+        "set_name": "Ikoria: Lair of Behemoths",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/15a2ccae-c322-4e99-a094-a68fc5d52ea3/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 221415,
+      "item_details": {
+        "scryfall_id": "15bd3c4e-8ec2-4661-860c-6a75bac09b72",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/5/15bd3c4e-8ec2-4661-860c-6a75bac09b72.jpg?1731966180",
+        "card_name": "Alesha, Who Laughs at Fate",
+        "set_name": "Foundations Promos",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/15bd3c4e-8ec2-4661-860c-6a75bac09b72/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 220143,
+      "item_details": {
+        "scryfall_id": "003d05be-4cf2-43c6-a823-c2b9c6482d38",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/0/003d05be-4cf2-43c6-a823-c2b9c6482d38.jpg?1730490408",
+        "card_name": "Alesha, Who Laughs at Fate",
+        "set_name": "Foundations",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/003d05be-4cf2-43c6-a823-c2b9c6482d38/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 82030,
+      "item_details": {
+        "scryfall_id": "fcd63377-4a2a-4f9d-ba32-ba3f1faf2ce0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/c/fcd63377-4a2a-4f9d-ba32-ba3f1faf2ce0.jpg?1580561368",
+        "card_name": "Alesha, Who Smiles at Death",
+        "set_name": "Mystery Booster",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/fcd63377-4a2a-4f9d-ba32-ba3f1faf2ce0/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 74434,
+      "item_details": {
+        "scryfall_id": "e5067fda-fbee-4e44-aba7-8ab2c0e396f7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/5/e5067fda-fbee-4e44-aba7-8ab2c0e396f7.jpg?1673147725",
+        "card_name": "Alesha, Who Smiles at Death",
+        "set_name": "Double Masters 2022",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/e5067fda-fbee-4e44-aba7-8ab2c0e396f7/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 201,
+      "item_details": {
+        "scryfall_id": "0088e145-d402-42bb-98b5-af33901de44a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/0/0088e145-d402-42bb-98b5-af33901de44a.jpg?1591320536",
+        "card_name": "Alesha, Who Smiles at Death",
+        "set_name": "Commander 2020",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/0088e145-d402-42bb-98b5-af33901de44a/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 16296,
+      "item_details": {
+        "scryfall_id": "3223610b-7a87-42c1-a6cc-b5f249ca8cb9",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/2/3223610b-7a87-42c1-a6cc-b5f249ca8cb9.jpg?1562394409",
+        "card_name": "Alesha, Who Smiles at Death",
+        "set_name": "Commander 2016",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/3223610b-7a87-42c1-a6cc-b5f249ca8cb9/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 3230,
+      "item_details": {
+        "scryfall_id": "09ac9669-d0ee-4df8-af77-12dfccac774f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/9/09ac9669-d0ee-4df8-af77-12dfccac774f.jpg?1562822284",
+        "card_name": "Alesha, Who Smiles at Death",
+        "set_name": "Fate Reforged",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/09ac9669-d0ee-4df8-af77-12dfccac774f/"
+      },
+      "available_units": 17
+    },
+    {
+      "id": 44234,
+      "item_details": {
+        "scryfall_id": "88ba1276-0fe6-419f-9d91-fac9eb23cca4",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/8/88ba1276-0fe6-419f-9d91-fac9eb23cca4.jpg?1619401345",
+        "card_name": "Alesha, Who Smiles at Death",
+        "set_name": "Time Spiral Remastered",
+        "rarity": "Special",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/88ba1276-0fe6-419f-9d91-fac9eb23cca4/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 34336,
+      "item_details": {
+        "scryfall_id": "69bb135f-1c58-42ed-bbf2-4a2e842f99d7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/9/69bb135f-1c58-42ed-bbf2-4a2e842f99d7.jpg?1562826127",
+        "card_name": "Alesha's Vanguard",
+        "set_name": "Fate Reforged",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/69bb135f-1c58-42ed-bbf2-4a2e842f99d7/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 36170,
+      "item_details": {
+        "scryfall_id": "6f8fc0b0-4a23-47ed-b61b-a4505fcfc5d2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/f/6f8fc0b0-4a23-47ed-b61b-a4505fcfc5d2.jpg?1562915681",
+        "card_name": "Alexi, Zephyr Mage",
+        "set_name": "Prophecy",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/6f8fc0b0-4a23-47ed-b61b-a4505fcfc5d2/"
+      },
+      "available_units": 18
+    },
+    {
+      "id": 22521,
+      "item_details": {
+        "scryfall_id": "457a5613-d1d4-4112-8484-f40120079b7b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/5/457a5613-d1d4-4112-8484-f40120079b7b.jpg?1562907674",
+        "card_name": "Alexi's Cloak",
+        "set_name": "Prophecy",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/457a5613-d1d4-4112-8484-f40120079b7b/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 208811,
+      "item_details": {
+        "scryfall_id": "d00d6fad-24c7-47dc-8feb-de58c8e51c33",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/0/d00d6fad-24c7-47dc-8feb-de58c8e51c33.jpg?1718998250",
+        "card_name": "Alexios, Deimos of Kosmos",
+        "set_name": "Assassin's Creed",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $3.60",
+        "detail_url": "/game-item/d00d6fad-24c7-47dc-8feb-de58c8e51c33/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 208731,
+      "item_details": {
+        "scryfall_id": "ab907c09-56c0-40ed-aebd-63b64c7e1c2e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/b/ab907c09-56c0-40ed-aebd-63b64c7e1c2e.jpg?1718998265",
+        "card_name": "Alexios, Deimos of Kosmos",
+        "set_name": "Assassin's Creed",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.15",
+        "detail_url": "/game-item/ab907c09-56c0-40ed-aebd-63b64c7e1c2e/"
+      },
+      "available_units": 18
+    },
+    {
+      "id": 208630,
+      "item_details": {
+        "scryfall_id": "e81b94b2-4052-4686-a788-9baf0fa0f81a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/8/e81b94b2-4052-4686-a788-9baf0fa0f81a.jpg?1718998238",
+        "card_name": "Alexios, Deimos of Kosmos",
+        "set_name": "Assassin's Creed",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/e81b94b2-4052-4686-a788-9baf0fa0f81a/"
+      },
+      "available_units": 15
+    },
+    {
+      "id": 48004,
+      "item_details": {
+        "scryfall_id": "946e08b5-1c99-467c-abba-07ddede07a6c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/4/946e08b5-1c99-467c-abba-07ddede07a6c.jpg?1562706729",
+        "card_name": "Algae Gharial",
+        "set_name": "Shards of Alara",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/946e08b5-1c99-467c-abba-07ddede07a6c/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 46998,
+      "item_details": {
+        "scryfall_id": "9120b615-dc31-4623-9cbd-d4cb99ae9f6f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/1/9120b615-dc31-4623-9cbd-d4cb99ae9f6f.jpg?1562921942",
+        "card_name": "Alhammarret, High Arbiter",
+        "set_name": "Magic Origins Promos",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/9120b615-dc31-4623-9cbd-d4cb99ae9f6f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 21383,
+      "item_details": {
+        "scryfall_id": "4200b101-19d3-4442-bddd-3eb77d5f99a9",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/2/4200b101-19d3-4442-bddd-3eb77d5f99a9.jpg?1562016850",
+        "card_name": "Alhammarret, High Arbiter",
+        "set_name": "Magic Origins",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/4200b101-19d3-4442-bddd-3eb77d5f99a9/"
+      },
+      "available_units": 54
+    },
+    {
+      "id": 25653,
+      "item_details": {
+        "scryfall_id": "4f4187f1-05bd-4db6-a2e7-d677eff588ee",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/f/4f4187f1-05bd-4db6-a2e7-d677eff588ee.jpg?1625978215",
+        "card_name": "Alhammarret's Archive",
+        "set_name": "Commander 2021",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $10.00",
+        "detail_url": "/game-item/4f4187f1-05bd-4db6-a2e7-d677eff588ee/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 41749,
+      "item_details": {
+        "scryfall_id": "810c91b8-6b2f-469f-8fd1-568885178c9b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/1/810c91b8-6b2f-469f-8fd1-568885178c9b.jpg?1580561371",
+        "card_name": "Alhammarret's Archive",
+        "set_name": "Mystery Booster",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $7.00",
+        "detail_url": "/game-item/810c91b8-6b2f-469f-8fd1-568885178c9b/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 36529,
+      "item_details": {
+        "scryfall_id": "70afb856-6697-411b-b1aa-e9290a0bfd68",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/0/70afb856-6697-411b-b1aa-e9290a0bfd68.jpg?1562025490",
+        "card_name": "Alhammarret's Archive",
+        "set_name": "Magic Origins",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $11.00",
+        "detail_url": "/game-item/70afb856-6697-411b-b1aa-e9290a0bfd68/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 37529,
+      "item_details": {
+        "scryfall_id": "73be08fb-f5ce-4458-9f5b-c1055b3fb04d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/3/73be08fb-f5ce-4458-9f5b-c1055b3fb04d.jpg?1682208259",
+        "card_name": "Alharu, Solemn Ritualist",
+        "set_name": "March of the Machine Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/73be08fb-f5ce-4458-9f5b-c1055b3fb04d/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 28831,
+      "item_details": {
+        "scryfall_id": "58ee8919-65f7-475c-972a-36d9c8d063fc",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/8/58ee8919-65f7-475c-972a-36d9c8d063fc.jpg?1612401936",
+        "card_name": "Alharu, Solemn Ritualist",
+        "set_name": "Commander Legends",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/58ee8919-65f7-475c-972a-36d9c8d063fc/"
+      },
+      "available_units": 1
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 14,
+  "previous_page_number": 12,
+  "num_pages": 752,
+  "page_number": 13
+}

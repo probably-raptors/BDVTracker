@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 31805,
+      "item_details": {
+        "scryfall_id": "61e82934-546b-4734-a715-b22ace4c5a9b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/1/61e82934-546b-4734-a715-b22ace4c5a9b.jpg?1562787164",
+        "card_name": "Azor's Elocutors",
+        "set_name": "Return to Ravnica",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/61e82934-546b-4734-a715-b22ace4c5a9b/"
+      },
+      "available_units": 13
+    },
+    {
+      "id": 15674,
+      "item_details": {
+        "scryfall_id": "303d51ab-b9c4-4647-950f-291daabe7b81",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/0/303d51ab-b9c4-4647-950f-291daabe7b81.jpg?1555041001",
+        "card_name": "Azor's Gateway // Sanctum of the Sun",
+        "set_name": "Rivals of Ixalan",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/303d51ab-b9c4-4647-950f-291daabe7b81/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 166786,
+      "item_details": {
+        "scryfall_id": "de3daeef-e352-4cd9-8411-94ce25c57060",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/e/de3daeef-e352-4cd9-8411-94ce25c57060.jpg?1684198263",
+        "card_name": "Azor's Gateway // Sanctum of the Sun",
+        "set_name": "From Cute to Brute",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $4.00",
+        "detail_url": "/game-item/de3daeef-e352-4cd9-8411-94ce25c57060/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 34845,
+      "item_details": {
+        "scryfall_id": "6b640ff8-8baa-4069-b5a9-8a4fb22a056e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/b/6b640ff8-8baa-4069-b5a9-8a4fb22a056e.jpg?1593273554",
+        "card_name": "Azorius Aethermage",
+        "set_name": "Dissension",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/6b640ff8-8baa-4069-b5a9-8a4fb22a056e/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 8409,
+      "item_details": {
+        "scryfall_id": "199f7563-563e-483c-8317-5380a83db955",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/9/199f7563-563e-483c-8317-5380a83db955.jpg?1562783287",
+        "card_name": "Azorius Arrester",
+        "set_name": "Return to Ravnica",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/199f7563-563e-483c-8317-5380a83db955/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 12537,
+      "item_details": {
+        "scryfall_id": "26700da8-2b89-4a15-b167-38bfaf7b4348",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/6/26700da8-2b89-4a15-b167-38bfaf7b4348.jpg?1641603997",
+        "card_name": "Azorius Chancery",
+        "set_name": "Crimson Vow Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/26700da8-2b89-4a15-b167-38bfaf7b4348/"
+      },
+      "available_units": 14
+    },
+    {
+      "id": 5834,
+      "item_details": {
+        "scryfall_id": "118fd026-3777-4ce4-bea9-6fdfa05e7110",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/1/118fd026-3777-4ce4-bea9-6fdfa05e7110.jpg?1562845847",
+        "card_name": "Azorius Chancery",
+        "set_name": "Iconic Masters",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/118fd026-3777-4ce4-bea9-6fdfa05e7110/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 7282,
+      "item_details": {
+        "scryfall_id": "16389f46-fd96-4a11-ba78-0867cab80282",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/6/16389f46-fd96-4a11-ba78-0867cab80282.jpg?1562389356",
+        "card_name": "Azorius Chancery",
+        "set_name": "Commander 2016",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/16389f46-fd96-4a11-ba78-0867cab80282/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 2510,
+      "item_details": {
+        "scryfall_id": "0784336e-89ed-44ad-a9c4-58c5ee1fc01a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/7/0784336e-89ed-44ad-a9c4-58c5ee1fc01a.jpg?1592711401",
+        "card_name": "Azorius Chancery",
+        "set_name": "Commander 2018",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/0784336e-89ed-44ad-a9c4-58c5ee1fc01a/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 74583,
+      "item_details": {
+        "scryfall_id": "e58365d2-e4db-444b-b1a9-795668ad3038",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/5/e58365d2-e4db-444b-b1a9-795668ad3038.jpg?1593274067",
+        "card_name": "Azorius Chancery",
+        "set_name": "Dissension",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/e58365d2-e4db-444b-b1a9-795668ad3038/"
+      },
+      "available_units": 28
+    },
+    {
+      "id": 41043,
+      "item_details": {
+        "scryfall_id": "7f005c7d-d0c6-4ac7-824c-040916023b75",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/f/7f005c7d-d0c6-4ac7-824c-040916023b75.jpg?1562921770",
+        "card_name": "Azorius Chancery",
+        "set_name": "Commander 2013",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7f005c7d-d0c6-4ac7-824c-040916023b75/"
+      },
+      "available_units": 16
+    },
+    {
+      "id": 36481,
+      "item_details": {
+        "scryfall_id": "7084fc02-8941-4a4f-805d-3c1625cf1d58",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/0/7084fc02-8941-4a4f-805d-3c1625cf1d58.jpg?1673149461",
+        "card_name": "Azorius Chancery",
+        "set_name": "Double Masters 2022",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7084fc02-8941-4a4f-805d-3c1625cf1d58/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 66883,
+      "item_details": {
+        "scryfall_id": "cdcce65a-5645-4444-9f49-0270fab0e440",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/d/cdcce65a-5645-4444-9f49-0270fab0e440.jpg?1631589361",
+        "card_name": "Azorius Chancery",
+        "set_name": "Forgotten Realms Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/cdcce65a-5645-4444-9f49-0270fab0e440/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 18300,
+      "item_details": {
+        "scryfall_id": "382b28ea-3706-480c-b7cc-4f16160d5d6b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/8/382b28ea-3706-480c-b7cc-4f16160d5d6b.jpg?1591321784",
+        "card_name": "Azorius Chancery",
+        "set_name": "Commander 2020",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/382b28ea-3706-480c-b7cc-4f16160d5d6b/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 23365,
+      "item_details": {
+        "scryfall_id": "481a83e6-0e6c-4953-92d4-814000d19456",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/8/481a83e6-0e6c-4953-92d4-814000d19456.jpg?1562261650",
+        "card_name": "Azorius Chancery",
+        "set_name": "Modern Masters 2015",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/481a83e6-0e6c-4953-92d4-814000d19456/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 23514,
+      "item_details": {
+        "scryfall_id": "48a944c2-0711-4e0c-9cd5-cfd5ad5f8266",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/8/48a944c2-0711-4e0c-9cd5-cfd5ad5f8266.jpg?1674097609",
+        "card_name": "Azorius Chancery",
+        "set_name": "Double Masters 2022",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $1.15",
+        "detail_url": "/game-item/48a944c2-0711-4e0c-9cd5-cfd5ad5f8266/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 24883,
+      "item_details": {
+        "scryfall_id": "4ccd100d-3a53-4cfe-8d38-639573547f54",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/c/4ccd100d-3a53-4cfe-8d38-639573547f54.jpg?1592673743",
+        "card_name": "Azorius Chancery",
+        "set_name": "Commander Anthology",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/4ccd100d-3a53-4cfe-8d38-639573547f54/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 48951,
+      "item_details": {
+        "scryfall_id": "9740ceaf-4ef9-48dd-ab7d-cd5eb3be8cec",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/7/9740ceaf-4ef9-48dd-ab7d-cd5eb3be8cec.jpg?1562851619",
+        "card_name": "Azorius Charm",
+        "set_name": "Iconic Masters",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/9740ceaf-4ef9-48dd-ab7d-cd5eb3be8cec/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 12618,
+      "item_details": {
+        "scryfall_id": "26adc211-d089-4102-91e5-225bbeb5f382",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/6/26adc211-d089-4102-91e5-225bbeb5f382.jpg?1562783945",
+        "card_name": "Azorius Charm",
+        "set_name": "Return to Ravnica",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/26adc211-d089-4102-91e5-225bbeb5f382/"
+      },
+      "available_units": 475
+    },
+    {
+      "id": 3306,
+      "item_details": {
+        "scryfall_id": "09eeb301-bc28-4515-ad69-0b1b5164a5bc",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/9/09eeb301-bc28-4515-ad69-0b1b5164a5bc.jpg?1562896909",
+        "card_name": "Azorius Cluestone",
+        "set_name": "Dragon's Maze",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/09eeb301-bc28-4515-ad69-0b1b5164a5bc/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 59247,
+      "item_details": {
+        "scryfall_id": "b675c1e6-add5-4959-a5be-f2571ccebcb4",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/6/b675c1e6-add5-4959-a5be-f2571ccebcb4.jpg?1593273561",
+        "card_name": "Azorius First-Wing",
+        "set_name": "Dissension",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/b675c1e6-add5-4959-a5be-f2571ccebcb4/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 49306,
+      "item_details": {
+        "scryfall_id": "984e37df-0734-493a-a958-f519a0c98580",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/8/984e37df-0734-493a-a958-f519a0c98580.jpg?1562790313",
+        "card_name": "Azorius Guildgate",
+        "set_name": "Return to Ravnica",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/984e37df-0734-493a-a958-f519a0c98580/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 18231,
+      "item_details": {
+        "scryfall_id": "37f0d5e4-ab57-4ba3-ad89-c4c2ac88e35e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/7/37f0d5e4-ab57-4ba3-ad89-c4c2ac88e35e.jpg?1592673749",
+        "card_name": "Azorius Guildgate",
+        "set_name": "Commander Anthology",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/37f0d5e4-ab57-4ba3-ad89-c4c2ac88e35e/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 33047,
+      "item_details": {
+        "scryfall_id": "65bbe27d-c92a-4c65-a997-b21536d7667e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/5/65bbe27d-c92a-4c65-a997-b21536d7667e.jpg?1562913830",
+        "card_name": "Azorius Guildgate",
+        "set_name": "Dragon's Maze",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/65bbe27d-c92a-4c65-a997-b21536d7667e/"
+      },
+      "available_units": 22
+    },
+    {
+      "id": 201628,
+      "item_details": {
+        "scryfall_id": "2e1138d3-f0e1-4fb3-b5c3-1c89cd000aab",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/e/2e1138d3-f0e1-4fb3-b5c3-1c89cd000aab.jpg?1702429795",
+        "card_name": "Azorius Guildgate",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/2e1138d3-f0e1-4fb3-b5c3-1c89cd000aab/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 3071,
+      "item_details": {
+        "scryfall_id": "093bdc0f-bf04-48d3-91d1-28bc8a0f25be",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/9/093bdc0f-bf04-48d3-91d1-28bc8a0f25be.jpg?1562896948",
+        "card_name": "Azorius Guildgate",
+        "set_name": "Commander 2013",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/093bdc0f-bf04-48d3-91d1-28bc8a0f25be/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 12951,
+      "item_details": {
+        "scryfall_id": "27addb51-f447-458a-8b3d-89de0a4c542a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/7/27addb51-f447-458a-8b3d-89de0a4c542a.jpg?1593814980",
+        "card_name": "Azorius Guildgate",
+        "set_name": "Modern Masters 2017",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/27addb51-f447-458a-8b3d-89de0a4c542a/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 203296,
+      "item_details": {
+        "scryfall_id": "c390b5d5-9829-4894-bdd8-528baea99d6f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/3/c390b5d5-9829-4894-bdd8-528baea99d6f.jpg?1702416730",
+        "card_name": "Azorius Guildgate",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c390b5d5-9829-4894-bdd8-528baea99d6f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 42020,
+      "item_details": {
+        "scryfall_id": "81f0f0ce-7c23-444c-9d9f-bfa9c8705fd5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/1/81f0f0ce-7c23-444c-9d9f-bfa9c8705fd5.jpg?1593273850",
+        "card_name": "Azorius Guildmage",
+        "set_name": "Dissension",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/81f0f0ce-7c23-444c-9d9f-bfa9c8705fd5/"
+      },
+      "available_units": 18
+    },
+    {
+      "id": 201629,
+      "item_details": {
+        "scryfall_id": "288c751e-a042-45a9-adce-7001bb0ce512",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/8/288c751e-a042-45a9-adce-7001bb0ce512.jpg?1702429600",
+        "card_name": "Azorius Guildmage",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/288c751e-a042-45a9-adce-7001bb0ce512/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 41803,
+      "item_details": {
+        "scryfall_id": "813cea4e-1e87-4d2f-a580-16805ff53ff0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/1/813cea4e-1e87-4d2f-a580-16805ff53ff0.jpg?1562922262",
+        "card_name": "Azorius Herald",
+        "set_name": "Commander 2013",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/813cea4e-1e87-4d2f-a580-16805ff53ff0/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 8232,
+      "item_details": {
+        "scryfall_id": "1923ffb2-1fab-475a-914a-120312e26628",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/9/1923ffb2-1fab-475a-914a-120312e26628.jpg?1593272430",
+        "card_name": "Azorius Herald",
+        "set_name": "Dissension",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/1923ffb2-1fab-475a-914a-120312e26628/"
+      },
+      "available_units": 5
+    },
+    {
+      "id": 51688,
+      "item_details": {
+        "scryfall_id": "9f56272e-c05e-446b-8871-e3783dd29a8b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/f/9f56272e-c05e-446b-8871-e3783dd29a8b.jpg?1562790727",
+        "card_name": "Azorius Justiciar",
+        "set_name": "Return to Ravnica",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/9f56272e-c05e-446b-8871-e3783dd29a8b/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 201630,
+      "item_details": {
+        "scryfall_id": "f029e69e-3c74-42b9-b634-1263f25481b4",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/0/f029e69e-3c74-42b9-b634-1263f25481b4.jpg?1702429257",
+        "card_name": "Azorius Justiciar",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/f029e69e-3c74-42b9-b634-1263f25481b4/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 54692,
+      "item_details": {
+        "scryfall_id": "a8755662-b329-4c5b-8bf7-c9e1702e5979",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/8/a8755662-b329-4c5b-8bf7-c9e1702e5979.jpg?1592673561",
+        "card_name": "Azorius Keyrune",
+        "set_name": "Commander Anthology",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a8755662-b329-4c5b-8bf7-c9e1702e5979/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 13278,
+      "item_details": {
+        "scryfall_id": "28be6965-426a-435a-a691-9de296c8d2eb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/8/28be6965-426a-435a-a691-9de296c8d2eb.jpg?1562903633",
+        "card_name": "Azorius Keyrune",
+        "set_name": "Commander 2013",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/28be6965-426a-435a-a691-9de296c8d2eb/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 11612,
+      "item_details": {
+        "scryfall_id": "23a05db7-dcae-4180-8ad1-60ba6fb30816",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/3/23a05db7-dcae-4180-8ad1-60ba6fb30816.jpg?1562783782",
+        "card_name": "Azorius Keyrune",
+        "set_name": "Return to Ravnica",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/23a05db7-dcae-4180-8ad1-60ba6fb30816/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 80716,
+      "item_details": {
+        "scryfall_id": "f893f1e9-1d19-4220-9e0d-3f9c85d33837",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/8/f893f1e9-1d19-4220-9e0d-3f9c85d33837.jpg?1641603614",
+        "card_name": "Azorius Locket",
+        "set_name": "Crimson Vow Commander",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/f893f1e9-1d19-4220-9e0d-3f9c85d33837/"
+      },
+      "available_units": 14
+    },
+    {
+      "id": 38328,
+      "item_details": {
+        "scryfall_id": "763f2c68-77a9-43e9-8f9b-2f318afcd686",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/6/763f2c68-77a9-43e9-8f9b-2f318afcd686.jpg?1593273568",
+        "card_name": "Azorius Ploy",
+        "set_name": "Dissension",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/763f2c68-77a9-43e9-8f9b-2f318afcd686/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 10679,
+      "item_details": {
+        "scryfall_id": "20c8186f-4874-4870-b99f-73d333045d9a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/0/20c8186f-4874-4870-b99f-73d333045d9a.jpg?1591321563",
+        "card_name": "Azorius Signet",
+        "set_name": "Commander 2020",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/20c8186f-4874-4870-b99f-73d333045d9a/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 10701,
+      "item_details": {
+        "scryfall_id": "20daf226-12c3-460c-b66a-e447346076d2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/0/20daf226-12c3-460c-b66a-e447346076d2.jpg?1592711191",
+        "card_name": "Azorius Signet",
+        "set_name": "Commander 2018",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/20daf226-12c3-460c-b66a-e447346076d2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 9041,
+      "item_details": {
+        "scryfall_id": "1b6ed82a-42a9-4024-bcad-7c2899882767",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/b/1b6ed82a-42a9-4024-bcad-7c2899882767.jpg?1631235655",
+        "card_name": "Azorius Signet",
+        "set_name": "Kaldheim Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/1b6ed82a-42a9-4024-bcad-7c2899882767/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 22828,
+      "item_details": {
+        "scryfall_id": "4675fff8-4a2e-4c95-bf55-d0459fe3d57b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/6/4675fff8-4a2e-4c95-bf55-d0459fe3d57b.jpg?1562909557",
+        "card_name": "Azorius Signet",
+        "set_name": "Archenemy",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/4675fff8-4a2e-4c95-bf55-d0459fe3d57b/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 70565,
+      "item_details": {
+        "scryfall_id": "d91a527d-51f1-4fb1-9016-fc923fd43a6a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/9/d91a527d-51f1-4fb1-9016-fc923fd43a6a.jpg?1593273985",
+        "card_name": "Azorius Signet",
+        "set_name": "Dissension",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/d91a527d-51f1-4fb1-9016-fc923fd43a6a/"
+      },
+      "available_units": 69
+    },
+    {
+      "id": 71049,
+      "item_details": {
+        "scryfall_id": "daa06f38-c8bc-4b34-bfd7-a606dd296a84",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/a/daa06f38-c8bc-4b34-bfd7-a606dd296a84.jpg?1641603659",
+        "card_name": "Azorius Signet",
+        "set_name": "Crimson Vow Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/daa06f38-c8bc-4b34-bfd7-a606dd296a84/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 201631,
+      "item_details": {
+        "scryfall_id": "63e1d70c-7b19-4679-9ddc-33496e26c539",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/3/63e1d70c-7b19-4679-9ddc-33496e26c539.jpg?1702429756",
+        "card_name": "Azorius Signet",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/63e1d70c-7b19-4679-9ddc-33496e26c539/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 63286,
+      "item_details": {
+        "scryfall_id": "c2fddecd-e660-43de-bccc-52f60a089052",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/2/c2fddecd-e660-43de-bccc-52f60a089052.jpg?1584831386",
+        "card_name": "Azorius Skyguard",
+        "set_name": "Ravnica Allegiance",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c2fddecd-e660-43de-bccc-52f60a089052/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 39025,
+      "item_details": {
+        "scryfall_id": "78630f58-8733-43ec-ba20-fbb21b276434",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/8/78630f58-8733-43ec-ba20-fbb21b276434.jpg?1573515002",
+        "card_name": "Azra Oddsmaker",
+        "set_name": "Mystery Booster",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/78630f58-8733-43ec-ba20-fbb21b276434/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 41185,
+      "item_details": {
+        "scryfall_id": "7f5e6a5a-18ee-438f-ab16-694e19a2410e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/f/7f5e6a5a-18ee-438f-ab16-694e19a2410e.jpg?1562920701",
+        "card_name": "Azra Oddsmaker",
+        "set_name": "Battlebond",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/7f5e6a5a-18ee-438f-ab16-694e19a2410e/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 79886,
+      "item_details": {
+        "scryfall_id": "f627e521-2b8f-4d0f-a9d3-cc4e331ce57d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/6/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d.jpg?1562201565",
+        "card_name": "Azra Smokeshaper",
+        "set_name": "Modern Horizons",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d/"
+      },
+      "available_units": 5
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 42,
+  "previous_page_number": 40,
+  "num_pages": 752,
+  "page_number": 41
+}

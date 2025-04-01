@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 2674,
+      "item_details": {
+        "scryfall_id": "080dbd69-95a8-4fed-bbaf-875a8a34a2c9",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/8/080dbd69-95a8-4fed-bbaf-875a8a34a2c9.jpg?1562700858",
+        "card_name": "Awakening Zone",
+        "set_name": "Rise of the Eldrazi",
+        "rarity": "Rare",
+        "display_price": "Starting at: $11.00",
+        "detail_url": "/game-item/080dbd69-95a8-4fed-bbaf-875a8a34a2c9/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 208111,
+      "item_details": {
+        "scryfall_id": "e8f1affa-4c7e-49a9-916f-6395da259430",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/8/e8f1affa-4c7e-49a9-916f-6395da259430.jpg?1717190492",
+        "card_name": "Awakening Zone",
+        "set_name": "Modern Horizons 3 Commander",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.75",
+        "detail_url": "/game-item/e8f1affa-4c7e-49a9-916f-6395da259430/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 76764,
+      "item_details": {
+        "scryfall_id": "ec644ac3-07a2-43de-8173-9cc18e2ea2d9",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/c/ec644ac3-07a2-43de-8173-9cc18e2ea2d9.jpg?1562939324",
+        "card_name": "Awe for the Guilds",
+        "set_name": "Dragon's Maze",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/ec644ac3-07a2-43de-8173-9cc18e2ea2d9/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 53830,
+      "item_details": {
+        "scryfall_id": "a5cd231b-7891-42b5-b5de-5112d1230c37",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/5/a5cd231b-7891-42b5-b5de-5112d1230c37.jpg?1562153206",
+        "card_name": "Awe Strike",
+        "set_name": "Mirrodin",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a5cd231b-7891-42b5-b5de-5112d1230c37/"
+      },
+      "available_units": 32
+    },
+    {
+      "id": 41413,
+      "item_details": {
+        "scryfall_id": "80017e84-87bc-4eb8-a663-5c263d8df812",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/0/80017e84-87bc-4eb8-a663-5c263d8df812.jpg?1616536884",
+        "card_name": "Awesome Presence",
+        "set_name": "Alliances",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/80017e84-87bc-4eb8-a663-5c263d8df812/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 3548,
+      "item_details": {
+        "scryfall_id": "0aa8a120-5c13-4852-bdc8-80ae50a6e3d3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/a/0aa8a120-5c13-4852-bdc8-80ae50a6e3d3.jpg?1562767770",
+        "card_name": "Awesome Presence",
+        "set_name": "Alliances",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/0aa8a120-5c13-4852-bdc8-80ae50a6e3d3/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 82068,
+      "item_details": {
+        "scryfall_id": "fcf3447a-ec7d-47d7-bf6b-e2bbe0ac58df",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/c/fcf3447a-ec7d-47d7-bf6b-e2bbe0ac58df.jpg?1562490053",
+        "card_name": "AWOL",
+        "set_name": "Unhinged",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/fcf3447a-ec7d-47d7-bf6b-e2bbe0ac58df/"
+      },
+      "available_units": 20
+    },
+    {
+      "id": 74981,
+      "item_details": {
+        "scryfall_id": "e6ba72d5-b57e-4c79-a868-e114c07288c9",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/6/e6ba72d5-b57e-4c79-a868-e114c07288c9.jpg?1561758338",
+        "card_name": "Axe of the Warmonger",
+        "set_name": "Journey into Nyx Hero's Path",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/e6ba72d5-b57e-4c79-a868-e114c07288c9/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 202580,
+      "item_details": {
+        "scryfall_id": "3ddd5e33-5a58-4321-8742-236d6cc6f4f4",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/d/3ddd5e33-5a58-4321-8742-236d6cc6f4f4.jpg?1706242837",
+        "card_name": "Axebane Ferox",
+        "set_name": "Murders at Karlov Manor",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/3ddd5e33-5a58-4321-8742-236d6cc6f4f4/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 202633,
+      "item_details": {
+        "scryfall_id": "610a0de4-a4f7-446b-8477-00c917cb4789",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/1/610a0de4-a4f7-446b-8477-00c917cb4789.jpg?1706241949",
+        "card_name": "Axebane Ferox",
+        "set_name": "Murders at Karlov Manor",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/610a0de4-a4f7-446b-8477-00c917cb4789/"
+      },
+      "available_units": 18
+    },
+    {
+      "id": 202704,
+      "item_details": {
+        "scryfall_id": "87a057ac-c9f9-4cf6-896f-e18976bdfb38",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/7/87a057ac-c9f9-4cf6-896f-e18976bdfb38.jpg?1706242781",
+        "card_name": "Axebane Ferox",
+        "set_name": "Murders at Karlov Manor",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/87a057ac-c9f9-4cf6-896f-e18976bdfb38/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 203611,
+      "item_details": {
+        "scryfall_id": "86b1ecde-9de7-4bd0-936e-268afb693d20",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/6/86b1ecde-9de7-4bd0-936e-268afb693d20.jpg?1707551105",
+        "card_name": "Axebane Ferox",
+        "set_name": "Murders at Karlov Manor Promos",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/86b1ecde-9de7-4bd0-936e-268afb693d20/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 37064,
+      "item_details": {
+        "scryfall_id": "725584fe-9e97-4020-89b1-5e5b45a5beb2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/2/725584fe-9e97-4020-89b1-5e5b45a5beb2.jpg?1562788162",
+        "card_name": "Axebane Guardian",
+        "set_name": "Return to Ravnica",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/725584fe-9e97-4020-89b1-5e5b45a5beb2/"
+      },
+      "available_units": 39
+    },
+    {
+      "id": 62282,
+      "item_details": {
+        "scryfall_id": "bfce7c02-ccc3-44cd-8087-627eaa6a072e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/f/bfce7c02-ccc3-44cd-8087-627eaa6a072e.jpg?1562792542",
+        "card_name": "Axebane Stag",
+        "set_name": "Return to Ravnica",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/bfce7c02-ccc3-44cd-8087-627eaa6a072e/"
+      },
+      "available_units": 18
+    },
+    {
+      "id": 43159,
+      "item_details": {
+        "scryfall_id": "8595e9a1-010e-48a7-91e4-3d2722c8dbc0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/5/8595e9a1-010e-48a7-91e4-3d2722c8dbc0.jpg?1562356613",
+        "card_name": "Axegrinder Giant",
+        "set_name": "Lorwyn",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8595e9a1-010e-48a7-91e4-3d2722c8dbc0/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 55136,
+      "item_details": {
+        "scryfall_id": "a9c5dbc6-b0c5-4ae2-8c23-a26524fee543",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/9/a9c5dbc6-b0c5-4ae2-8c23-a26524fee543.jpg?1562929199",
+        "card_name": "Axelrod Gunnarson",
+        "set_name": "Chronicles",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/a9c5dbc6-b0c5-4ae2-8c23-a26524fee543/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 56130,
+      "item_details": {
+        "scryfall_id": "acce83cf-965b-4e45-8efb-63f814df7a35",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/c/acce83cf-965b-4e45-8efb-63f814df7a35.jpg?1562860635",
+        "card_name": "Axelrod Gunnarson",
+        "set_name": "Legends",
+        "rarity": "Rare",
+        "display_price": "Starting at: $13.00",
+        "detail_url": "/game-item/acce83cf-965b-4e45-8efb-63f814df7a35/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 81073,
+      "item_details": {
+        "scryfall_id": "f9c77d35-8418-48fb-b7d7-7cfa763545c5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/9/f9c77d35-8418-48fb-b7d7-7cfa763545c5.jpg?1631052487",
+        "card_name": "Axgard Armory",
+        "set_name": "Kaldheim",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/f9c77d35-8418-48fb-b7d7-7cfa763545c5/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 219856,
+      "item_details": {
+        "scryfall_id": "fe3cc41a-adae-4c9b-b4d3-03f3ca862fed",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/e/fe3cc41a-adae-4c9b-b4d3-03f3ca862fed.jpg?1730489298",
+        "card_name": "Axgard Cavalry",
+        "set_name": "Foundations",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/fe3cc41a-adae-4c9b-b4d3-03f3ca862fed/"
+      },
+      "available_units": 69
+    },
+    {
+      "id": 30549,
+      "item_details": {
+        "scryfall_id": "5e16bc35-5237-4a13-9179-aaa0347ceffe",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/e/5e16bc35-5237-4a13-9179-aaa0347ceffe.jpg?1675650102",
+        "card_name": "Axgard Cavalry",
+        "set_name": "Jumpstart 2022",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/5e16bc35-5237-4a13-9179-aaa0347ceffe/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 65477,
+      "item_details": {
+        "scryfall_id": "c9b3b785-396e-4240-bfa3-58ab53497686",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/9/c9b3b785-396e-4240-bfa3-58ab53497686.jpg?1675957067",
+        "card_name": "Axiom Engraver",
+        "set_name": "Phyrexia: All Will Be One",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c9b3b785-396e-4240-bfa3-58ab53497686/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 208737,
+      "item_details": {
+        "scryfall_id": "720096c1-cbbc-4a2f-b585-899c3b87032c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/2/720096c1-cbbc-4a2f-b585-899c3b87032c.jpg?1718773802",
+        "card_name": "Aya of Alexandria",
+        "set_name": "Assassin's Creed",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/720096c1-cbbc-4a2f-b585-899c3b87032c/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 208645,
+      "item_details": {
+        "scryfall_id": "80bd1928-18ec-4f55-acd8-9a62f9869fff",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/0/80bd1928-18ec-4f55-acd8-9a62f9869fff.jpg?1718773791",
+        "card_name": "Aya of Alexandria",
+        "set_name": "Assassin's Creed",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/80bd1928-18ec-4f55-acd8-9a62f9869fff/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 208826,
+      "item_details": {
+        "scryfall_id": "d1f8afbe-1c29-4b23-9832-5656ac60acea",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/1/d1f8afbe-1c29-4b23-9832-5656ac60acea.jpg?1718998901",
+        "card_name": "Aya of Alexandria",
+        "set_name": "Assassin's Creed",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.95",
+        "detail_url": "/game-item/d1f8afbe-1c29-4b23-9832-5656ac60acea/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 16717,
+      "item_details": {
+        "scryfall_id": "33508048-13ad-4de0-8f29-ad44bc8410f4",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/3/33508048-13ad-4de0-8f29-ad44bc8410f4.jpg?1571851134",
+        "card_name": "Ayara, First of Locthwain",
+        "set_name": "Throne of Eldraine Promos",
+        "rarity": "Rare",
+        "display_price": "Starting at: $7.00",
+        "detail_url": "/game-item/33508048-13ad-4de0-8f29-ad44bc8410f4/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 76975,
+      "item_details": {
+        "scryfall_id": "ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/d/ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1.jpg?1572490057",
+        "card_name": "Ayara, First of Locthwain",
+        "set_name": "Throne of Eldraine",
+        "rarity": "Rare",
+        "display_price": "Starting at: $4.00",
+        "detail_url": "/game-item/ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 49805,
+      "item_details": {
+        "scryfall_id": "99b2647f-e509-49c5-9dbd-d56fe0eda98d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/9/99b2647f-e509-49c5-9dbd-d56fe0eda98d.jpg?1682206173",
+        "card_name": "Ayara, Widow of the Realm // Ayara, Furnace Queen",
+        "set_name": "March of the Machine",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/99b2647f-e509-49c5-9dbd-d56fe0eda98d/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 52560,
+      "item_details": {
+        "scryfall_id": "a21b1734-a773-4107-95c1-b44d5ccdfd82",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/2/a21b1734-a773-4107-95c1-b44d5ccdfd82.jpg?1682203576",
+        "card_name": "Ayara, Widow of the Realm // Ayara, Furnace Queen",
+        "set_name": "March of the Machine",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/a21b1734-a773-4107-95c1-b44d5ccdfd82/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 27044,
+      "item_details": {
+        "scryfall_id": "53aa3acf-aed9-4503-8b10-29661da4e307",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/3/53aa3acf-aed9-4503-8b10-29661da4e307.jpg?1683079915",
+        "card_name": "Ayara's Oathsworn",
+        "set_name": "March of the Machine: The Aftermath",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.50",
+        "detail_url": "/game-item/53aa3acf-aed9-4503-8b10-29661da4e307/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 45626,
+      "item_details": {
+        "scryfall_id": "8ce912d9-406b-4eba-97be-3bf1d425ee05",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/c/8ce912d9-406b-4eba-97be-3bf1d425ee05.jpg?1562923488",
+        "card_name": "Ayesha Tanaka",
+        "set_name": "Chronicles",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/8ce912d9-406b-4eba-97be-3bf1d425ee05/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 71067,
+      "item_details": {
+        "scryfall_id": "dab74812-89c9-42e2-8b9d-bf5b35a7cf7e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/a/dab74812-89c9-42e2-8b9d-bf5b35a7cf7e.jpg?1673304898",
+        "card_name": "Ayesha Tanaka, Armorer",
+        "set_name": "Dominaria United Commander",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/dab74812-89c9-42e2-8b9d-bf5b35a7cf7e/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 61151,
+      "item_details": {
+        "scryfall_id": "bc6b73c8-a841-4441-9471-6b83f0b03977",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/c/bc6b73c8-a841-4441-9471-6b83f0b03977.jpg?1674099018",
+        "card_name": "Ayesha Tanaka, Armorer",
+        "set_name": "Dominaria United Commander",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/bc6b73c8-a841-4441-9471-6b83f0b03977/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 75302,
+      "item_details": {
+        "scryfall_id": "e7b5893d-6df6-4cae-ae70-d02d443d1740",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/7/e7b5893d-6df6-4cae-ae70-d02d443d1740.jpg?1562941484",
+        "card_name": "Ayli, Eternal Pilgrim",
+        "set_name": "Oath of the Gatewatch",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/e7b5893d-6df6-4cae-ae70-d02d443d1740/"
+      },
+      "available_units": 45
+    },
+    {
+      "id": 13761,
+      "item_details": {
+        "scryfall_id": "2a2e669b-61b2-4729-b636-094796fb1d93",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/a/2a2e669b-61b2-4729-b636-094796fb1d93.jpg?1562587059",
+        "card_name": "Aysen Abbey",
+        "set_name": "Homelands",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/2a2e669b-61b2-4729-b636-094796fb1d93/"
+      },
+      "available_units": 18
+    },
+    {
+      "id": 46987,
+      "item_details": {
+        "scryfall_id": "91170faf-3143-4fa8-88d6-eef72e1f5459",
+        "large_pic_url": "https://cards.scryfall.io/large/front/9/1/91170faf-3143-4fa8-88d6-eef72e1f5459.jpg?1562587766",
+        "card_name": "Aysen Bureaucrats",
+        "set_name": "Homelands",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/91170faf-3143-4fa8-88d6-eef72e1f5459/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 40327,
+      "item_details": {
+        "scryfall_id": "7ca3fa70-50b3-4157-afda-fe58bf72ee16",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/c/7ca3fa70-50b3-4157-afda-fe58bf72ee16.jpg?1562587740",
+        "card_name": "Aysen Bureaucrats",
+        "set_name": "Homelands",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7ca3fa70-50b3-4157-afda-fe58bf72ee16/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 57201,
+      "item_details": {
+        "scryfall_id": "b01c564f-d997-4667-93af-c8495d8764e6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/0/b01c564f-d997-4667-93af-c8495d8764e6.jpg?1562593286",
+        "card_name": "Aysen Bureaucrats",
+        "set_name": "Fifth Edition",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/b01c564f-d997-4667-93af-c8495d8764e6/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 39202,
+      "item_details": {
+        "scryfall_id": "7908cfdc-5ed6-48a8-a5b9-351864f8b4fd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/9/7908cfdc-5ed6-48a8-a5b9-351864f8b4fd.jpg?1627305785",
+        "card_name": "Aysen Crusader",
+        "set_name": "Homelands",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/7908cfdc-5ed6-48a8-a5b9-351864f8b4fd/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 56478,
+      "item_details": {
+        "scryfall_id": "adfa87eb-9a11-459c-bff8-87bb09b61b87",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/d/adfa87eb-9a11-459c-bff8-87bb09b61b87.jpg?1562588221",
+        "card_name": "Aysen Highway",
+        "set_name": "Homelands",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/adfa87eb-9a11-459c-bff8-87bb09b61b87/"
+      },
+      "available_units": 12
+    },
+    {
+      "id": 62447,
+      "item_details": {
+        "scryfall_id": "c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1562202020",
+        "card_name": "Ayula, Queen Among Bears",
+        "set_name": "Modern Horizons",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0/"
+      },
+      "available_units": 17
+    },
+    {
+      "id": 204756,
+      "item_details": {
+        "scryfall_id": "b7af1ee9-525f-4db8-a07b-8a097a321afb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/7/b7af1ee9-525f-4db8-a07b-8a097a321afb.jpg?1708743611",
+        "card_name": "Ayula, Queen Among Bears",
+        "set_name": "Fallout",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/b7af1ee9-525f-4db8-a07b-8a097a321afb/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 9082,
+      "item_details": {
+        "scryfall_id": "1b9296ca-39a8-4aad-be92-0a56c704e950",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/b/1b9296ca-39a8-4aad-be92-0a56c704e950.jpg?1562202027",
+        "card_name": "Ayula's Influence",
+        "set_name": "Modern Horizons",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/1b9296ca-39a8-4aad-be92-0a56c704e950/"
+      },
+      "available_units": 11
+    },
+    {
+      "id": 78015,
+      "item_details": {
+        "scryfall_id": "f037520e-2a44-4650-b7cb-c81d93d1418d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/0/f037520e-2a44-4650-b7cb-c81d93d1418d.jpg?1562496599",
+        "card_name": "Ayumi, the Last Visitor",
+        "set_name": "Saviors of Kamigawa",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/f037520e-2a44-4650-b7cb-c81d93d1418d/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 189695,
+      "item_details": {
+        "scryfall_id": "0b6c234e-ce4a-4556-bfaf-9b3f53c92568",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/b/0b6c234e-ce4a-4556-bfaf-9b3f53c92568.jpg?1690002529",
+        "card_name": "Azami, Lady of Scrolls",
+        "set_name": "Commander Masters",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/0b6c234e-ce4a-4556-bfaf-9b3f53c92568/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 3603,
+      "item_details": {
+        "scryfall_id": "0ad06ad7-0545-4c6f-9b10-4a27fa2e827c",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/a/0ad06ad7-0545-4c6f-9b10-4a27fa2e827c.jpg?1562599546",
+        "card_name": "Azami, Lady of Scrolls",
+        "set_name": "Commander 2017",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/0ad06ad7-0545-4c6f-9b10-4a27fa2e827c/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 7187,
+      "item_details": {
+        "scryfall_id": "15ea91b1-f2ff-4b99-8148-333aa27ea8cd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/5/15ea91b1-f2ff-4b99-8148-333aa27ea8cd.jpg?1562757914",
+        "card_name": "Azami, Lady of Scrolls",
+        "set_name": "Champions of Kamigawa",
+        "rarity": "Rare",
+        "display_price": "Starting at: $2.00",
+        "detail_url": "/game-item/15ea91b1-f2ff-4b99-8148-333aa27ea8cd/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 43080,
+      "item_details": {
+        "scryfall_id": "854ba4e0-f6f3-4b6c-b6cb-ab2b93d64601",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/5/854ba4e0-f6f3-4b6c-b6cb-ab2b93d64601.jpg?1562720461",
+        "card_name": "Azimaet Drake",
+        "set_name": "Mirage",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/854ba4e0-f6f3-4b6c-b6cb-ab2b93d64601/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 207485,
+      "item_details": {
+        "scryfall_id": "ced9db11-ba95-4b09-89b6-0b49ffb1fa82",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/e/ced9db11-ba95-4b09-89b6-0b49ffb1fa82.jpg?1716367524",
+        "card_name": "Azlask, the Swelling Scourge",
+        "set_name": "Modern Horizons 3 Commander",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/ced9db11-ba95-4b09-89b6-0b49ffb1fa82/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 207487,
+      "item_details": {
+        "scryfall_id": "d3cf185c-383b-4116-a03c-44126edffbf3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/3/d3cf185c-383b-4116-a03c-44126edffbf3.jpg?1716326682",
+        "card_name": "Azlask, the Swelling Scourge",
+        "set_name": "Modern Horizons 3 Commander",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $1.00",
+        "detail_url": "/game-item/d3cf185c-383b-4116-a03c-44126edffbf3/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 15864,
+      "item_details": {
+        "scryfall_id": "30dc237e-b28a-4b65-9790-6b434828bf2e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/0/30dc237e-b28a-4b65-9790-6b434828bf2e.jpg?1555040794",
+        "card_name": "Azor, the Lawbringer",
+        "set_name": "Rivals of Ixalan",
+        "rarity": "Mythic",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/30dc237e-b28a-4b65-9790-6b434828bf2e/"
+      },
+      "available_units": 1
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 41,
+  "previous_page_number": 39,
+  "num_pages": 752,
+  "page_number": 40
+}

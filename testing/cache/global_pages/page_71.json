@@ -1,0 +1,660 @@
+{
+  "results": [
+    {
+      "id": 46290,
+      "item_details": {
+        "scryfall_id": "8f067c26-c51d-44d0-a0af-106b5778f06a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/f/8f067c26-c51d-44d0-a0af-106b5778f06a.jpg?1592709289",
+        "card_name": "Borderland Ranger",
+        "set_name": "Avacyn Restored",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8f067c26-c51d-44d0-a0af-106b5778f06a/"
+      },
+      "available_units": 18
+    },
+    {
+      "id": 61622,
+      "item_details": {
+        "scryfall_id": "bdd0f8c8-1a1f-4d9b-a6e1-3654f3995012",
+        "large_pic_url": "https://cards.scryfall.io/large/front/b/d/bdd0f8c8-1a1f-4d9b-a6e1-3654f3995012.jpg?1561993735",
+        "card_name": "Borderland Ranger",
+        "set_name": "Magic 2010",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/bdd0f8c8-1a1f-4d9b-a6e1-3654f3995012/"
+      },
+      "available_units": 24
+    },
+    {
+      "id": 1698,
+      "item_details": {
+        "scryfall_id": "05231fa1-47b8-49aa-9393-ec4d8384c41b",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/5/05231fa1-47b8-49aa-9393-ec4d8384c41b.jpg?1593275363",
+        "card_name": "Boreal Centaur",
+        "set_name": "Coldsnap",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/05231fa1-47b8-49aa-9393-ec4d8384c41b/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 23090,
+      "item_details": {
+        "scryfall_id": "473d3633-6dc7-4026-a50e-3ea76b9e8c20",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1593275370",
+        "card_name": "Boreal Druid",
+        "set_name": "Coldsnap",
+        "rarity": "Common",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/473d3633-6dc7-4026-a50e-3ea76b9e8c20/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 79940,
+      "item_details": {
+        "scryfall_id": "f656c45c-60f8-4588-9f18-67e7a5e2ae05",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/6/f656c45c-60f8-4588-9f18-67e7a5e2ae05.jpg?1583453712",
+        "card_name": "Boreal Druid",
+        "set_name": "Mystery Booster Retail Edition Foils",
+        "rarity": "Common",
+        "display_price": "Starting at: $4.50",
+        "detail_url": "/game-item/f656c45c-60f8-4588-9f18-67e7a5e2ae05/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 17738,
+      "item_details": {
+        "scryfall_id": "36638e20-0a1d-4ea3-936c-2ea74add868a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/6/36638e20-0a1d-4ea3-936c-2ea74add868a.jpg?1593274711",
+        "card_name": "Boreal Griffin",
+        "set_name": "Coldsnap",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/36638e20-0a1d-4ea3-936c-2ea74add868a/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 22478,
+      "item_details": {
+        "scryfall_id": "455ae615-20d7-4251-828d-72a3345d06f1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/5/455ae615-20d7-4251-828d-72a3345d06f1.jpg?1631050034",
+        "card_name": "Boreal Outrider",
+        "set_name": "Kaldheim",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/455ae615-20d7-4251-828d-72a3345d06f1/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 20490,
+      "item_details": {
+        "scryfall_id": "3f2f8396-72ab-4387-9276-987836427107",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/f/3f2f8396-72ab-4387-9276-987836427107.jpg?1593860370",
+        "card_name": "Boreal Shelf",
+        "set_name": "Coldsnap",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/3f2f8396-72ab-4387-9276-987836427107/"
+      },
+      "available_units": 16
+    },
+    {
+      "id": 30141,
+      "item_details": {
+        "scryfall_id": "5cd3b85b-7d8d-402e-829a-6080fd4eb7a1",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/c/5cd3b85b-7d8d-402e-829a-6080fd4eb7a1.jpg?1592710029",
+        "card_name": "Boreas Charger",
+        "set_name": "Commander 2018",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/5cd3b85b-7d8d-402e-829a-6080fd4eb7a1/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 82997,
+      "item_details": {
+        "scryfall_id": "ffdfad1f-d316-4023-9c79-8c24f1cd31d0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/f/ffdfad1f-d316-4023-9c79-8c24f1cd31d0.jpg?1654566182",
+        "card_name": "Born to Drive",
+        "set_name": "Kamigawa: Neon Dynasty",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/ffdfad1f-d316-4023-9c79-8c24f1cd31d0/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 166879,
+      "item_details": {
+        "scryfall_id": "f6bc3720-2892-4dda-8f30-079a1ac8e1e2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1686967669",
+        "card_name": "Boromir, Warden of the Tower",
+        "set_name": "The Lord of the Rings: Tales of Middle-earth",
+        "rarity": "Rare",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/f6bc3720-2892-4dda-8f30-079a1ac8e1e2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 199344,
+      "item_details": {
+        "scryfall_id": "e186ef93-f369-4b4d-a683-36f338b6ce3f",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/1/e186ef93-f369-4b4d-a683-36f338b6ce3f.jpg?1686970878",
+        "card_name": "Boromir, Warden of the Tower",
+        "set_name": "The Lord of the Rings: Tales of Middle-earth",
+        "rarity": "Rare",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/e186ef93-f369-4b4d-a683-36f338b6ce3f/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 35105,
+      "item_details": {
+        "scryfall_id": "6c43e449-acf2-4e94-b7cf-8c84d70191da",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/c/6c43e449-acf2-4e94-b7cf-8c84d70191da.jpg?1562915094",
+        "card_name": "Boros Battleshaper",
+        "set_name": "Dragon's Maze",
+        "rarity": "Rare",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/6c43e449-acf2-4e94-b7cf-8c84d70191da/"
+      },
+      "available_units": 40
+    },
+    {
+      "id": 27303,
+      "item_details": {
+        "scryfall_id": "545f3a30-7984-4046-8a14-51bc9cbc3fe0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/5/4/545f3a30-7984-4046-8a14-51bc9cbc3fe0.jpg?1572893525",
+        "card_name": "Boros Challenger",
+        "set_name": "Guilds of Ravnica",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/545f3a30-7984-4046-8a14-51bc9cbc3fe0/"
+      },
+      "available_units": 10
+    },
+    {
+      "id": 67693,
+      "item_details": {
+        "scryfall_id": "d04c0902-7882-46c2-b228-0aa6c63b6684",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/0/d04c0902-7882-46c2-b228-0aa6c63b6684.jpg?1682719438",
+        "card_name": "Boros Challenger",
+        "set_name": "Guilds of Ravnica Promos",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/d04c0902-7882-46c2-b228-0aa6c63b6684/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 69161,
+      "item_details": {
+        "scryfall_id": "d4ddf9cc-40a7-4b4f-bb51-b08171453c9a",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/4/d4ddf9cc-40a7-4b4f-bb51-b08171453c9a.jpg?1561848093",
+        "card_name": "Boros Charm",
+        "set_name": "Gatecrash",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/d4ddf9cc-40a7-4b4f-bb51-b08171453c9a/"
+      },
+      "available_units": 9
+    },
+    {
+      "id": 54161,
+      "item_details": {
+        "scryfall_id": "a6e601a7-c542-4843-98c6-e0a38aaf6cab",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/6/a6e601a7-c542-4843-98c6-e0a38aaf6cab.jpg?1562439515",
+        "card_name": "Boros Charm",
+        "set_name": "Masters 25",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $2.50",
+        "detail_url": "/game-item/a6e601a7-c542-4843-98c6-e0a38aaf6cab/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 72711,
+      "item_details": {
+        "scryfall_id": "dfa38f6a-177a-4f3a-9a05-325c715a94c5",
+        "large_pic_url": "https://cards.scryfall.io/large/front/d/f/dfa38f6a-177a-4f3a-9a05-325c715a94c5.jpg?1562422740",
+        "card_name": "Boros Charm",
+        "set_name": "Commander 2016",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $5.00",
+        "detail_url": "/game-item/dfa38f6a-177a-4f3a-9a05-325c715a94c5/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 13987,
+      "item_details": {
+        "scryfall_id": "2afdb457-a7e2-4e37-832a-dffefdb973e0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/a/2afdb457-a7e2-4e37-832a-dffefdb973e0.jpg?1562904106",
+        "card_name": "Boros Charm",
+        "set_name": "Commander 2013",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $3.00",
+        "detail_url": "/game-item/2afdb457-a7e2-4e37-832a-dffefdb973e0/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 6939,
+      "item_details": {
+        "scryfall_id": "152458a4-bd3c-43d2-b74a-d2d5341325ba",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/5/152458a4-bd3c-43d2-b74a-d2d5341325ba.jpg?1675905753",
+        "card_name": "Boros Charm",
+        "set_name": "Phyrexia: All Will Be One Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $6.00",
+        "detail_url": "/game-item/152458a4-bd3c-43d2-b74a-d2d5341325ba/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 11337,
+      "item_details": {
+        "scryfall_id": "22dc1c3a-0110-4925-a745-e51b20553027",
+        "large_pic_url": "https://cards.scryfall.io/large/front/2/2/22dc1c3a-0110-4925-a745-e51b20553027.jpg?1625977428",
+        "card_name": "Boros Charm",
+        "set_name": "Commander 2021",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $6.00",
+        "detail_url": "/game-item/22dc1c3a-0110-4925-a745-e51b20553027/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 24931,
+      "item_details": {
+        "scryfall_id": "4cf1419c-11fa-46a1-89e0-11b14ec40fa7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/c/4cf1419c-11fa-46a1-89e0-11b14ec40fa7.jpg?1541002784",
+        "card_name": "Boros Charm",
+        "set_name": "GRN Guild Kit",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $4.00",
+        "detail_url": "/game-item/4cf1419c-11fa-46a1-89e0-11b14ec40fa7/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 15758,
+      "item_details": {
+        "scryfall_id": "3084f7ac-6b9b-48ad-b39c-3d7b7fb79422",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/0/3084f7ac-6b9b-48ad-b39c-3d7b7fb79422.jpg?1562273335",
+        "card_name": "Boros Cluestone",
+        "set_name": "Commander Anthology Volume II",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/3084f7ac-6b9b-48ad-b39c-3d7b7fb79422/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 43687,
+      "item_details": {
+        "scryfall_id": "87252577-3e7b-4ea2-b0ac-3ba3f0eaac40",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/7/87252577-3e7b-4ea2-b0ac-3ba3f0eaac40.jpg?1562920042",
+        "card_name": "Boros Cluestone",
+        "set_name": "Dragon's Maze",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/87252577-3e7b-4ea2-b0ac-3ba3f0eaac40/"
+      },
+      "available_units": 16
+    },
+    {
+      "id": 51981,
+      "item_details": {
+        "scryfall_id": "a03974e6-aced-4664-8c5c-3190bb1eb233",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/0/a03974e6-aced-4664-8c5c-3190bb1eb233.jpg?1561839470",
+        "card_name": "Boros Elite",
+        "set_name": "Gatecrash",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a03974e6-aced-4664-8c5c-3190bb1eb233/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 201644,
+      "item_details": {
+        "scryfall_id": "c39f6916-e89d-4185-84b9-c6c02e348ad8",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/3/c39f6916-e89d-4185-84b9-c6c02e348ad8.jpg?1702717409",
+        "card_name": "Boros Elite",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c39f6916-e89d-4185-84b9-c6c02e348ad8/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 211269,
+      "item_details": {
+        "scryfall_id": "8a7ab714-179a-4d37-ac88-6bd57f24d5a2",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/a/8a7ab714-179a-4d37-ac88-6bd57f24d5a2.jpg?1723436703",
+        "card_name": "Boros Elite",
+        "set_name": "The List",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8a7ab714-179a-4d37-ac88-6bd57f24d5a2/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 63741,
+      "item_details": {
+        "scryfall_id": "c46b2f5c-3c7a-4421-9d6f-81197e93d8d0",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/4/c46b2f5c-3c7a-4421-9d6f-81197e93d8d0.jpg?1598913470",
+        "card_name": "Boros Fury-Shield",
+        "set_name": "Ravnica: City of Guilds",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c46b2f5c-3c7a-4421-9d6f-81197e93d8d0/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 63737,
+      "item_details": {
+        "scryfall_id": "c468dd1c-6f0a-4679-9d33-17e17db8841d",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/4/c468dd1c-6f0a-4679-9d33-17e17db8841d.jpg?1562936530",
+        "card_name": "Boros Garrison",
+        "set_name": "Commander 2013",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c468dd1c-6f0a-4679-9d33-17e17db8841d/"
+      },
+      "available_units": 13
+    },
+    {
+      "id": 63113,
+      "item_details": {
+        "scryfall_id": "c26abe8c-4f06-448d-9e0e-8214592cb885",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/2/c26abe8c-4f06-448d-9e0e-8214592cb885.jpg?1673149468",
+        "card_name": "Boros Garrison",
+        "set_name": "Double Masters 2022",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c26abe8c-4f06-448d-9e0e-8214592cb885/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 66118,
+      "item_details": {
+        "scryfall_id": "cb8914b9-7339-48dd-9fa1-0a7bccefc872",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/b/cb8914b9-7339-48dd-9fa1-0a7bccefc872.jpg?1562623754",
+        "card_name": "Boros Garrison",
+        "set_name": "Commander 2017",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/cb8914b9-7339-48dd-9fa1-0a7bccefc872/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 56590,
+      "item_details": {
+        "scryfall_id": "ae4966ae-3d40-4227-bd4b-54a6c67230b6",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/e/ae4966ae-3d40-4227-bd4b-54a6c67230b6.jpg?1562275517",
+        "card_name": "Boros Garrison",
+        "set_name": "Commander Anthology Volume II",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/ae4966ae-3d40-4227-bd4b-54a6c67230b6/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 53437,
+      "item_details": {
+        "scryfall_id": "a4a3a23c-544d-4ed4-90ad-dbf04f676af3",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/4/a4a3a23c-544d-4ed4-90ad-dbf04f676af3.jpg?1568005050",
+        "card_name": "Boros Garrison",
+        "set_name": "Commander 2019",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a4a3a23c-544d-4ed4-90ad-dbf04f676af3/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 42903,
+      "item_details": {
+        "scryfall_id": "84c32ed7-9bcb-41f4-b39e-9b21b295ac35",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/4/84c32ed7-9bcb-41f4-b39e-9b21b295ac35.jpg?1675905805",
+        "card_name": "Boros Garrison",
+        "set_name": "Phyrexia: All Will Be One Commander",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/84c32ed7-9bcb-41f4-b39e-9b21b295ac35/"
+      },
+      "available_units": 2
+    },
+    {
+      "id": 46124,
+      "item_details": {
+        "scryfall_id": "8e6a7b29-d028-41d0-badc-49b514972cfe",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/e/8e6a7b29-d028-41d0-badc-49b514972cfe.jpg?1562409712",
+        "card_name": "Boros Garrison",
+        "set_name": "Commander 2016",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/8e6a7b29-d028-41d0-badc-49b514972cfe/"
+      },
+      "available_units": 4
+    },
+    {
+      "id": 45814,
+      "item_details": {
+        "scryfall_id": "8d7771f1-4311-46ae-afee-c9ac8ff7310e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/8/d/8d7771f1-4311-46ae-afee-c9ac8ff7310e.jpg?1592673772",
+        "card_name": "Boros Garrison",
+        "set_name": "Commander Anthology",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/8d7771f1-4311-46ae-afee-c9ac8ff7310e/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 36899,
+      "item_details": {
+        "scryfall_id": "71cdfa12-e933-4c64-b7d5-c856a6a054ff",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/1/71cdfa12-e933-4c64-b7d5-c856a6a054ff.jpg?1674097617",
+        "card_name": "Boros Garrison",
+        "set_name": "Double Masters 2022",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $1.50",
+        "detail_url": "/game-item/71cdfa12-e933-4c64-b7d5-c856a6a054ff/"
+      },
+      "available_units": 6
+    },
+    {
+      "id": 41323,
+      "item_details": {
+        "scryfall_id": "7fbc73e9-a17f-475c-8a23-f9673e1930ae",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/f/7fbc73e9-a17f-475c-8a23-f9673e1930ae.jpg?1591321835",
+        "card_name": "Boros Garrison",
+        "set_name": "Commander 2020",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7fbc73e9-a17f-475c-8a23-f9673e1930ae/"
+      },
+      "available_units": 16
+    },
+    {
+      "id": 40729,
+      "item_details": {
+        "scryfall_id": "7dfe3f03-078f-44fb-89cd-efa3ebfaf637",
+        "large_pic_url": "https://cards.scryfall.io/large/front/7/d/7dfe3f03-078f-44fb-89cd-efa3ebfaf637.jpg?1598918306",
+        "card_name": "Boros Garrison",
+        "set_name": "Ravnica: City of Guilds",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/7dfe3f03-078f-44fb-89cd-efa3ebfaf637/"
+      },
+      "available_units": 14
+    },
+    {
+      "id": 24784,
+      "item_details": {
+        "scryfall_id": "4c7a4cfa-e306-4024-8ece-8bf2c1d0cce8",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/c/4c7a4cfa-e306-4024-8ece-8bf2c1d0cce8.jpg?1562848859",
+        "card_name": "Boros Garrison",
+        "set_name": "Iconic Masters",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/4c7a4cfa-e306-4024-8ece-8bf2c1d0cce8/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 18156,
+      "item_details": {
+        "scryfall_id": "37b72bee-351a-4c06-9d42-cc2ae1241b45",
+        "large_pic_url": "https://cards.scryfall.io/large/front/3/7/37b72bee-351a-4c06-9d42-cc2ae1241b45.jpg?1562273414",
+        "card_name": "Boros Guildgate",
+        "set_name": "Commander Anthology Volume II",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.50",
+        "detail_url": "/game-item/37b72bee-351a-4c06-9d42-cc2ae1241b45/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 31937,
+      "item_details": {
+        "scryfall_id": "62512962-8d98-4e18-a910-39abd72229ce",
+        "large_pic_url": "https://cards.scryfall.io/large/front/6/2/62512962-8d98-4e18-a910-39abd72229ce.jpg?1604195967",
+        "card_name": "Boros Guildgate",
+        "set_name": "Zendikar Rising Commander",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/62512962-8d98-4e18-a910-39abd72229ce/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 66716,
+      "item_details": {
+        "scryfall_id": "cd5bfeb1-22d5-434c-b379-6914aa007bdd",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/d/cd5bfeb1-22d5-434c-b379-6914aa007bdd.jpg?1562938394",
+        "card_name": "Boros Guildgate",
+        "set_name": "Commander 2013",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/cd5bfeb1-22d5-434c-b379-6914aa007bdd/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 201645,
+      "item_details": {
+        "scryfall_id": "1c8a60d9-1a6f-4bff-ae9e-da6e18a7eb89",
+        "large_pic_url": "https://cards.scryfall.io/large/front/1/c/1c8a60d9-1a6f-4bff-ae9e-da6e18a7eb89.jpg?1702429800",
+        "card_name": "Boros Guildgate",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/1c8a60d9-1a6f-4bff-ae9e-da6e18a7eb89/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 75800,
+      "item_details": {
+        "scryfall_id": "e94cc167-a6da-4404-88aa-61eee8b4b9e8",
+        "large_pic_url": "https://cards.scryfall.io/large/front/e/9/e94cc167-a6da-4404-88aa-61eee8b4b9e8.jpg?1562938669",
+        "card_name": "Boros Guildgate",
+        "set_name": "Dragon's Maze",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/e94cc167-a6da-4404-88aa-61eee8b4b9e8/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 52112,
+      "item_details": {
+        "scryfall_id": "a0b447a8-524b-4bda-b975-7e194fd741fb",
+        "large_pic_url": "https://cards.scryfall.io/large/front/a/0/a0b447a8-524b-4bda-b975-7e194fd741fb.jpg?1561839494",
+        "card_name": "Boros Guildgate",
+        "set_name": "Gatecrash",
+        "rarity": "Common",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/a0b447a8-524b-4bda-b975-7e194fd741fb/"
+      },
+      "available_units": 8
+    },
+    {
+      "id": 21121,
+      "item_details": {
+        "scryfall_id": "412cecdc-d6aa-4bda-947f-5c959cb76f41",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/1/412cecdc-d6aa-4bda-947f-5c959cb76f41.jpg?1592673503",
+        "card_name": "Boros Guildmage",
+        "set_name": "Commander Anthology",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/412cecdc-d6aa-4bda-947f-5c959cb76f41/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 201646,
+      "item_details": {
+        "scryfall_id": "4355130c-bfaa-4799-9d70-dbfd32e39f7e",
+        "large_pic_url": "https://cards.scryfall.io/large/front/4/3/4355130c-bfaa-4799-9d70-dbfd32e39f7e.jpg?1702429605",
+        "card_name": "Boros Guildmage",
+        "set_name": "Ravnica Remastered",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/4355130c-bfaa-4799-9d70-dbfd32e39f7e/"
+      },
+      "available_units": 1
+    },
+    {
+      "id": 2400,
+      "item_details": {
+        "scryfall_id": "072a1ff1-9c50-426a-a83c-817bde5beab7",
+        "large_pic_url": "https://cards.scryfall.io/large/front/0/7/072a1ff1-9c50-426a-a83c-817bde5beab7.jpg?1598917673",
+        "card_name": "Boros Guildmage",
+        "set_name": "Ravnica: City of Guilds",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/072a1ff1-9c50-426a-a83c-817bde5beab7/"
+      },
+      "available_units": 3
+    },
+    {
+      "id": 63843,
+      "item_details": {
+        "scryfall_id": "c4b65847-fee2-4e00-b598-7363059ec3ff",
+        "large_pic_url": "https://cards.scryfall.io/large/front/c/4/c4b65847-fee2-4e00-b598-7363059ec3ff.jpg?1561845015",
+        "card_name": "Boros Keyrune",
+        "set_name": "Gatecrash",
+        "rarity": "Uncommon",
+        "display_price": "Starting at: $0.25",
+        "detail_url": "/game-item/c4b65847-fee2-4e00-b598-7363059ec3ff/"
+      },
+      "available_units": 3
+    }
+  ],
+  "has_next": true,
+  "has_previous": true,
+  "next_page_number": 72,
+  "previous_page_number": 70,
+  "num_pages": 752,
+  "page_number": 71
+}
