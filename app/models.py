@@ -1,92 +1,88 @@
+from datetime import datetime
+import uuid
 from sqlalchemy import (
-    JSON,
     Column,
     Integer,
     String,
     Text,
     Float,
     Boolean,
-    ForeignKey,
     DateTime,
+    ForeignKey,
+    ARRAY,
 )
-from sqlalchemy.dialects.postgresql import UUID as PG_UUID, ARRAY
-from uuid import UUID  # Python's UUID
-from sqlalchemy.orm import relationship, Mapped, mapped_column
-from datetime import datetime
-from app.db import Base
+from sqlalchemy.dialects.postgresql import UUID as PG_UUID
+from sqlalchemy.orm import relationship, declarative_base
 
-
-class Card(Base):
-    __tablename__ = "cards"
-
-    id: Mapped[int] = mapped_column(primary_key=True)
-    scryfall_id: Mapped[UUID] = mapped_column(
-        PG_UUID(as_uuid=True), unique=True, nullable=False
-    )
-    name: Mapped[str] = mapped_column(Text, nullable=False)
-    set_name: Mapped[str] = mapped_column(Text, nullable=False)
-    image_url: Mapped[str] = mapped_column(Text, nullable=True)
-
-    # Scryfall enrichment
-    mana_cost: Mapped[str] = mapped_column(Text, nullable=True)
-    mana_value: Mapped[int] = mapped_column(nullable=True)
-    types: Mapped[list[str]] = mapped_column(ARRAY(Text), default=[])
-    power: Mapped[str] = mapped_column(nullable=True)
-    toughness: Mapped[str] = mapped_column(nullable=True)
-    legality: Mapped[list[str]] = mapped_column(ARRAY(Text), default=[])
-
-    # Relationships
-    listings: Mapped[list["Listing"]] = relationship(
-        "Listing", back_populates="card", cascade="all, delete-orphan"
-    )
+Base = declarative_base()
 
 
 class Seller(Base):
     __tablename__ = "sellers"
 
-    id: Mapped[int] = mapped_column(primary_key=True)
-    name: Mapped[str] = mapped_column(Text, unique=True, nullable=False)
-    store_url: Mapped[str] = mapped_column(Text, nullable=False)
+    id = Column(Integer, primary_key=True)
+    name = Column(Text, nullable=False, unique=True)
+    store_url = Column(Text, nullable=False)
 
-    # Relationships
-    listings: Mapped[list["Listing"]] = relationship(
+    # A seller can have many listings.
+    listings = relationship(
         "Listing", back_populates="seller", cascade="all, delete-orphan"
     )
+
+    def __repr__(self):
+        return f"<Seller(name={self.name}, store_url={self.store_url})>"
+
+
+class Card(Base):
+    __tablename__ = "cards"
+
+    id = Column(Integer, primary_key=True)
+    scryfall_id = Column(
+        PG_UUID(as_uuid=True), nullable=False, unique=True, default=uuid.uuid4
+    )
+    name = Column(Text, nullable=False)
+    set_name = Column(Text, nullable=False)
+    image_url = Column(Text, nullable=True)
+    mana_cost = Column(Text, nullable=True)
+    mana_value = Column(Integer, nullable=True)
+    types = Column(
+        ARRAY(String), nullable=False, default=[]
+    )  # List of card types, e.g. ["Creature", "Legendary"]
+    power = Column(Text, nullable=True)
+    toughness = Column(Text, nullable=True)
+
+    # A card can be listed by multiple sellers.
+    listings = relationship(
+        "Listing", back_populates="card", cascade="all, delete-orphan"
+    )
+
+    def __repr__(self):
+        return f"<Card(name={self.name}, set_name={self.set_name})>"
 
 
 class Listing(Base):
     __tablename__ = "listings"
 
-    id: Mapped[int] = mapped_column(primary_key=True)
-    bdv_listing_id: Mapped[int] = mapped_column(unique=True, nullable=False)
-
-    seller_id: Mapped[int] = mapped_column(ForeignKey("sellers.id", ondelete="CASCADE"))
-    card_id: Mapped[int] = mapped_column(ForeignKey("cards.id", ondelete="CASCADE"))
-
-    price: Mapped[float] = mapped_column(nullable=False)
-    quantity: Mapped[int] = mapped_column(nullable=False)
-    condition: Mapped[str] = mapped_column(Text, nullable=False)
-    foil: Mapped[bool] = mapped_column(default=False)
-    language: Mapped[str] = mapped_column(Text, nullable=False)
-
-    last_seen: Mapped[datetime] = mapped_column(default=datetime.utcnow)
-
-    # Relationships
-    seller: Mapped["Seller"] = relationship("Seller", back_populates="listings")
-    card: Mapped["Card"] = relationship("Card", back_populates="listings")
-
-
-class ScryfallCard(Base):
-    __tablename__ = "scryfall_cards"
-
     id = Column(Integer, primary_key=True)
-    scryfall_id = Column(String, unique=True, nullable=False)
-    name = Column(String, nullable=False)
-    set_name = Column(String, nullable=False)
-    image_url = Column(String, nullable=True)
-    mana_cost = Column(String, nullable=True)
-    mana_value = Column(Integer, nullable=True)
-    types = Column(JSON, default=[])
-    power = Column(String, nullable=True)
-    toughness = Column(String, nullable=True)
-    legality = Column(JSON, default=[])
+    bdv_listing_id = Column(Integer, nullable=False, unique=True)
+
+    seller_id = Column(
+        Integer, ForeignKey("sellers.id", ondelete="CASCADE"), nullable=False
+    )
+    card_id = Column(
+        Integer, ForeignKey("cards.id", ondelete="CASCADE"), nullable=False
+    )
+
+    price = Column(Float, nullable=False)
+    quantity = Column(Integer, nullable=False)
+    condition = Column(Text, nullable=False)
+    foil = Column(Boolean, default=False)
+    language = Column(Text, nullable=False)
+    last_seen = Column(DateTime, default=datetime.utcnow)
+
+    # Relationships: each listing is associated with one seller and one card.
+    seller = relationship("Seller", back_populates="listings")
+    card = relationship("Card", back_populates="listings")
+
+    def __repr__(self):
+        return f"<Listing(seller_id={self.seller_id}, card_id={self.card_id}, price={self.price})>"

@@ -40,5 +40,4 @@ coverage.xml
 
 # Alembic config
 alembic.ini
-
 migrations/
